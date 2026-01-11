@@ -1,6 +1,5 @@
 _UndergroundPathRoute7MiddleAgedManText::
-	text "Ein verschlafenes"
-	line "#MON ist in"
-	cont "PRISMANIA CITY"
-	cont "aufgetaucht!"
+	text "I heard a sleepy"
+	line "#MON appeared"
+	cont "near CELADON CITY."
 	done

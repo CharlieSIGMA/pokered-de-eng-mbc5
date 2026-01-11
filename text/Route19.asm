@@ -1,185 +1,157 @@
 _Route19CooltrainerM1BattleText::
-	text "Vor dem Schwimmen"
-	line "muß ich mich noch"
-	cont "aufwärmen!"
+	text "Have to warm up"
+	line "before my swim!"
 	done
 
 _Route19CooltrainerM1EndBattleText::
-	text ""
-	line "Wunderbar, jetzt"
-	cont "ist mir warm!"
+	text "All"
+	line "warmed up!"
 	prompt
 
 _Route19CooltrainerM1AfterBattleText::
-	text "Danke, Kleiner!"
-	line "Jetzt kann ich"
-	cont "schwimmen gehen!"
+	text "Thanks, kid! I'm"
+	line "ready for a swim!"
 	done
 
 _Route19CooltrainerM2BattleText::
-	text "Warte! Sonst"
-	line "bekommst Du einen"
-	cont "Herzinfarkt!"
+	text "Wait! You'll have"
+	line "a heart attack!"
 	done
 
 _Route19CooltrainerM2EndBattleText::
-	text "Wuah!"
-	line "Mich fröstel",$B3,"'s!"
+	text "Ooh!"
+	line "That's chilly!"
 	prompt
 
 _Route19CooltrainerM2AfterBattleText::
-	text "Nimm Dich vor"
-	line "TENTACHA in acht!"
+	text "Watch out for"
+	line "TENTACOOL!"
 	done
 
 _Route19Swimmer1BattleText::
-	text "Ich gehe gerne"
-	line "schwimmen!"
-	cont "Du auch?"
+	text "I love swimming!"
+	line "What about you?"
 	done
 
 _Route19Swimmer1EndBattleText::
-	text ""
-	line "Mann, war das ein"
-	cont "Bauchplatscher!"
+	text "Belly"
+	line "flop!"
 	prompt
 
 _Route19Swimmer1AfterBattleText::
-	text "Ich kann #MON"
-	line "besiegen, während"
-	cont "ich schwimme!"
+	text "I can beat #MON"
+	line "at swimming!"
 	done
 
 _Route19Swimmer2BattleText::
-	text "Was mag sich"
-	line "hinter dem"
-	cont "Horizont "
-	cont "verbergen?"
+	text "What's beyond the"
+	line "horizon?"
 	done
 
 _Route19Swimmer2EndBattleText::
-	text ""
-	line "Blubber! Gluck!"
+	text "Glub!"
 	prompt
 
 _Route19Swimmer2AfterBattleText::
-	text "Ich sehe eine"
-	line "Inselgruppe!"
+	text "I see a couple of"
+	line "islands!"
 	done
 
 _Route19Swimmer3BattleText::
-	text "Ich wollte nach"
-	line "#MON tauchen,"
-	cont "doch das war"
-	cont "keine gute Idee!"
+	text "I tried diving"
+	line "for #MON, but"
+	cont "it was a no go!"
 	done
 
 _Route19Swimmer3EndBattleText::
-	text "Hilfe!"
+	text "Help!"
 	prompt
 
 _Route19Swimmer3AfterBattleText::
-	text "Nach"
-	line "WASSER-#MON"
-	cont "sollte man lieber"
-	cont "angeln!"
+	text "You have to fish"
+	line "for sea #MON!"
 	done
 
 _Route19Swimmer4BattleText::
-	text "Ich schaue auf"
-	line "das Meer, um zu"
-	cont "vergessen!"
+	text "I look at the"
+	line "sea to forget!"
 	done
 
 _Route19Swimmer4EndBattleText::
-	text "Nein!"
-	line "Ein traumatisches"
-	cont "Erlebnis!"
+	text "Ooh!"
+	line "Traumatic!"
 	prompt
 
 _Route19Swimmer4AfterBattleText::
-	text "Ich schaue auf"
-	line "das Meer, um zu"
-	cont "vergessen!"
+	text "I'm looking at the"
+	line "sea to forget!"
 	done
 
 _Route19Swimmer5BattleText::
-	text "Gibst Du mir das"
-	line "#MON, auf"
-	cont "dem Du stehst,"
-	cont "wenn ich gewinne?"
+	text "Oh, I just love"
+	line "your ride! Can I"
+	cont "have it if I win?"
 	done
 
 _Route19Swimmer5EndBattleText::
-	text "Oh! Ich"
-	line "habe verloren!"
+	text "Oh!"
+	line "I lost!"
 	prompt
 
 _Route19Swimmer5AfterBattleText::
-	text "Bis zu den"
-	line "SEESCHAUMINSELN"
-	cont "ist es noch ein"
-	cont "weiter Weg!"
+	text "It's still a long"
+	line "way to go to"
+	cont "SEAFOAM ISLANDS."
 	done
 
 _Route19Swimmer6BattleText::
-	text "Schwimmen macht"
-	line "Spaß, aber man"
-	cont "holt sich schnell"
-	cont "einen Sonnenbrand!"
+	text "Swimming's great!"
+	line "Sunburns aren't!"
 	done
 
 _Route19Swimmer6EndBattleText::
-	text "Du"
-	line "bist ein ganz"
-	cont "schlimmer Finger!"
+	text "Shocker!"
 	prompt
 
 _Route19Swimmer6AfterBattleText::
-	text "Mein Freund"
-	line "wollte zu den"
-	cont "SEESCHAUMINSELN"
-	cont "schwimmen."
+	text "My boy friend"
+	line "wanted to swim to"
+	cont "SEAFOAM ISLANDS."
 	done
 
 _Route19Swimmer7BattleText::
-	text "Diese Gewässer"
-	line "sind trügerisch!"
+	text "These waters are"
+	line "treacherous!"
 	done
 
 _Route19Swimmer7EndBattleText::
-	text "Das"
-	line "war gefährlich!"
+	text "Ooh!"
+	line "Dangerous!"
 	prompt
 
 _Route19Swimmer7AfterBattleText::
-	text "Ich habe einen"
-	line "Krampf!"
-	cont "Blubber, gluck..."
+	text "I got a cramp!"
+	line "Glub, glub..."
 	done
 
 _Route19Swimmer8BattleText::
-	text "Ich bin hierher"
-	line "geschwommen und"
-	cont "nun bin ich müde!"
+	text "I swam here, but"
+	line "I'm tired."
 	done
 
 _Route19Swimmer8EndBattleText::
-	text ""
-	line "Ich bin am Ende"
-	cont "meiner Kraft..."
+	text "I'm"
+	line "exhausted..."
 	prompt
 
 _Route19Swimmer8AfterBattleText::
-	text "LAPRAS ist so"
-	line "groß, daß es Dich"
-	cont "trockenen Fußes"
-	cont "über das Wasser"
-	cont "tragen kann!"
+	text "LAPRAS is so big,"
+	line "it must keep you"
+	cont "dry on water."
 	done
 
 _Route19SignText::
-	text "SEE-ROUTE 19"
-	line "FUCHSANIA CITY -"
-	cont "SEESCHAUMINSELN"
+	text "SEA ROUTE 19"
+	line "FUCHSIA CITY -"
+	cont "SEAFOAM ISLANDS"
 	done

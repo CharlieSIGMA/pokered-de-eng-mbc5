@@ -1,34 +1,30 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "Ich gebe Dir noch"
-	line "einen Tip, Junge!"
+	text "A little word of"
+	line "advice, kid!"
 
-	para "Die Elektrizität"
-	line "ist enorm"
-	cont "kraftvoll!"
+	para "Electricity is"
+	line "sure powerful!"
 
-	para "Doch sie hat"
-	line "keine Wirkung auf"
-	cont "BODEN-#MON!"
+	para "But, it's useless"
+	line "against ground-"
+	cont "type #MON!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
-	text "Der DONNERORDEN"
-	line "erhöht die"
-	cont "INITIATIVE Deiner"
-	cont "#MON!"
+	text "The THUNDERBADGE"
+	line "cranks up your"
+	cont "#MON's SPEED!"
 
-	para "Außerdem können"
-	line "Deine #MON nun"
-	cont "jederzeit FLIEGEN"
-	cont "einsetzen!"
+	para "It also lets your"
+	line "#MON FLY any"
+	cont "time, kid!"
 
-	para "Du bist ein"
-	line "besonderer Junge!"
-	cont "Nimm das hier!"
+	para "You're special,"
+	line "kid! Take this!"
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received "
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -37,125 +33,113 @@ _VermilionGymLTSurgeReceivedTM24Text::
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 ist"
-	line "DONNERBLITZ!"
+	para "TM24 contains"
+	line "THUNDERBOLT!"
 
-	para "ELEKTRO-#MON"
-	line "können diese"
-	cont "Attacke erlernen!"
+	para "Teach it to an"
+	line "electric #MON!"
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "Dein Rucksack"
-	line "ist voll!"
+	text "Yo kid, make room"
+	line "in your pack!"
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
-	text "Wow!"
+	text "Whoa!"
 
-	para "Du weißt, wie man"
-	line "kämpft, Kleiner!"
+	para "You're the real"
+	line "deal, kid!"
 
-	para "Als Auszeichnung"
-	line "verleihe ich Dir"
-	cont "den DONNERORDEN!"
+	para "Fine then, take"
+	line "the THUNDERBADGE!"
 	prompt
 
 _VermilionGymGentlemanBattleText::
-	text "MAJOR BOB war"
-	line "mein Ausbilder!"
+	text "When I was in the"
+	line "Army, LT.SURGE"
+	cont "was my strict CO!"
 	done
 
 _VermilionGymGentlemanEndBattleText::
 	text "Stop!"
-	line "Du bist zu gut!"
+	line "You're very good!"
 	prompt
 
 _VermilionGymGentlemanAfterBattleText::
-	text "Die Tür öffnet"
-	line "sich nicht?"
+	text "The door won't"
+	line "open?"
 
-	para "MAJOR BOB war"
-	line "immer sehr"
-	cont "vorsichtig!"
+	para "LT.SURGE always"
+	line "was cautious!"
 	done
 
 _VermilionGymSuperNerdBattleText::
-	text "Ich bin ein"
-	line "Fliegengewicht,"
-	cont "aber im Umgang"
-	cont "mit Elektrizität"
-	cont "bin ich Profi!"
+	text "I'm a lightweight,"
+	line "but I'm good with"
+	cont "electricity!"
 	done
 
 _VermilionGymSuperNerdEndBattleText::
-	text "Ein"
-	line "Kurzschluß!"
+	text "Fried!"
 	prompt
 
 _VermilionGymSuperNerdAfterBattleText::
-	text "OK, ich rede!"
+	text "OK, I'll talk!"
 
-	para "MAJOR BOB hat"
-	line "hier irgendwo"
-	cont "Schalter"
-	cont "versteckt!"
+	para "LT.SURGE said he"
+	line "hid door switches"
+	cont "inside something!"
 	done
 
 _VermilionGymSailorBattleText::
-	text "Das hier ist"
-	line "kein Spielplatz!"
+	text "This is no place"
+	line "for kids!"
 	done
 
 _VermilionGymSailorEndBattleText::
 	text "Wow!"
-	line "Du hast mich"
-	cont "überrascht!"
+	line "Surprised me!"
 	prompt
 
 _VermilionGymSailorAfterBattleText::
-	text "MAJOR BOB hat"
-	line "die Tür doppelt"
-	cont "abgesichert!"
+	text "LT.SURGE set up"
+	line "double locks!"
+	cont "Here's a hint!"
 
-	para "Ein Tip? Der"
-	line "zweite Schalter"
-	cont "befindet sich"
-	cont "direkt neben dem"
-	cont "ersten!"
+	para "When you open the"
+	line "1st lock, the 2nd"
+	cont "lock is right"
+	cont "next to it!"
 	done
 
 _VermilionGymGymGuideChampInMakingText::
-	text "Hey! Warte, Du"
-	line "Champion in spe!"
+	text "Yo! Champ in"
+	line "making!"
 
-	para "MAJOR BOB hat"
-	line "einen Spitznamen."
-	cont "Man nennt ihn den"
-	cont "BLITZSCHNELLEN"
-	cont "ARENALEITER!"
+	para "LT.SURGE has a"
+	line "nickname. People"
+	cont "refer to him as"
+	cont "the Lightning"
+	cont "American!"
 
-	para "Er ist ein"
-	line "Experte für"
-	cont "ELEKTRO-#MON!"
+	para "He's an expert on"
+	line "electric #MON!"
 
-	para "VOGEL- und"
-	line "WASSER-#MON"
-	cont "sind ihm hilflos"
-	cont "ausgeliefert! Er"
-	cont "nutzt auch gern"
-	cont "PARALYSE!"
+	para "Birds and water"
+	line "#MON are at"
+	cont "risk! Beware of"
+	cont "paralysis too!"
 
-	para "MAJOR BOB ist"
-	line "sehr vorsichtig!"
+	para "LT.SURGE is very"
+	line "cautious!"
 
-	para "Du mußt ein"
-	line "Rätsel lösen, um"
-	cont "ihn zu treffen!"
+	para "You'll have to"
+	line "break a code to"
+	cont "get to him!"
 	done
 
 _VermilionGymGymGuideBeatLTSurgeText::
-	text "Puh! Ein"
-	line "elektrisierender"
-	cont "Kampf!"
+	text "Whew! That match"
+	line "was electric!"
 	done

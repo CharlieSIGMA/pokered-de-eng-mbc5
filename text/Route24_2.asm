@@ -1,109 +1,90 @@
 _Route24CooltrainerM2EndBattleText::
-	text "Ich"
-	line "habe wohl doch"
-	cont "nichts gesehen!"
+	text "I"
+	line "thought not!"
 	prompt
 
 _Route24CooltrainerM2AfterBattleText::
-	text "Ich habe mich"
-	line "versteckt, weil"
-	cont "mir die Leute auf"
-	cont "der Brücke Angst"
-	cont "gemacht haben!"
+	text "I hid because the"
+	line "people on the"
+	cont "bridge scared me!"
 	done
 
 _Route24CooltrainerM3BattleText::
-	text "Ich bin Nr. 5!"
-	line "Dich mache ich"
-	cont "platt!"
+	text "OK! I'm No. 5!"
+	line "I'll stomp you!"
 	done
 
 _Route24CooltrainerM3EndBattleText::
-	text "Das"
-	line "war zuviel des"
-	cont "Guten!"
+	text "Whoa!"
+	line "Too much!"
 	prompt
 
 _Route24CooltrainerM3AfterBattleText::
-	text "Ich habe alles"
-	line "gegeben, ich"
-	cont "schäme mich"
-	cont "nicht!"
+	text "I did my best, I"
+	line "have no regrets!"
 	done
 
 _Route24CooltrainerF1BattleText::
-	text "Ich bin Nr. 4!"
-	line "Wirst Du müde?"
+	text "I'm No. 4!"
+	line "Getting tired?"
 	done
 
 _Route24CooltrainerF1EndBattleText::
-	text "Ich habe"
-	line "auch verloren!"
+	text "I lost"
+	line "too!"
 	prompt
 
 _Route24CooltrainerF1AfterBattleText::
-	text "Ich habe alles"
-	line "gegeben, ich"
-	cont "schäme mich"
-	cont "nicht!"
+	text "I did my best, so"
+	line "I've no regrets!"
 	done
 
 _Route24Youngster1BattleText::
-	text "Hier kommt Nr. 3!"
-	line "Ich mache Dir das"
-	cont "Leben schwer!"
+	text "Here's No. 3!"
+	line "I won't be easy!"
 	done
 
 _Route24Youngster1EndBattleText::
-	text "Ah!"
-	line "Eiskalt erwischt!"
+	text "Ow!"
+	line "Stomped flat!"
 	prompt
 
 _Route24Youngster1AfterBattleText::
-	text "Ich habe alles"
-	line "gegeben, ich"
-	cont "schäme mich"
-	cont "nicht!"
+	text "I did my best, I"
+	line "have no regrets!"
 	done
 
 _Route24CooltrainerF2BattleText::
-	text "Ich bin Nr. 2!"
-	line "Nun wird es"
-	cont "ernst!"
+	text "I'm second!"
+	line "Now it's serious!"
 	done
 
 _Route24CooltrainerF2EndBattleText::
-	text "Wie konnte"
-	line "ich verlieren?"
+	text "How could I"
+	line "lose?"
 	prompt
 
 _Route24CooltrainerF2AfterBattleText::
-	text "Ich habe alles"
-	line "gegeben, ich"
-	cont "schäme mich"
-	cont "nicht!"
+	text "I did my best, I"
+	line "have no regrets!"
 	done
 
 _Route24Youngster2BattleText::
-	text "Das hier ist die"
-	line "NUGGET-BRÜCKE!"
-	cont "Wenn Du uns fünf"
-	cont "Trainer besiegst, "
-	cont "erhältst Du einen"
-	cont "wertvollen Preis!"
+	text "This is NUGGET"
+	line "BRIDGE! Beat us 5"
+	cont "trainers and win"
+	cont "a fabulous prize!"
 
-	para "Willst Du Dein"
-	line "Glück versuchen?"
+	para "Think you got"
+	line "what it takes?"
 	done
 
 _Route24Youngster2EndBattleText::
-	text "Wow!"
-	line "Du bist gut!"
+	text "Whoo!"
+	line "Good stuff!"
 	prompt
 
 _Route24Youngster2AfterBattleText::
-	text "Ich habe alles"
-	line "gegeben, ich"
-	cont "schäme mich"
-	cont "nicht!"
+	text "I did my best, I"
+	line "have no regrets!"
 	done

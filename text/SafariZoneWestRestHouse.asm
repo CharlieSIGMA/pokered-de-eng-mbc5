@@ -1,24 +1,19 @@
 _SafariZoneWestRestHouseScientistText::
-	text "Wenn Du STEINE"
-	line "auf #MON"
-	cont "wirfst, fliehen"
-	cont "sie meist. Aber"
-	cont "sind dann"
-	cont "leichter zu"
-	cont "fangen!"
+	text "Tossing ROCKs at"
+	line "#MON might"
+	cont "make them run,"
+	cont "but they'll be"
+	cont "easier to catch."
 	done
 
 _SafariZoneWestRestHouseCooltrainerMText::
-	text "Wenn Du ihnen"
-	line "KÖDER zuwirfst,"
-	cont "sind die #MON"
-	cont "leichter zu"
-	cont "fangen!"
+	text "Using BAIT will"
+	line "make #MON"
+	cont "easier to catch."
 	done
 
 _SafariZoneWestRestHouseSilphWorkerFText::
-	text "Ich habe lange"
-	line "gesucht, aber"
-	cont "keine neuen"
-	cont "#MON gefunden."
+	text "I hiked a lot, but"
+	line "I didn't see any"
+	cont "#MON I wanted."
 	done

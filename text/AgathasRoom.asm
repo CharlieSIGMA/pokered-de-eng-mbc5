@@ -1,51 +1,44 @@
 _AgathaBeforeBattleText::
-	text "Ich bin AGATHE"
-	line "aus dem Team der"
-	cont "TOP VIER!"
+	text "I am AGATHA of"
+	line "the ELITE FOUR!"
 
-	para "PROF. EICH"
-	line "lobt Dich in"
-	cont "höchsten Tönen,"
-	cont "junger Mann!"
+	para "OAK's taken a lot"
+	line "of interest in"
+	cont "you, child!"
 
-	para "Er war einmal ein"
-	line "gutaussehender,"
-	cont "stattlicher Mann!"
-	cont "Doch das war vor"
-	cont "Jahrzehnten!"
+	para "That old duff was"
+	line "once tough and"
+	cont "handsome! That"
+	cont "was decades ago!"
 
-	para "Heute kümmert er"
-	line "sich nur noch um"
-	cont "seinen #DEX!"
-	cont "Aber #MON"
-	cont "wollen ja"
-	cont "kämpfen!"
+	para "Now he just wants"
+	line "to fiddle with"
+	cont "his #DEX! He's"
+	cont "wrong! #MON"
+	cont "are for fighting!"
 
-	para "<PLAYER>! "
-	line "Ich zeige Dir,"
-	cont "wie ein richtiger"
-	cont "Trainer kämpft!"
+	para "<PLAYER>! I'll show"
+	line "you how a real"
+	cont "trainer fights!"
 	done
 
 _AgathaEndBattleText::
-	text "Wirklich!"
-	line "Du bist ein ganz"
-	cont "besonderes Kind!"
+	text "Oh ho!"
+	line "You're something"
+	cont "special, child!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "Du hast gewonnen!"
-	line "Nun verstehe ich,"
-	cont "was der Professor"
-	cont "meinte..."
+	text "You win! I see"
+	line "what the old duff"
+	cont "sees in you now!"
 
-	para "Ich stimme ihm"
-	line "voll und ganz zu!"
-	cont "Setze Deinen Weg"
-	cont "fort, mein Junge!"
+	para "I have nothing"
+	line "else to say! Run"
+	cont "along now, child!"
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "EINE STIMME:"
-	line "Lauf nicht davon!"
+	text "Someone's voice:"
+	line "Don't run away!"
 	done

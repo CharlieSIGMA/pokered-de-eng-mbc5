@@ -1,196 +1,173 @@
 _Route14CooltrainerM1BattleText::
-	text "Damit #MON"
-	line "starke Attacken"
-	cont "erlernen, muß man"
-	cont "TM einsetzen!"
+	text "You need to use"
+	line "TMs to teach good"
+	cont "moves to #MON!"
 	done
 
-
 _Route14CooltrainerM1EndBattleText::
-	text "Ich"
-	line "war zu schlecht!"
+	text "Not"
+	line "good enough!"
 	prompt
 
 _Route14CooltrainerM1AfterBattleText::
-	text "Eine durch eine"
-	line "VM erlernte"
-	cont "Attacke können"
-	cont "#MON niemals"
-	cont "wieder vergessen!"
+	text "You have some HMs"
+	line "right? #MON"
+	cont "can't ever forget"
+	cont "those moves."
 	done
 
 _Route14CooltrainerM2BattleText::
-	text "Meine VOGEL-"
-	line "#MON sind"
-	cont "gut auf Kämpfe"
-	cont "vorbereitet!"
+	text "My bird #MON"
+	line "should be ready"
+	cont "for battle."
 	done
 
 _Route14CooltrainerM2EndBattleText::
-	text ""
-	line "Sie waren nicht"
-	cont "stark genug..."
+	text "Not"
+	line "ready yet!"
 	prompt
 
 _Route14CooltrainerM2AfterBattleText::
-	text "Sie müssen"
-	line "stärkere Attacken"
-	cont "lernen!"
+	text "They need to learn"
+	line "better moves."
 	done
 
 _Route14CooltrainerM3BattleText::
-	text "In PRISMANIA CITY"
-	line "kann man TM"
-	cont "kaufen."
-	cont "VM besitzen"
-	cont "allerdings nur"
-	cont "wenige Personen."
+	text "TMs are on sale"
+	line "in CELADON!"
+	cont "But, only a few"
+	cont "people have HMs!"
 	done
 
 _Route14CooltrainerM3EndBattleText::
-	text "Ohh!"
-	line "So ein Mist!"
+	text "Aww,"
+	line "bummer!"
 	prompt
 
 _Route14CooltrainerM3AfterBattleText::
-	text "Bringe #MON"
-	line "ihrem Element"
-	cont "entsprechende"
-	cont "Attacken bei, um"
-	cont "ihre volle Stärke"
-	cont "auszunutzen!"
+	text "Teach #MON"
+	line "moves of the same"
+	cont "element type for"
+	cont "more power."
 	done
 
 _Route14CooltrainerM4BattleText::
-	text "Hast Du einem"
-	line "VOGEL-#MON"
-	cont "schon das FLIEGEN"
-	cont "beigebracht?"
+	text "Have you taught"
+	line "your bird #MON"
+	cont "how to FLY?"
 	done
 
 _Route14CooltrainerM4EndBattleText::
-	text ""
-	line "War das eine"
-	cont "Bruchlandung!"
+	text "Shot"
+	line "down in flames!"
 	prompt
 
 _Route14CooltrainerM4AfterBattleText::
-	text "Meine"
-	line "Leidenschaft sind"
-	cont "VOGEL-#MON!"
+	text "Bird #MON are"
+	line "my true love!"
 	done
 
 _Route14CooltrainerM5BattleText::
-	text "Hast Du schon von"
-	line "den legendären"
-	cont "#MON gehört?"
+	text "Have you heard of"
+	line "the legendary"
+	cont "#MON?"
 	done
 
 _Route14CooltrainerM5EndBattleText::
-	text "Warum"
-	line "hab ich verloren?"
+	text "Why?"
+	line "Why'd I lose?"
 	prompt
 
 _Route14CooltrainerM5AfterBattleText::
-	text "Die 3 legendären"
-	line "#MON sind"
-	cont "große Raubvögel."
+	text "The 3 legendary"
+	line "#MON are all"
+	cont "birds of prey."
 	done
 
 _Route14CooltrainerM6BattleText::
-	text "Ich will nicht"
-	line "unbedingt, aber"
-	cont "laß uns dennoch"
-	cont "kämpfen!"
+	text "I'm not into it,"
+	line "but OK! Let's go!"
 	done
 
 _Route14CooltrainerM6EndBattleText::
-	text "Ich"
-	line "wußte, ich würde"
-	cont "verlieren!"
+	text "I"
+	line "knew it!"
 	prompt
 
 _Route14CooltrainerM6AfterBattleText::
-	text "Längerfristig ist"
-	line "es egal, ob man"
-	cont "gewinnt oder"
-	cont "verliert!"
+	text "Winning, losing,"
+	line "it doesn't matter"
+	cont "in the long run!"
 	done
 
 _Route14Biker1BattleText::
-	text "Los, los! Laß uns"
-	line "kämpfen. Auf in"
-	cont "den Kampf! Los!"
+	text "C'mon, c'mon."
+	line "Let's go, let's"
+	cont "go, let's go!"
 	done
 
 _Route14Biker1EndBattleText::
 	text "Arrg!"
-	line "Hau bloß ab!"
+	line "Lost! Get lost!"
 	prompt
 
 _Route14Biker1AfterBattleText::
-	text "Was, was, was?"
-	line "Was willst Du?"
+	text "What, what, what?"
+	line "What do you want?"
 	done
 
 _Route14Biker2BattleText::
-	text "Sehr gut! Ich"
-	line "brauche einen"
-	cont "Zeitvertreib!"
+	text "Perfect! I need to"
+	line "burn some time!"
 	done
 
 _Route14Biker2EndBattleText::
-	text "Du hast"
-	line "mich besiegt?"
-	cont "Oh Mann!"
+	text "What?"
+	line "You!?"
 	prompt
 
 _Route14Biker2AfterBattleText::
-	text "Es ist ganz schön"
-	line "mühselig, #MON"
-	cont "zu trainieren!"
+	text "Raising #MON"
+	line "is a drag, man."
 	done
 
 _Route14Biker3BattleText::
-	text "Wir kommen öfter"
-	line "her, weil es hier"
-	cont "so unglaublich"
-	cont "viel Platz gibt!"
+	text "We ride out here"
+	line "because there's"
+	cont "more room!"
 	done
 
 _Route14Biker3EndBattleText::
-	text "Kurz"
-	line "und schmerzlos!"
+	text "Wipe out!"
 	prompt
 
 _Route14Biker3AfterBattleText::
-	text "Cool! Deine"
-	line "#MON sind"
-	cont "wirklich stark!"
+	text "It's cool you"
+	line "made your #MON"
+	cont "so strong!"
 
-	para "Macht geht vor"
-	line "Recht! Du hast"
-	cont "es begriffen!"
+	para "Might is right!"
+	line "And you know it!"
 	done
 
 _Route14Biker4BattleText::
-	text "Ein #MON-"
-	line "KAMPF? Cool!"
-	cont "Leg los, Kumpel!"
+	text "#MON fight?"
+	line "Cool! Rumble!"
 	done
 
 _Route14Biker4EndBattleText::
-	text "Voll"
-	line "erwischt!"
+	text "Blown"
+	line "away!"
 	prompt
 
 _Route14Biker4AfterBattleText::
-	text "Du gegen mich!"
-	line "Du weißt, wer"
-	cont "gewinnt!"
+	text "You know who'd"
+	line "win, you and me"
+	cont "one on one!"
 	done
 
 _Route14SignText::
-	text "ROUTE 14, WESTEN:"
-	line "FUCHSANIA CITY"
+	text "ROUTE 14"
+	line "West to FUCHSIA"
+	cont "CITY"
 	done

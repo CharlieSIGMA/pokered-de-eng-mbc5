@@ -1,82 +1,71 @@
 _BikeShopClerkWelcomeText::
-	text "Hallo! Willkommen"
-	line "im FAHRRADLADEN!"
+	text "Hi! Welcome to"
+	line "our BIKE SHOP."
 
-	para "Wir haben"
-	line "garantiert das"
-	cont "richtige FAHRRAD"
-	cont "für Dich!"
+	para "Have we got just"
+	line "the BIKE for you!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "Das ist unser"
-	line "bestes FAHRRAD!"
-	cont "Möchtest Du es"
-	cont "haben?"
+	text "It's a cool BIKE!"
+	line "Do you want it?"
 	done
 
 _BikeShopCantAffordText::
-	text "Es tut mir leid,"
-	line "Du kannst es Dir"
-	cont "nicht leisten!"
+	text "Sorry! You can't"
+	line "afford it!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, das ist ein..."
+	text "Oh, that's..."
 
-	para "...RAD-COUPON!"
+	para "A BIKE VOUCHER!"
 
-	para "OK!"
-	line "Es gehört Dir!"
+	para "OK! Here you go!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> tauscht"
-	line "den RAD-COUPON"
-	cont "gegen das"
-	cont "FAHRRAD.@"
+	text "<PLAYER> exchanged"
+	line "the BIKE VOUCHER"
+	cont "for a BICYCLE.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Besuch uns doch"
-	line "mal wieder!"
+	text "Come back again"
+	line "some time!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "Wie gefällt Dir"
-	line "Dein neues"
-	cont "FAHRRAD?"
+	text "How do you like"
+	line "your new BICYCLE?"
 
-	para "Du kannst damit"
-	line "auf dem RADWEG"
-	cont "und in Höhlen"
-	cont "fahren!"
+	para "You can take it"
+	line "on CYCLING ROAD"
+	cont "and in caves!"
 	done
 
 _BikeShopBagFullText::
-	text "Du kannst es"
-	line "momentan nicht"
-	cont "mitnehmen!"
+	text "You better make"
+	line "room for this!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "Ich möchte ein"
-	line "HOLLANDRAD"
-	cont "kaufen!"
+	text "A plain city BIKE"
+	line "is good enough"
+	cont "for me!"
 
-	para "Ein MOUNTAINBIKE"
-	line "hat keinen"
-	cont "Gepäckträger!"
+	para "You can't put a"
+	line "shopping basket"
+	cont "on an MTB!"
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "Die FAHRRÄDER"
-	line "sind ziemlich"
-	cont "cool, aber"
-	cont "unheimlich teuer!"
+	text "These BIKEs are"
+	line "cool, but they're"
+	cont "way expensive!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow! Du hast ein"
-	line "cooles FAHRRAD!"
+	text "Wow. Your BIKE is"
+	line "really cool!"
 	done

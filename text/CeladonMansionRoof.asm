@@ -1,3 +1,3 @@
 _CeladonMansionRoofHouseSignText::
-	text "ICH WEISS ALLES!"
+	text "I KNOW EVERYTHING!"
 	done

@@ -1,67 +1,62 @@
 SilphCo9FNurseYouLookTiredText::
-	text "Du siehst müde"
-	line "aus! Komm, ruhe"
-	cont "Dich kurz aus!"
+	text "You look tired!"
+	line "You should take a"
+	cont "quick nap!"
 	prompt
 
 SilphCo9FNurseDontGiveUpText::
-	text "Gib nicht auf!"
+	text "Don't give up!"
 	done
 
 SilphCo9FNurseThankYouText::
-	text "Vielen, vielen"
-	line "Dank!"
+	text "Thank you so"
+	line "much!"
 	done
 
 _SilphCo9FRocket1BattleText::
-	text "Deine #MON"
-	line "scheinen Dich"
-	cont "sehr zu mögen!"
+	text "Your #MON seem"
+	line "to adore you, kid!"
 	done
 
 _SilphCo9FRocket1EndBattleText::
-	text "Waaah!"
+	text "Ghaaah!"
 	prompt
 
 _SilphCo9FRocket1AfterBattleText::
-	text "Hätte ich doch"
-	line "auch schon in"
-	cont "Deinem Alter als"
-	cont "Trainer begonnen!"
+	text "If I had started"
+	line "as a trainer at"
+	cont "your age..."
 	done
 
 _SilphCo9FScientistBattleText::
-	text "Ich finde die"
-	line "Schwachstellen"
-	cont "Deiner #MON"
-	cont "und besiege sie!"
+	text "Your #MON have"
+	line "weak points! I"
+	cont "can nail them!"
 	done
 
 _SilphCo9FScientistEndBattleText::
-	text "Du hast"
-	line "mich besiegt!"
+	text "You"
+	line "hammered me!"
 	prompt
 
 _SilphCo9FScientistAfterBattleText::
-	text "Mache Dir die"
-	line "Schwachstellen"
-	cont "zu Nutze! Denke"
-	cont "auch mal an"
-	cont "die Elemente!"
+	text "Exploiting weak"
+	line "spots does work!"
+	cont "Think about"
+	cont "element types!"
 	done
 
 _SilphCo9FRocket2BattleText::
-	text "Ich bin einer der"
-	line "vier berüchtigten"
-	cont "ROCKET-BRÜDER!"
+	text "I am one of the 4"
+	line "ROCKET BROTHERS!"
 	done
 
 _SilphCo9FRocket2EndBattleText::
-	text "Oje! Ich"
-	line "wurde besiegt!"
+	text "Warg!"
+	line "Brothers, I lost!"
 	prompt
 
 _SilphCo9FRocket2AfterBattleText::
-	text "Aber meine Brüder"
-	line "rächen mich!"
+	text "My brothers will"
+	line "avenge me!"
 	done

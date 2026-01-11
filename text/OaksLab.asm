@@ -1,198 +1,173 @@
 _OaksLabRivalGrampsIsntAroundText::
-	text "<RIVAL>: Hallo"
-	line "<PLAYER>! Opa ist"
-	cont "gerade nicht da!"
+	text "<RIVAL>: Yo"
+	line "<PLAYER>! Gramps"
+	cont "isn't around!"
 	done
 
 _OaksLabRivalGoAheadAndChooseText::
-	text "<RIVAL>: Ich bin"
-	line "nicht so"
-	cont "ungeduldig wie"
-	cont "Du!"
+	text "<RIVAL>: Heh, I"
+	line "don't need to be"
+	cont "greedy like you!"
 
-	para "Du darfst zuerst"
-	line "wählen, <PLAYER>!"
+	para "Go ahead and"
+	line "choose, <PLAYER>!"
 	done
 
 _OaksLabRivalMyPokemonLooksStrongerText::
-	text "<RIVAL>: Mein"
-	line "#MON sieht"
-	cont "viel stärker aus!"
+	text "<RIVAL>: My"
+	line "#MON looks a"
+	cont "lot stronger."
 	done
 
 _OaksLabThoseArePokeBallsText::
-	text "Dies hier sind"
-	line "#BÄLLE."
-	cont "Sie enthalten "
-	cont "#MON!"
+	text "Those are #"
+	line "BALLs. They"
+	cont "contain #MON!"
 	done
 
 _OaksLabYouWantCharmanderText::
-	text "Möchtest Du"
-	line "GLUMANDA, das"
-	cont "FEUER-#MON?"
+	text "So! You want the"
+	line "fire #MON,"
+	cont "CHARMANDER?"
 	done
 
 _OaksLabYouWantSquirtleText::
-	text "Möchtest Du"
-	line "SCHIGGY, das"
-	cont "WASSER-#MON?"
+	text "So! You want the"
+	line "water #MON,"
+	cont "SQUIRTLE?"
 	done
 
 _OaksLabYouWantBulbasaurText::
-	text "Möchtest Du"
-	line "BISASAM, das"
-	cont "PFLANZEN-#MON?"
+	text "So! You want the"
+	line "plant #MON,"
+	cont "BULBASAUR?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "Dieses #MON"
-	line "ist wirklich"
-	cont "energiegeladen!"
+	text "This #MON is"
+	line "really energetic!"
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> erhält"
-	line "@"
+	text "<PLAYER> received"
+	line "a @"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _OaksLabLastMonText::
-	text "Das ist PROF."
-	line "EICHS letztes"
-	cont "#MON!"
+	text "That's PROF.OAK's"
+	line "last #MON!"
 	done
 
 _OaksLabOak1WhichPokemonDoYouWantText::
-	text "PROF. EICH: Gut,"
-	line "<PLAYER>! Welches"
-	cont "#MON möchtest"
-	cont "Du haben?"
+	text "OAK: Now, <PLAYER>,"
+	line "which #MON do"
+	cont "you want?"
 	done
 
 _OaksLabOak1YourPokemonCanFightText::
-	text "PROF. EICH: Wenn"
-	line "Du auf ein wildes"
-	cont "#MON triffst,"
-	cont "dann kann Dein"
-	cont "#MON dagegen"
-	cont "kämpfen!"
+	text "OAK: If a wild"
+	line "#MON appears,"
+	cont "your #MON can"
+	cont "fight against it!"
 	done
 
 _OaksLabOak1RaiseYourYoungPokemonText::
-	text "PROF. EICH:"
-	line "<PLAYER>, wenn"
-	cont "Du Dein #MON"
-	cont "kämpfen läßt, "
-	cont "wird es stärker!"
+	text "OAK: <PLAYER>,"
+	line "raise your young"
+	cont "#MON by making"
+	cont "it fight!"
 	done
 
 _OaksLabOak1DeliverParcelText::
-	text "PROF. EICH:"
-	line "Hallo, <PLAYER>!"
+	text "OAK: Oh, <PLAYER>!"
 
-	para "Wie geht es"
-	line "dem #MON?"
+	para "How is my old"
+	line "#MON?"
 
-	para "Es scheint Dich"
-	line "sehr zu mögen!"
+	para "Well, it seems to"
+	line "like you a lot."
 
-	para "Du mußt als"
-	line "#MON-TRAINER"
-	cont "sehr talentiert"
-	cont "sein!"
+	para "You must be"
+	line "talented as a"
+	cont "#MON trainer!"
 
-	para "Du hast etwas"
-	line "für mich?"
+	para "What? You have"
+	line "something for me?"
 
-	para "<PLAYER> übergibt"
-	line "PROF. EICH das"
-	cont "PAKET.@"
+	para "<PLAYER> delivered"
+	line "OAK's PARCEL.@"
 	text_end
 
 _OaksLabOak1ParcelThanksText::
 	text_start
-	para "Ah! Auf diesen"
-	line "SPEZIAL-#BALL"
-	cont "warte ich schon"
-	cont "lange! "
-	cont "Vielen Dank!"
+	para "Ah! This is the"
+	line "custom # BALL"
+	cont "I ordered!"
+	cont "Thank you!"
 	done
 
 _OaksLabOak1PokemonAroundTheWorldText::
-	text "<PLAYER>,"
-	line "überall in dieser"
-	cont "Welt erwarten"
-	cont "Dich #MON!"
+	text "#MON around the"
+	line "world wait for"
+	cont "you, <PLAYER>!"
 	done
 
 _OaksLabOak1ReceivedPokeballsText::
-	text "PROF. EICH:"
-	line "Es reicht nicht, "
-	cont "#MON zu sehen,"
-	cont "um detaillierte"
-	cont "Informationen"
-	cont "über sie zu"
-	cont "sammeln!"
+	text "OAK: You can't get"
+	line "detailed data on"
+	cont "#MON by just"
+	cont "seeing them."
 
-	para "Du mußt sie"
-	line "fangen! Benutze"
-	cont "das hier, um"
-	cont "wilde #MON"
-	cont "einzufangen."
+	para "You must catch"
+	line "them! Use these"
+	cont "to capture wild"
+	cont "#MON."
 
-	para "<PLAYER> erhält"
-	line "fünf #BÄLLE!@"
+	para "<PLAYER> got 5"
+	line "# BALLs!@"
 	text_end
 
 _OaksLabGivePokeballsExplanationText::
 	text_start
-	para "Taucht ein wildes"
-	line "#MON auf,"
-	cont "so kannst Du es "
-	cont "fangen."
+	para "When a wild"
+	line "#MON appears,"
+	cont "it's fair game."
 
-	para "Werfe einfach"
-	line "einen #BALL"
-	line "und versuche es!"
+	para "Just throw a #"
+	line "BALL at it and try"
+	line "to catch it!"
 
-	para "Doch Du wirst"
-	line "oftmals keinen"
-	cont "Erfolg haben."
+	para "This won't always"
+	line "work, though."
 
-	para "Ein gesundes"
-	line "#MON entkommt"
-	cont "schnell! Man muß"
-	cont "schon etwas Glück"
-	cont "haben!"
+	para "A healthy #MON"
+	line "could escape. You"
+	cont "have to be lucky!"
 	done
 
 _OaksLabOak1ComeSeeMeSometimesText::
-	text "PROF. EICH:"
-	line "Besuche mich von"
-	cont "Zeit zu Zeit."
+	text "OAK: Come see me"
+	line "sometimes."
 
-	para "Es interessiert"
-	line "mich, wie Du mit"
-	cont "Deinem #DEX"
-	cont "voranschreitest."
+	para "I want to know how"
+	line "your #DEX is"
+	cont "coming along."
 	done
 
 _OaksLabOak1HowIsYourPokedexComingText::
-	text "PROF. EICH:"
-	line "Ich freue mich,"
-	cont "Dich zu sehen!"
-	cont "Was macht Dein"
-	cont "#DEX? Zeig"
-	cont "doch mal her!"
+	text "OAK: Good to see "
+	line "you! How is your "
+	cont "#DEX coming? "
+	cont "Here, let me take"
+	cont "a look!"
 	prompt
 
 _OaksLabPokedexText::
-	text "Es sieht wie ein"
-	line "Lexikon aus! Aber"
-	cont "die Seiten sind"
-	cont "unbeschrieben!"
+	text "It's encyclopedia-"
+	line "like, but the"
+	cont "pages are blank!"
 	done
 
 _OaksLabOak2Text::
@@ -200,222 +175,190 @@ _OaksLabOak2Text::
 	done
 
 _OaksLabGirlText::
-	text "PROF. EICH ist"
-	line "für #MON"
-	cont "eine Kapazität!"
+	text "PROF.OAK is the"
+	line "authority on"
+	cont "#MON!"
 
-	para "Unter #MON-"
-	line "TRAINERN genießt"
-	cont "er ein sehr hohes"
-	cont "Ansehen!"
+	para "Many #MON"
+	line "trainers hold him"
+	cont "in high regard!"
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
-	text "<RIVAL>: Opa!"
-	line "Ich will nicht"
-	cont "länger warten!"
+	text "<RIVAL>: Gramps!"
+	line "I'm fed up with"
+	cont "waiting!"
 	done
 
 _OaksLabOakChooseMonText::
-	text "PROF. EICH:"
-	line "<RIVAL>? Laß mich"
-	cont "nachdenken..."
+	text "OAK: <RIVAL>?"
+	line "Let me think..."
 
-	para "Ach richtig! Ihr"
-	line "solltet ja zu mir"
-	cont "kommen! Wartet"
-	cont "einen Moment!"
+	para "Oh, that's right,"
+	line "I told you to"
+	cont "come! Just wait!"
 
-	para "Hier, <PLAYER>!"
+	para "Here, <PLAYER>!"
 
-	para "Dort liegen drei"
-	line "#MON!"
+	para "There are 3"
+	line "#MON here!"
 
 	para "Haha!"
 
-	para "Sie befinden"
-	line "sich in den"
-	cont "#BÄLLEN."
+	para "They are inside"
+	line "the # BALLs."
 
-	para "In meiner Jugend"
-	line "war ich ein"
-	cont "engagierter"
-	cont "#MON-TRAINER!"
+	para "When I was young,"
+	line "I was a serious"
+	cont "#MON trainer!"
 
-	para "Jetzt, da ich alt"
-	line "bin, habe ich nur"
-	cont "3 #MON übrig."
-	cont "Aber ich gebe Dir"
-	cont "eines ab! Wähle!"
+	para "In my old age, I"
+	line "have only 3 left,"
+	cont "but you can have"
+	cont "one! Choose!"
 	done
 
 _OaksLabRivalWhatAboutMeText::
-	text "<RIVAL>: Halt!"
-	line "Opa! Und was ist"
-	cont "mit mir?"
+	text "<RIVAL>: Hey!"
+	line "Gramps! What"
+	cont "about me?"
 	done
 
 _OaksLabOakBePatientText::
-	text "PROF. EICH:"
-	line "Habe ein wenig"
-	cont "Geduld, <RIVAL>!"
-	cont "Auch Du sollst"
-	cont "eines bekommen!"
+	text "OAK: Be patient!"
+	line "<RIVAL>, you can"
+	cont "have one too!"
 	done
 
 _OaksLabOakDontGoAwayYetText::
-	text "PROF. EICH:"
-	line "Warte noch einen"
-	cont "Moment, bevor Du"
-	cont "gehst!"
+	text "OAK: Hey! Don't go"
+	line "away yet!"
 	done
 
 _OaksLabRivalIllTakeThisOneText::
-	text "<RIVAL>:"
-	line "Ich nehme dieses"
-	cont "hier."
+	text "<RIVAL>: I'll take"
+	line "this one, then!"
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> erhält"
-	line "@"
+	text "<RIVAL> received"
+	line "a @"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _OaksLabRivalIllTakeYouOnText::
-	text "<RIVAL>: Warte,"
+	text "<RIVAL>: Wait"
 	line "<PLAYER>!"
-	cont "Laß uns unsere"
-	cont "#MON testen!"
+	cont "Let's check out"
+	cont "our #MON!"
 
-	para "Komm schon!"
-	line "Ich fordere Dich"
-	cont "heraus!"
+	para "Come on, I'll take"
+	line "you on!"
 	done
 
 _OaksLabRivalIPickedTheWrongPokemonText::
-	text "WAS?"
-	line "Unmöglich! Ich"
-	cont "habe mir das"
-	cont "falsche #MON"
-	cont "ausgesucht!"
+	text "WHAT?"
+	line "Unbelievable!"
+	cont "I picked the"
+	cont "wrong #MON!"
 	prompt
 
 _OaksLabRivalAmIGreatOrWhatText::
-	text "<RIVAL>: Ja! Ich"
-	line "bin der Größte!"
+	text "<RIVAL>: Yeah! Am"
+	line "I great or what?"
 	prompt
 
 _OaksLabRivalSmellYouLaterText::
-	text "<RIVAL>: OK!"
-	line "Ich werde meine"
-	cont "#MON"
-	cont "trainieren, damit"
-	cont "sie stärker"
-	cont "werden!"
+	text "<RIVAL>: Okay!"
+	line "I'll make my"
+	cont "#MON fight to"
+	cont "toughen it up!"
 
-	para "<PLAYER>! Opa!"
-	line "Wir sehen uns"
-	cont "später!"
+	para "<PLAYER>! Gramps!"
+	line "Smell you later!"
 	done
 
 _OaksLabRivalGrampsText::
-	text "<RIVAL>: Opa!"
+	text "<RIVAL>: Gramps!"
 	done
 
 _OaksLabRivalWhatDidYouCallMeForText::
-	text "<RIVAL>: Warum"
-	line "hast Du mich"
-	cont "hierher bestellt?"
+	text "<RIVAL>: What did"
+	line "you call me for?"
 	done
 
 _OaksLabOakIHaveARequestText::
-	text "PROF. EICH:"
-	line "Ach ja! Ich"
-	cont "habe eine große"
-	cont "Aufgabe für Euch!"
+	text "OAK: Oh right! I"
+	line "have a request"
+	cont "of you two."
 	done
 
 _OaksLabOakMyInventionPokedexText::
-	text "Auf dem Tisch"
-	line "dort seht Ihr"
-	cont "eine Erfindung"
-	cont "von mir, den"
+	text "On the desk there"
+	line "is my invention,"
 	cont "#DEX!"
 
-	para "Er erfaßt"
-	line "automatisch Daten"
-	cont "über #MON,"
-	cont "die man gefangen"
-	cont "oder gesehen hat!"
+	para "It automatically"
+	line "records data on"
+	cont "#MON you've"
+	cont "seen or caught!"
 
-	para "Er ist eine Art"
-	line "Hi-Tech-Lexikon!"
+	para "It's a hi-tech"
+	line "encyclopedia!"
 	done
 
 _OaksLabOakGotPokedexText::
-	text "PROF. EICH:"
-	line "<PLAYER>! <RIVAL>!"
-	cont "Diese beiden sind"
-	cont "für Euch!"
+	text "OAK: <PLAYER> and"
+	line "<RIVAL>! Take"
+	cont "these with you!"
 
-	para "<PLAYER> erhält"
-	line "einen #DEX von"
-	cont "PROF. EICH!@"
+	para "<PLAYER> got"
+	line "#DEX from OAK!@"
 	text_end
 
 _OaksLabOakThatWasMyDreamText::
-	text "Ein Lexikon über"
-	line "alle #MON der"
-	cont "Welt..."
+	text "To make a complete"
+	line "guide on all the"
+	cont "#MON in the"
+	cont "world..."
 
-	para "Das war immer"
-	line "mein Traum!"
+	para "That was my dream!"
 
-	para "Aber ich bin zu"
-	line "alt! Ich schaffe"
-	cont "es nicht mehr!"
+	para "But, I'm too old!"
+	line "I can't do it!"
 
-	para "Also bitte ich"
-	line "Euch, meinen"
-	cont "Traum zu"
-	cont "verwirklichen!"
+	para "So, I want you two"
+	line "to fulfill my"
+	cont "dream for me!"
 
-	para "Macht Euch auf"
-	line "den Weg, Jungs!"
+	para "Get moving, you"
+	line "two!"
 
-	para "Dies ist eines"
-	line "der bedeutendsten"
-	cont "Projekte in der"
-	cont "Geschichte der"
-	cont "#MON!"
+	para "This is a great"
+	line "undertaking in"
+	cont "#MON history!"
 	done
 
 _OaksLabRivalLeaveItAllToMeText::
-	text "<RIVAL>:"
-	line "Alles klar, Opa!"
-	cont "Überlaß es"
-	cont "ruhig mir!"
+	text "<RIVAL>: Alright"
+	line "Gramps! Leave it"
+	cont "all to me!"
 
-	para "<PLAYER>,  es tut"
-	line "mir leid, aber"
-	cont "ich brauche Deine"
-	cont "Hilfe nicht!"
+	para "<PLAYER>, I hate to"
+	line "say it, but I"
+	cont "don't need you!"
 
-	para "Ich hab's! Ich"
-	line "leihe mir von"
-	cont "meiner Schwester"
-	cont "eine KARTE!"
+	para "I know! I'll"
+	line "borrow a TOWN MAP"
+	cont "from my sis!"
 
-	para "Und Dir soll sie"
-	line "keine geben,"
+	para "I'll tell her not"
+	line "to lend you one,"
 	cont "<PLAYER>! Hahaha!"
 	done
 
 _OaksLabScientistText::
-	text "Ich bin PROF."
-	line "EICHS Gehilfe."
-	cont "Ich studiere mit"
-	cont "ihm die #MON!"
+	text "I study #MON as"
+	line "PROF.OAK's AIDE."
 	done

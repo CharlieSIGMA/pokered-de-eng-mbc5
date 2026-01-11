@@ -1,120 +1,104 @@
 _CableClubNPCPleaseComeAgainText::
-	text "Komm jederzeit"
-	line "wieder vorbei!"
+	text "Please come again!"
 	done
 
 _CableClubNPCMakingPreparationsText::
-	text "Wir treffen"
-	line "gerade die"
-	cont "Vorbereitungen."
-	cont "Bitte warte!"
+	text "We're making"
+	line "preparations."
+	cont "Please wait."
 	done
 
 _UsedStrengthText::
 	text_ram wNameBuffer
-	text_start
-	line "setzt STÄRKE ein.@"
+	text " used"
+	line "STRENGTH.@"
 	text_end
 
 _CanMoveBouldersText::
 	text_ram wNameBuffer
-	text " kann"
-	line "Felsen bewegen."
+	text " can"
+	line "move boulders."
 	prompt
 
 _CurrentTooFastText::
-	text "Die Strömung"
-	line "ist zu stark!"
+	text "The current is"
+	line "much too fast!"
 	prompt
 
 _CyclingIsFunText::
-	text "Radfahren macht"
-	line "Spaß! Surfen"
-	cont "dagegen ist"
-	cont "nichts!"
+	text "Cycling is fun!"
+	line "Forget SURFing!"
 	prompt
 
 _FlashLightsAreaText::
-	text "Ein gleißender"
-	line "BLITZ erhellt"
-	cont "das Gebiet!"
+	text "A blinding FLASH"
+	line "lights the area!"
 	prompt
 
 _WarpToLastPokemonCenterText::
-	text "In das letzte"
-	line "PKMN-CENTER"
-	cont "zurückkehren?"
+	text "Warp to the last"
+	line "#MON CENTER."
 	done
 
 _CannotUseTeleportNowText::
 	text_ram wNameBuffer
-	text " kann"
-	line "TELEPORT momentan"
-	cont "nicht einsetzen!"
+	text " can't"
+	line "use TELEPORT now."
 	prompt
 
 _CannotFlyHereText::
 	text_ram wNameBuffer
-	text_start
-	line "kann hier nicht"
-	cont "FLIEGEN."
+	text " can't"
+	line "FLY here."
 	prompt
 
 _NotHealthyEnoughText::
-	text "Nicht genug"
-	line "Kraftpunkte!"
+	text "Not healthy"
+	line "enough."
 	prompt
 
 _NewBadgeRequiredText::
-	text "Nein! Hier"
-	line "benötigt man"
-	cont "einen neuen"
-	cont "ORDEN!"
+	text "No! A new BADGE"
+	line "is required."
 	prompt
 
 _CannotUseItemsHereText::
-	text "Du kannst hier"
-	line "keine Items"
-	cont "einsetzen!"
+	text "You can't use items"
+	line "here."
 	prompt
 
 _CannotGetOffHereText::
-	text "Du kannst hier"
-	line "nicht absteigen!"
+	text "You can't get off"
+	line "here."
 	prompt
 
 _GotMonText::
-	text "<PLAYER> erhält"
+	text "<PLAYER> got"
 	line "@"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _SentToBoxText::
-	text "Es ist nicht"
-	line "genug Platz für"
-	cont "das #MON!"
+	text "There's no more"
+	line "room for #MON!"
 	cont "@"
 	text_ram wBoxMonNicks
-	text " wurde"
-	cont "mittels PC in"
-	cont "#MON-BOX @"
+	text " was"
+	cont "sent to #MON"
+	cont "BOX @"
 	text_ram wStringBuffer
-	text_start
-	cont "transferiert!"
+	text " on PC!"
 	done
 
 _BoxIsFullText::
-	text "Es ist kein Platz"
-	line "für das #MON!"
+	text "There's no more"
+	line "room for #MON!"
 
-	para "Die #MON-BOX"
-	line "ist voll und kann"
-	cont "keine weiteren"
-	cont "#MON"
-	cont "aufnehmen!"
+	para "The #MON BOX"
+	line "is full and can't"
+	cont "accept any more!"
 
-	para "Wechsle in einem"
-	line "#MON-CENTER"
-	cont "die BOX!"
+	para "Change the BOX at"
+	line "a #MON CENTER!"
 	done

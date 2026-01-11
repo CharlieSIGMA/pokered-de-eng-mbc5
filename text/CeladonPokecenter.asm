@@ -1,15 +1,12 @@
 _CeladonPokecenterGentlemanText::
-	text "Die #FLÖTE"
-	line "weckt #MON mit"
-	cont "einem Geräusch,"
-	cont "das nur #MON"
-	cont "hören können!"
+	text "# FLUTE awakens"
+	line "#MON with a"
+	cont "sound that only"
+	cont "they can hear!"
 	done
 
 _CeladonPokecenterBeautyText::
-	text "Ich bin von"
-	line "FUCHSANIA CITY"
-	cont "aus auf dem"
-	cont "RADWEG"
-	cont "hinaufgefahren!"
+	text "I rode uphill on"
+	line "CYCLING ROAD from"
+	cont "FUCHSIA!"
 	done

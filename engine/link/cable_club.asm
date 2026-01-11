@@ -293,7 +293,7 @@ CableClub_DoBattleOrTradeAgain:
 	jr CallCurrentTradeCenterFunction
 
 PleaseWaitString:
-	db "BITTE WARTEN!@"
+	db "PLEASE WAIT!@"
 
 CallCurrentTradeCenterFunction:
 	ld hl, TradeCenterPointerTable
@@ -880,11 +880,11 @@ WillBeTradedText:
 	text_end
 
 TradeCompleted:
-	db "TAUSCH VOLLZOGEN!@"
+	db "Trade completed!@"
 
 TradeCanceled:
-	db "Schade! Der tausch"
-	next "wurde abgebrochen!@"
+	db   "Too bad! The trade"
+	next "was canceled!@"
 
 TradeCenterPointerTable:
 	dw TradeCenter_SelectMon

@@ -1,30 +1,26 @@
 _CeladonMart4FSuperNerdText::
-	text "Ich kaufe meiner"
-	line "Freundin eine"
-	cont "#PUPPE!"
+	text "I'm getting a"
+	line "# DOLL for my"
+	cont "girl friend!"
 	done
 
 _CeladonMart4FYoungsterText::
-	text "Ich habe einen"
-	line "Tip bekommen!"
+	text "I heard something"
+	line "useful."
 
-	para "Du kannst vor"
-	line "wilden #MON"
-	cont "fliehen, wenn Du"
-	cont "sie mit einer"
-	cont "#PUPPE"
-	cont "ablenkst!"
+	para "You can run from"
+	line "wild #MON by"
+	cont "distracting them"
+	cont "with a # DOLL!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "Bereite anderen"
-	line "mit Geschenken"
-	cont "eine Freude!"
+	text "Express yourself"
+	line "with gifts!"
 
-	para "S3: GESCHENK-"
-	line "ARTIKEL"
+	para "4F: WISEMAN GIFTS"
 
-	para "SONDERANGEBOTE!"
-	line "Sonderpreise für"
-	cont "ELEMENT-STEINE!"
+	para "Evolution Special!"
+	line "Element STONEs on"
+	cont "sale now!"
 	done

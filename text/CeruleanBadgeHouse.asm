@@ -1,114 +1,97 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "Nur sehr begabte"
-	line "Trainer tragen"
-	cont "#MON-ORDEN."
+	text "#MON BADGEs"
+	line "are owned only by"
+	cont "skilled trainers."
 
-	para "Wie ich sehe,"
-	line "bist Du bereits"
-	cont "Träger eines"
-	cont "ORDENS."
+	para "I see you have"
+	line "at least one."
 
-	para "Die ORDEN sind"
-	line "geheimnisumwoben!"
+	para "Those BADGEs have"
+	line "amazing secrets!"
 	prompt
 
 _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
-	text "Also dann..."
+	text "Now then..."
 
-	para "Über welchen der"
-	line "acht ORDEN soll"
-	cont "ich Dir etwas"
-	cont "erzählen?"
+	para "Which of the 8"
+	line "BADGEs should I"
+	cont "describe?"
 	done
 
 _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
-	text "Besuche mich,"
-	line "wann immer Du"
-	cont "möchtest."
+	text "Come visit me any"
+	line "time you wish."
 	done
 
 _CeruleanBadgeHouseBoulderBadgeText::
-	text "Die ANGRIFFE"
-	line "Deiner #MON"
-	cont "werden ein wenig"
-	cont "verstärkt."
+	text "The ATTACK of all"
+	line "#MON increases"
+	cont "a little bit."
 
-	para "Außerdem kannst"
-	line "Du jederzeit"
-	cont "BLITZ einsetzen."
+	para "It also lets you"
+	line "use FLASH any"
+	cont "time you desire."
 	prompt
 
 _CeruleanBadgeHouseCascadeBadgeText::
-	text "#MON bis"
-	line "Level 30 folgen"
-	cont "Deinen Befehlen!"
+	text "#MON up to L30"
+	line "will obey you."
 
-	para "#MON höherer"
-	line "Level gehorchen"
-	cont "Dir jedoch nicht!"
+	para "Any higher, they"
+	line "become unruly!"
 
-	para "Ferner kannst Du"
-	line "den ZERSCHNEIDER"
-	cont "außerhalb von"
-	cont "Kämpfen nutzen!"
+	para "It also lets you"
+	line "use CUT outside"
+	cont "of battle."
 	prompt
 
 _CeruleanBadgeHouseThunderBadgeText::
-	text "Die"
-	line "INITIATIVE Deiner"
-	cont "#MON nimmt zu."
+	text "The SPEED of all"
+	line "#MON increases"
+	cont "a little bit."
 
-	para "Desweiteren ist"
-	line "es Dir möglich,"
-	cont "FLIEGEN außerhalb"
-	cont "von Kämpfen"
-	cont "einzusetzen."
+	para "It also lets you"
+	line "use FLY outside"
+	cont "of battle."
 	prompt
 
 _CeruleanBadgeHouseRainbowBadgeText::
-	text "#MON bis"
-	line "Level 50 folgen"
-	cont "Deinen Befehlen."
+	text "#MON up to L50"
+	line "will obey you."
 
-	para "#MON höherer"
-	line "Level gehorchen"
-	cont "Dir jedoch nicht!"
+	para "Any higher, they"
+	line "become unruly!"
 
-	para "Zusätzlich kannst"
-	line "Du außerhalb von"
-	cont "Kämpfen STÄRKE"
-	cont "einsetzen."
+	para "It also lets you"
+	line "use STRENGTH out-"
+	cont "side of battle."
 	prompt
 
 _CeruleanBadgeHouseSoulBadgeText::
-	text "Die VERTEIDIGUNG"
-	line "Deiner #MON"
-	cont "wird verbessert."
+	text "The DEFENSE of all"
+	line "#MON increases"
+	cont "a little bit."
 
-	para "Ferner kannst Du"
-	line "außerhalb von"
-	cont "Kämpfen SURFER"
-	cont "verwenden."
+	para "It also lets you"
+	line "use SURF outside"
+	cont "of battle."
 	prompt
 
 _CeruleanBadgeHouseMarshBadgeText::
-	text "#MON bis"
-	line "Level 70 folgen"
-	cont "Deinen Befehlen."
+	text "#MON up to L70"
+	line "will obey you."
 
-	para "#MON höherer"
-	line "Level gehorchen"
-	cont "Dir jedoch nicht!"
+	para "Any higher, they"
+	line "become unruly!"
 	prompt
 
 _CeruleanBadgeHouseVolcanoBadgeText::
-	text "Die SPEZIAL-"
-	line "FÄHIGKEITEN"
-	cont "Deiner #MON"
-	cont "werden erhöht."
+	text "Your #MON's"
+	line "SPECIAL abilities"
+	cont "increase a bit."
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::
-	text "Jegliches #MON"
-	line "gehorcht Dir!"
+	text "All #MON will"
+	line "obey you!"
 	prompt

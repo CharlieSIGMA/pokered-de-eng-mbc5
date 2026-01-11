@@ -1,18 +1,14 @@
 _Route11Gate1FGuardText::
-	text "Je mehr #MON"
-	line "man fängt, desto"
-	cont "schwieriger wird"
-	cont "es, ihnen allen"
-	cont "Spitznamen zu"
-	cont "geben!"
+	text "When you catch"
+	line "lots of #MON,"
+	cont "isn't it hard to"
+	cont "think up names?"
 
-	para "In LAVANDIA"
-	line "lebt ein Mann,"
-	cont "der Spitznamen"
-	cont "von #MON"
-	cont "bewertet."
+	para "In LAVENDER TOWN,"
+	line "there's a man who"
+	cont "rates #MON"
+	cont "nicknames."
 
-	para "Er nimmt auch"
-	line "Namensänderungen"
-	cont "vor!"
+	para "He'll help you"
+	line "rename them too!"
 	done

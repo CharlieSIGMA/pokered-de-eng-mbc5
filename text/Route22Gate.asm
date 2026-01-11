@@ -1,25 +1,22 @@
 _Route22GateGuardNoBoulderbadgeText::
-	text "Hier dürfen nur"
-	line "erfahrene Trainer"
-	cont "passieren!"
+	text "Only truly skilled"
+	line "trainers are"
+	cont "allowed through."
 
-	para "Und Du besitzt"
-	line "den FELSORDEN"
-	cont "noch nicht!@"
+	para "You don't have the"
+	line "BOULDERBADGE yet!@"
 	text_end
 
 _Route22GateGuardICantLetYouPassText::
 	text_start
 
-	para "Befehl ist"
-	line "Befehl! Ich"
-	cont "darf Dich nicht"
-	cont "durchlassen!"
+	para "The rules are"
+	line "rules. I can't"
+	cont "let you pass."
 	done
 
 _Route22GateGuardGoRightAheadText::
-	text "Oh! Du trägst"
-	line "den FELSORDEN!"
-	cont "Dann darfst Du"
-	cont "weitergehen!@"
+	text "Oh! That is the"
+	line "BOULDERBADGE!"
+	cont "Go right ahead!@"
 	text_end

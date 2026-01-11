@@ -1,48 +1,42 @@
 _LoreleisRoomLoreleiBeforeBattleText::
-	text "Willkommen"
-	line "in der PKMN-LIGA!"
+	text "Welcome to"
+	line "#MON LEAGUE!"
 
-	para "Ich bin LORELEI"
-	line "und gehöre zu den"
-	cont "TOP VIER!"
+	para "I am LORELEI of"
+	line "the ELITE FOUR!"
 
-	para "Niemand kann sich"
-	line "mit mir messen,"
-	cont "wenn es um"
-	cont "EIS-#MON geht!"
+	para "No one can best"
+	line "me when it comes"
+	cont "to icy #MON!"
 
-	para "Die Kraft von"
-	line "Eis-Attacken ist"
-	cont "unglaublich!"
+	para "Freezing moves"
+	line "are powerful!"
 
-	para "Du wirst um Gnade"
-	line "winseln, wenn ich"
-	cont "Deine  #MON"
-	cont "eingefroren habe!"
+	para "Your #MON will"
+	line "be at my mercy"
+	cont "when they are"
+	cont "frozen solid!"
 
 	para "Hahaha!"
-	line "Bist Du bereit?"
+	line "Are you ready?"
 	done
 
 _LoreleisRoomLoreleiEndBattleText::
-	text "Wie"
-	line "kannst Du es"
-	cont "wagen?"
+	text "How"
+	line "dare you!"
 	prompt
 
 _LoreleisRoomLoreleiAfterBattleText::
-	text "Du bist besser,"
-	line "als ich dachte!"
-	cont "Geh ruhig weiter!"
+	text "You're better"
+	line "than I thought!"
+	cont "Go on ahead!"
 
-	para "Das hier war nur"
-	line "ein Vorgeschmack"
-	cont "auf die Dinge,"
-	cont "die Dich noch"
-	cont "erwarten..."
+	para "You only got a"
+	line "taste of #MON"
+	cont "LEAGUE power!"
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
-	text "EINE STIMME:"
-	line "Lauf nicht davon!"
+	text "Someone's voice:"
+	line "Don't run away!"
 	done

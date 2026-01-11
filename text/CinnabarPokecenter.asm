@@ -1,23 +1,21 @@
 _CinnabarPokecenterCooltrainerFText::
-	text "Man kann die"
-	line "Entwicklung eines"
-	cont "#MON stoppen."
+	text "You can cancel"
+	line "evolution."
 
-	para "Bricht man sie"
-	line "ab, dann bleibt"
-	cont "das #MON,"
-	cont "wie es ist."
+	para "When a #MON is"
+	line "evolving, you can"
+	cont "stop it and leave"
+	cont "it the way it is."
 	done
 
 _CinnabarPokecenterGentlemanText::
-	text "Tausche #MON"
-	line "mit Freunden!"
+	text "Do you have any"
+	line "friends?"
 
-	para "Ein #MON, das"
-	line "man bei einem"
-	cont "Tausch erhält,"
-	cont "wächst schneller!"
+	para "#MON you get"
+	line "in trades grow"
+	cont "very quickly."
 
-	para "Du solltest es"
-	line "ausprobieren!"
+	para "I think it's"
+	line "worth a try!"
 	done

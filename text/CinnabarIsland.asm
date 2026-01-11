@@ -1,41 +1,37 @@
 _CinnabarIslandDoorIsLockedText::
-	text "Die Tür ist"
-	line "verschlossen..."
+	text "The door is"
+	line "locked..."
 	done
 
 _CinnabarIslandGirlText::
-	text "PYRO, der"
-	line "ARENALEITER der"
-	cont "ZINNOBERINSEL,"
-	cont "ist ein seltsamer"
-	cont "Mann. Er lebt"
-	cont "hier seit Jahren."
+	text "CINNABAR GYM's"
+	line "BLAINE is an odd"
+	cont "man who has lived"
+	cont "here for decades."
 	done
 
 _CinnabarIslandGamblerText::
-	text "Forscher"
-	line "experimentieren"
-	cont "in dem"
-	cont "ausgebrannten"
-	cont "Gebäude."
+	text "Scientists conduct"
+	line "experiments in"
+	cont "the burned out"
+	cont "building."
 	done
 
 _CinnabarIslandSignText::
-	text "ZINNOBERINSEL"
-	line "Die Stadt"
-	cont "brennender"
-	cont "Leidenschaft!"
+	text "CINNABAR ISLAND"
+	line "The Fiery Town of"
+	cont "Burning Desire"
 	done
 
 _CinnabarIslandPokemonLabSignText::
-	text "#MON LABOR"
+	text "#MON LAB"
 	done
 
 _CinnabarIslandGymSignText::
-	text "ZINNOBERINSEL"
-	line "PKMN-ARENA"
-	cont "ARENALEITER: PYRO"
+	text "CINNABAR ISLAND"
+	line "#MON GYM"
+	cont "LEADER: BLAINE"
 
-	para "Der hitzköpfige"
-	line "Quiz-Master!"
+	para "The Hot-Headed"
+	line "Quiz Master!"
 	done

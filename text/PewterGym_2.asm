@@ -1,166 +1,146 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "Es gibt die"
-	line "verschiedensten"
-	cont "Trainer auf der"
-	cont "Welt!"
+	text "There are all"
+	line "kinds of trainers"
+	cont "in the world!"
 
-	para "Du scheinst ein"
-	line "sehr begabter"
-	cont "#MON-TRAINER"
-	cont "zu sein!"
+	para "You appear to be"
+	line "very gifted as a"
+	cont "#MON trainer!"
 
-	para "Gehe in die"
-	line "PKMN-ARENA von"
-	cont "AZURIA CITY und"
-	cont "teste dort Dein"
-	cont "Können!"
+	para "Go to the GYM in"
+	line "CERULEAN and test"
+	cont "your abilities!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Warte! Nimm das"
-	line "hier mit!"
+	text "Wait! Take this"
+	line "with you!"
 	done
 
 _PewterGymReceivedTM34Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received"
 	line "TM34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "Eine TM enthält"
-	line "Attacken, die"
-	cont "#MON erlernen"
-	cont "können!"
+	para "A TM contains a"
+	line "technique that"
+	cont "can be taught to"
+	cont "#MON!"
 
-	para "Man kann eine TM"
-	line "nur ein einziges"
-	cont "Mal verwenden!"
-	cont "Wähle sorgfältig"
-	cont "jenes #MON"
-	cont "aus, dem Du eine"
-	cont "TM geben"
-	cont "möchtest!"
+	para "A TM is good only"
+	line "once! So when you"
+	cont "use one to teach"
+	cont "a new technique,"
+	cont "pick the #MON"
+	cont "carefully!"
 
-	para "TM34 ist"
-	line "GEDULD!"
+	para "TM34 contains"
+	line "BIDE!"
 
-	para "Dein #MON"
-	line "absorbiert die"
-	cont "gegnerischen"
-	cont "Attacken und"
-	cont "kontert mit"
-	cont "doppelter Kraft!"
+	para "Your #MON will"
+	line "absorb damage in"
+	cont "battle then pay"
+	cont "it back double!"
 	done
 
 _PewterGymTM34NoRoomText::
-	text "Du hast momentan"
-	line "keinen Platz für"
-	cont "weitere Items!"
+	text "You don't have"
+	line "room for this!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "Ich habe"
-	line "Dich falsch"
-	cont "eingeschätzt!"
+	text "I took"
+	line "you for granted."
 
-	para "Nimm den"
-	line "FELSORDEN als"
-	cont "Zeichen meiner"
-	cont "Ehrerbietung!"
+	para "As proof of your"
+	line "victory, here's"
+	cont "the BOULDERBADGE!"
 
-	para "<PLAYER> erhält"
-	line "den FELSORDEN!@"
+	para "<PLAYER> received"
+	line "the BOULDERBADGE!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "Das ist ein"
-	line "offizieller ORDEN"
-	cont "der PKMN-LIGA!"
+	para "That's an official"
+	line "#MON LEAGUE"
+	cont "BADGE!"
 
-	para "Die #MON"
-	line "der Person, die"
-	cont "den ORDEN trägt,"
-	cont "werden stärker!"
+	para "Its bearer's"
+	line "#MON become"
+	cont "more powerful!"
 
-	para "Von nun an können"
-	line "Deine #MON"
-	cont "jederzeit BLITZ"
-	cont "einsetzen!"
+	para "The technique"
+	line "FLASH can now be"
+	cont "used any time!"
 	prompt
 
 _PewterGymCooltrainerMBattleText::
-	text "Bleib stehen wo"
-	line "Du bist, Kleiner!"
+	text "Stop right there,"
+	line "kid!"
 
-	para "Es dauert noch"
-	line "Lichtjahre, bis"
-	cont "Du gegen ROCKO"
-	cont "antreten kannst!"
+	para "You're still light"
+	line "years from facing"
+	cont "BROCK!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Mist!"
+	text "Darn!"
 
-	para "Lichtjahre messen"
-	line "die Entfernung,"
-	cont "nicht die Zeit!"
+	para "Light years isn't"
+	line "time! It measures"
+	cont "distance!"
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "Du bist ganz gut,"
-	line "aber nicht so"
-	cont "gut wie ROCKO!"
+	text "You're pretty hot,"
+	line "but not as hot"
+	cont "as BROCK!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hallo! Sieht aus,"
-	line "als hättest Du"
-	cont "das Zeug zu einem"
-	cont "#MON-CHAMPION!"
+	text "Hiya! I can tell"
+	line "you have what it"
+	cont "takes to become a"
+	cont "#MON champ!"
 
-	para "Ich bin kein"
-	line "Trainer, aber ich"
-	cont "kann Dir ein paar"
-	cont "Tips geben!"
+	para "I'm no trainer,"
+	line "but I can tell"
+	cont "you how to win!"
 
-	para "Laß mich Dir den"
-	line "Weg zum Erfolg"
-	cont "zeigen!"
+	para "Let me take you"
+	line "to the top!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "Alles klar! Dann"
-	line "kann es losgehen!"
+	text "All right! Let's"
+	line "get happening!"
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "Das #MON an"
-	line "der Spitze der"
-	cont "#MON-LISTE"
-	cont "kämpft als"
-	cont "Erstes!"
+	text "The 1st #MON"
+	line "out in a match is"
+	cont "at the top of the"
+	cont "#MON LIST!"
 
-	para "Wenn Du die"
-	line "Reihenfolge der"
-	cont "#MON änderst,"
-	cont "könnten Kämpfe"
-	cont "leichter werden!"
+	para "By changing the"
+	line "order of #MON,"
+	cont "matches could be"
+	cont "made easier!"
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "Der Tip ist"
-	line "kostenlos! Laß"
-	cont "uns anfangen!"
+	text "It's a free"
+	line "service! Let's"
+	cont "get happening!"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Ganz wie ich es"
-	line "mir gedacht habe! "
-	cont "Aus Dir kann ein"
-	cont "#MON-CHAMPION"
-	cont "werden!"
+	text "Just as I thought!"
+	line "You're #MON"
+	cont "champ material!"
 	done

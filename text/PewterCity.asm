@@ -1,134 +1,117 @@
 _PewterCityCooltrainerFText::
-	text "Gerüchten zufolge"
-	line "sollen die PIEPIS"
-	cont "vom Mond stammen!"
+	text "It's rumored that"
+	line "CLEFAIRYs came"
+	cont "from the moon!"
 
-	para "Nachdem der"
-	line "MONDSTEIN auf den"
-	cont "MONDBERG fiel,"
-	cont "sind sie erstmals"
-	cont "aufgetaucht!"
+	para "They appeared "
+	line "after MOON STONE"
+	cont "fell on MT.MOON."
 	done
 
 _PewterCityCooltrainerMText::
-	text "Hier gibt es nur"
-	line "wenige ernsthafte"
-	cont "#MON-Trainer!"
+	text "There aren't many"
+	line "serious #MON"
+	cont "trainers here!"
 
-	para "Aber ROCKO, der"
-	line "ARENALEITER von"
-	cont "MARMORIA CITY,"
-	cont "versteht sein"
-	cont "Geschäft!"
+	para "They're all like"
+	line "BUG CATCHERs,"
+	cont "but PEWTER GYM's"
+	cont "BROCK is totally"
+	cont "into it!"
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
-	text "Warst Du schon"
-	line "im MUSEUM?"
+	text "Did you check out"
+	line "the MUSEUM?"
 	done
 
 _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
-	text "Waren die"
-	line "Fossilien vom"
-	cont "MONDBERG nicht"
-	cont "einmalig?"
+	text "Weren't those"
+	line "fossils from MT."
+	cont "MOON amazing?"
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "Wirklich nicht?"
-	line "Es ist aber einen"
-	cont "Besuch wert!"
+	text "Really?"
+	line "You absolutely"
+	cont "have to go!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
-	text "Es ist gleich da"
-	line "drüben! Man muß"
-	cont "zwar Eintritt"
-	cont "bezahlen, aber"
-	cont "das ist es wert!"
+	text "It's right here!"
+	line "You have to pay"
+	cont "to get in, but"
+	cont "it's worth it!"
+	cont "See you around!"
 	done
 
 _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
-	text "Pst! Weißt Du,"
-	line "was ich hier"
-	cont "mache?"
+	text "Psssst!"
+	line "Do you know what"
+	cont "I'm doing?"
 	done
 
 _PewterCitySuperNerd2ThatsRightText::
-	text "Stimmt! Es ist"
-	line "harte Arbeit!"
+	text "That's right!"
+	line "It's hard work!"
 	done
 
 _PewterCitySuperNerd2ImSprayingRepelText::
-	text "Ich versprühe"
-	line "SCHUTZ,  um"
-	cont "#MON von"
-	cont "meinem Garten"
-	cont "fernzuhalten!"
+	text "I'm spraying REPEL"
+	line "to keep #MON"
+	cont "out of my garden!"
 	done
 
 _PewterCityYoungsterYoureATrainerFollowMeText::
-	text "Du bist Trainer?"
-	line "ROCKO ist ständig"
-	cont "auf der Suche"
-	cont "nach neuen"
-	cont "Herausforderern!"
-	cont "Folge mir!"
+	text "You're a trainer"
+	line "right? BROCK's"
+	cont "looking for new"
+	cont "challengers!"
+	cont "Follow me!"
 	done
 
 _PewterCityYoungsterGoTakeOnBrockText::
-	text "Wenn Du genug"
-	line "Mumm hast, dann"
-	cont "versuche Dich an"
-	cont "ROCKO!"
+	text "If you have the"
+	line "right stuff, go"
+	cont "take on BROCK!"
 	done
 
 _PewterCityTrainerTipsText::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Unabhängig von"
-	line "der Dauer seines"
-	cont "Einsatzes erhält"
-	cont "jedes #MON"
-	cont "für die Teilnahme"
-	cont "an einem Kampf"
-	cont "Erfahrungspunkte,",$30,""
-	cont "EP! "
+	para "Any #MON that"
+	line "takes part in"
+	cont "battle, however"
+	cont "short, earns EXP!"
 	done
 
 _PewterCityPoliceNoticeSignText::
-	text "ACHTUNG!"
+	text "NOTICE!"
 
-	para "Diebe haben"
-	line "#MON-Fossilien"
-	cont "vom MONDBERG"
-	cont "gestohlen! Wenn"
-	cont "Sie sachdienliche"
-	cont "Hinweise haben,"
-	cont "wenden Sie sich"
-	cont "bitte an die"
-	cont "Polizei in"
-	cont "MARMORIA CITY!"
+	para "Thieves have been"
+	line "stealing #MON"
+	cont "fossils at MT."
+	cont "MOON! Please call"
+	cont "PEWTER POLICE"
+	cont "with any info!"
 	done
 
 _PewterCityMuseumSignText::
-	text "MARMORIA CITY"
-	line "WISSENSCHAFTS-"
-	cont "MUSEUM"
+	text "PEWTER MUSEUM"
+	line "OF SCIENCE"
 	done
 
 _PewterCityGymSignText::
-	text "MARMORIA CITY"
-	line "PKMN-ARENA"
-	cont "ARENALEITER:"
-	cont "ROCKO"
+	text "PEWTER CITY"
+	line "#MON GYM"
+	cont "LEADER: BROCK"
 
-	para "Der steinharte"
-	line "#MON-Trainer!"
+	para "The Rock Solid"
+	line "#MON Trainer!"
 	done
 
 _PewterCitySignText::
-	text "MARMORIA CITY"
-	line "Die steingraue"
-	cont "Stadt!"
+	text "PEWTER CITY"
+	line "A Stone Gray"
+	cont "City"
 	done

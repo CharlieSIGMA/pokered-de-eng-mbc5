@@ -1,31 +1,27 @@
 _SafariZoneNorthRestHouseScientistText::
-	text "Alle Items,"
-	line "die Du findest,"
-	cont "gehören Dir!"
+	text "You can keep any"
+	line "item you find on"
+	cont "the ground here."
 
-	para "Aber Dir wird die"
-	line "Zeit davonlaufen,"
-	cont "wenn Du alle auf"
-	cont "einmal einsammeln"
-	cont "möchtest!"
+	para "But, you'll run"
+	line "out of time if"
+	cont "you try for all"
+	cont "of them at once!"
 	done
 
 _SafariZoneNorthRestHouseSafariZoneWorkerText::
-	text "Gehe in die"
-	line "SAFARI-ZONE!"
-
-	para "Du kannst dort"
-	line "einen Preis"
-	cont "gewinnen!"
+	text "Go to the deepest"
+	line "part of the"
+	cont "SAFARI ZONE. You"
+	cont "will win a prize!"
 	done
 
 _SafariZoneNorthRestHouseGentlemanText::
-	text "Mein EVOLI hat"
-	line "sich zu FLAMARA"
-	cont "entwickelt!"
+	text "My EEVEE evolved"
+	line "into FLAREON!"
 
-	para "Aber bei einem"
-	line "Freund hat sich"
-	cont "EVOLI zu AQUANA"
-	cont "entwickelt!"
+	para "But, a friend's"
+	line "EEVEE turned into"
+	cont "a VAPOREON!"
+	cont "I wonder why?"
 	done

@@ -181,7 +181,7 @@ SaveMenu:
 	jp DelayFrames
 
 NowSavingString:
-	db "Speichern...@"
+	db "Now saving...@"
 
 SaveTheGame_YesOrNo:
 	call PrintText
@@ -524,7 +524,7 @@ BoxNames:
 	next "BOX12@"
 
 BoxNoText:
-	db "BOX Nr.@"
+	db "BOX No.@"
 
 EmptyAllSRAMBoxes:
 ; marks all boxes in SRAM as empty (initialisation for the first time the

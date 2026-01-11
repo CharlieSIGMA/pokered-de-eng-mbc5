@@ -1,86 +1,78 @@
 _CinnabarLabFossilRoomScientist1Text::
-	text "Hallo!"
+	text "Hiya!"
 
-	para "Ich leite hier"
-	line "die Forschungen!"
+	para "I am important"
+	line "doctor!"
 
-	para "Wir erforschen"
-	line "Fossilien von"
-	cont "URZEIT-#MON!"
+	para "I study here rare"
+	line "#MON fossils!"
 
-	para "Hast Du ein"
-	line "Fossil für mich?"
+	para "You! Have you a"
+	line "fossil for me?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "Nein? Zu schade!"
+	text "No! Is too bad!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "Es wird einige"
-	line "Zeit dauern!"
+	text "I take a little"
+	line "time!"
 
-	para "Komm einfach"
-	line "später wieder"
-	cont "vorbei!"
+	para "You go for walk a"
+	line "little while!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
-	text "Wo warst Du?"
+	text "Where were you?"
 
-	para "Wir haben"
-	line "Dein Fossil"
-	cont "wiederbelebt!"
+	para "Your fossil is"
+	line "back to life!"
 
-	para "Ein @"
+	para "It was @"
 	text_ram wStringBuffer
-	text ","
-	line "ganz wie ich es"
-	cont "vermutet habe!"
+	text_start
+	line "like I think!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1SeesFossilText::
-	text "Oh! Das ist ein"
+	text "Oh! That is"
 	line "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "Es ist ein Fossil"
-	line "von @"
+	para "It is fossil of"
+	line "@"
 	text_ram wStringBuffer
-	text ","
-	cont "einem schon lange"
-	cont "ausgestorbenen"
-	cont "#MON!"
+	text ", a"
+	cont "#MON that is"
+	cont "already extinct!"
 
-	para "Dank modernster"
-	line "Technik können"
-	cont "wir #MON"
-	cont "aus Fossilien"
-	cont "wiederbeleben!"
+	para "My Resurrection"
+	line "Machine will make"
+	cont "that #MON live"
+	cont "again!"
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "Gib es schnell"
-	line "her, damit ich"
-	cont "fortfahren kann!"
+	text "So! You hurry and"
+	line "give me that!"
 
-	para "<PLAYER> übergibt"
-	line "das @"
+	para "<PLAYER> handed"
+	line "over @"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "Es wird einige"
-	line "Zeit dauern!"
+	text "I take a little"
+	line "time!"
 
-	para "Komm einfach"
-	line "später wieder"
-	cont "vorbei!"
+	para "You go for walk a"
+	line "little while!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
-	text "Du bist jederzeit"
-	line "willkommen!"
+	text "Aiyah! You come"
+	line "again!"
 	done

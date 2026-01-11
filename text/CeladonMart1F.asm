@@ -1,33 +1,31 @@
 _CeladonMart1FReceptionistText::
-	text "Willkommen im"
-	line "EINKAUFSZENTRUM"
-	cont "von PRISMANIA"
-	cont "CITY!"
+	text "Hello! Welcome to"
+	line "CELADON DEPT."
+	cont "STORE."
 
-	para "Auf der Tafel"
-	line "rechts findest Du"
-	cont "eine Übersicht."
+	para "The board on the"
+	line "right describes"
+	cont "the store layout."
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "EG: KUNDEN-"
-	line "INFORMATION"
+	text "1F: SERVICE"
+	line "    COUNTER"
 
-	para "S1: UTENSILIEN"
-	line "FÜR TRAINER"
+	para "2F: TRAINER'S"
+	line "    MARKET"
 
-	para "S2: VIDEOSPIELE"
+	para "3F: TV GAME SHOP"
 
-	para "S3: GESCHENK-"
-	line "ARTIKEL"
+	para "4F: WISEMAN GIFTS"
 
-	para "S4: DROGERIE"
+	para "5F: DRUG STORE"
 
-	para "DACHGARTEN:"
-	line "AUTOMATEN"
+	para "ROOFTOP SQUARE:"
+	line "VENDING MACHINES"
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "EG: KUNDEN-"
-	line "INFORMATION"
+	text "1F: SERVICE"
+	line "    COUNTER"
 	done

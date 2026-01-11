@@ -525,4 +525,4 @@ PrintListMenuEntries::
 	jp PlaceString
 
 ListMenuCancelText::
-	db "ZURÜCK@"
+	db "CANCEL@"

@@ -1,125 +1,113 @@
 _SSAnne2FRoomsGentleman3Text::
-	text "Auf all meinen"
-	line "Reisen habe ich"
-	cont "nie ein solch"
-	cont "verschlafenes"
-	cont "#MON gesehen!"
+	text "In all my travels"
+	line "I've never seen"
+	cont "any #MON sleep"
+	cont "like this one!"
 
-	para "Es sieht ungefähr"
-	line "so aus..."
+	para "It was something"
+	line "like this!"
 	prompt
 
 _SSAnne2FRoomsGentleman4Text::
-	text "Ich habe schon"
-	line "Leute auf #MON"
-	cont "übers Wasser"
-	cont "gleiten sehen!"
+	text "Ah yes, I have"
+	line "seen some #MON"
+	cont "ferry people"
+	cont "across the water!"
 	done
 
 _SSAnne2FRoomsGrampsText::
-	text "#MON können"
-	line "Büsche mit dem"
-	cont "ZERSCHNEIDER"
-	cont "kleinhacken."
+	text "#MON can CUT"
+	line "down small bushes."
 	done
 
 _SSAnne2FRoomsGentleman5Text::
-	text "Hast Du die"
-	line "SAFARI-ZONE in"
-	cont "FUCHSANIA CITY"
-	cont "schon besucht?"
+	text "Have you gone to"
+	line "the SAFARI ZONE"
+	cont "in FUCHSIA CITY?"
 
-	para "Es gibt dort sehr"
-	line "seltene #MON!"
+	para "It had many rare"
+	line "kinds of #MON!!"
 	done
 
 _SSAnne2FRoomsLittleBoyText::
-	text "Mein Papa war mit"
-	line "mir in der"
-	cont "SAFARI-ZONE! Es"
-	cont "war aufregend!"
+	text "Me and my Daddy"
+	line "think the SAFARI"
+	cont "ZONE is awesome!"
 	done
 
 _SSAnne2FRoomsBrunetteGirlText::
-	text "Der KAPITÄN war"
-	line "kreidebleich! Er"
-	cont "sah schlecht aus!"
+	text "The CAPTAIN looked"
+	line "really sick and"
+	cont "pale!"
 	done
 
 _SSAnne2FRoomsBeautyText::
-	text "Viele Leute werden"
-	line "leicht seekrank!"
+	text "I hear many people"
+	line "get seasick!"
 	done
 
 _SSAnne2FRoomsGentleman1BattleText::
-	text "Im Wettstreit mit"
-	line "der Jugend bleib"
-	cont "ich jung!"
+	text "Competing against"
+	line "the young keeps"
+	cont "me youthful."
 	done
 
 _SSAnne2FRoomsGentleman1EndBattleText::
-	text "Ahhh!"
-	line "Da fühlt man sich"
-	cont "gleich jünger!"
+	text "Good"
+	line "fight! Ah, I feel"
+	cont "young again!"
 	prompt
 
 _SSAnne2FRoomsGentleman1AfterBattleText::
-	text "Vor 15 Jahren"
-	line "hätte ich mit"
-	cont "links gewonnen..."
+	text "15 years ago, I"
+	line "would have won!"
 	done
 
 _SSAnne2FRoomsFisherBattleText::
-	text "Schau Dir an, was"
-	line "ich an Land"
-	cont "gezogen habe!"
+	text "Check out what I"
+	line "fished up!"
 	done
 
 _SSAnne2FRoomsFisherEndBattleText::
-	text "OK!"
-	line "Das war's für"
-	cont "mich! Tschüss!!!"
+	text "I'm"
+	line "all out!"
 	prompt
 
 _SSAnne2FRoomsFisherAfterBattleText::
-	text "Eine Party?"
+	text "Party?"
 
-	para "Die dürfte längst"
-	line "vorbei sein. Du"
-	cont "bist spät dran!"
+	para "The cruise ship's"
+	line "party should be"
+	cont "over by now."
 	done
 
 _SSAnne2FRoomsGentleman2BattleText::
-	text "Was magst Du"
-	line "lieber? Starke"
-	cont "oder seltene"
-	cont "#MON?"
+	text "Which do you like,"
+	line "a strong or a"
+	cont "rare #MON?"
 	done
 
 _SSAnne2FRoomsGentleman2EndBattleText::
-	text "Ich"
-	line "ziehe meinen"
-	cont "Hut vor Dir! Wow!"
+	text "I must"
+	line "salute you!"
 	prompt
 
 _SSAnne2FRoomsGentleman2AfterBattleText::
-	text "Ich mag #MON,"
-	line "die stark und"
-	cont "selten sind!"
+	text "I prefer strong"
+	line "and rare #MON."
 	done
 
 _SSAnne2FRoomsCooltrainerFBattleText::
-	text "Wo warst Du, als"
-	line "die Party lief?"
+	text "I never saw you"
+	line "at the party."
 	done
 
 _SSAnne2FRoomsCooltrainerFEndBattleText::
-	text "Mach mal"
-	line "langsam!!!"
+	text "Take"
+	line "it easy!"
 	prompt
 
 _SSAnne2FRoomsCooltrainerFAfterBattleText::
-	text "Ich bewundere die"
-	line "Stärke Deiner"
-	cont "#MON!"
+	text "Oh, I adore your"
+	line "strong #MON!"
 	done

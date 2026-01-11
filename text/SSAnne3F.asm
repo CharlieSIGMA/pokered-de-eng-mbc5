@@ -1,10 +1,7 @@
 _SSAnne3FSailorText::
-	text "Der KAPITÄN ist"
-	line "ein Meister des"
-	cont "Schwertkampfes!"
+	text "Our CAPTAIN is a"
+	line "sword master!"
 
-	para "Er unterrichtet"
-	line "sogar #MON im"
-	cont "Umgang mit dem"
-	cont "ZERSCHNEIDER!"
+	para "He even teaches"
+	line "CUT to #MON!"
 	done

@@ -31,7 +31,7 @@ MACRO page
 ENDM
 
 MACRO dex
-	db "@@" ; End a Pokédex entry
+	db "<DEXEND>@" ; End a Pokédex entry
 ENDM
 
 

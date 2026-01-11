@@ -1,159 +1,137 @@
 _Route21Fisher1BattleText::
-	text "Möchtest Du"
-	line "wissen, ob die"
-	cont "Fische beißen?"
+	text "You want to know"
+	line "if the fish are"
+	cont "biting?"
 	done
 
 _Route21Fisher1EndBattleText::
-	text "Mist!"
+	text "Dang!"
 	prompt
 
 _Route21Fisher1AfterBattleText::
-	text "Bisher habe ich"
-	line "noch nichts"
-	cont "gefangen!"
+	text "I can't catch"
+	line "anything good!"
 	done
 
 _Route21Fisher2BattleText::
-	text "Ich habe einen"
-	line "guten Fang"
-	cont "gemacht! Möchtest"
-	cont "Du ihn sehen?"
+	text "I got a big haul!"
+	line "Wanna go for it?"
 	done
 
 _Route21Fisher2EndBattleText::
-	text "NEIN!"
-	line "KARPADOR!"
+	text "Darn"
+	line "MAGIKARP!"
 	prompt
 
 _Route21Fisher2AfterBattleText::
-	text "Oh nein! Ich habe"
-	line "schon wieder "
-	cont "ein KARPADOR"
-	cont "gefangen!"
+	text "I seem to only"
+	line "catch MAGIKARP!"
 	done
 
 _Route21Swimmer1BattleText::
-	text "Die See reinigt"
-	line "Körper und Seele!"
+	text "The sea cleanses"
+	line "my body and soul!"
 	done
 
 _Route21Swimmer1EndBattleText::
-	text "Nein!"
+	text "Ayah!"
 	prompt
 
 _Route21Swimmer1AfterBattleText::
-	text "Aber ich mag die"
-	line "Berge genauso"
-	cont "gern!"
+	text "I like the"
+	line "mountains too!"
 	done
 
 _Route21Swimmer2BattleText::
-	text "Stört es Dich,"
-	line "daß ich hier"
-	cont "schwimme?"
+	text "What's wrong with"
+	line "me swimming?"
 	done
 
 _Route21Swimmer2EndBattleText::
-	text "Das"
-	line "war unter der"
-	cont "Gürtellinie!"
+	text "Cheap"
+	line "shot!"
 	prompt
 
 _Route21Swimmer2AfterBattleText::
-	text "Wie habe ich"
-	line "ausgesehen? Wie"
-	cont "ein nasser Sack?"
-	cont "Hau endlich ab!"
+	text "I look like what?"
+	line "A studded inner"
+	cont "tube? Get lost!"
 	done
 
 _Route21Swimmer3BattleText::
-	text "Ich habe alle"
-	line "meine #MON"
-	cont "auf See gefangen!"
+	text "I caught all my"
+	line "#MON at sea!"
 	done
 
 _Route21Swimmer3EndBattleText::
-	text ""
-	line "Auweia! Ich bin"
-	cont "untergegangen!"
+	text "Diver!!"
+	line "Down!!"
 	prompt
 
 _Route21Swimmer3AfterBattleText::
-	text "Wo hast Du Deine"
-	line "#MON gefangen?"
+	text "Where'd you catch"
+	line "your #MON?"
 	done
 
 _Route21Swimmer4BattleText::
-	text "Ich nehme an"
-	line "einem Triathlon"
-	cont "teil!"
+	text "Right now, I'm in"
+	line "a triathlon meet!"
 	done
 
 _Route21Swimmer4EndBattleText::
-	text "Ächz,"
-	line "schnauf..."
+	text "Pant..."
+	line "pant...pant..."
 	prompt
 
 _Route21Swimmer4AfterBattleText::
-	text "Du hast gewonnen!"
-	line "Aber ich kann"
-	cont "noch beim"
-	cont "Marathon und im"
-	cont "Radrennen siegen!"
+	text "I'm beat!"
+	line "But, I still have"
+	cont "the bike race and"
+	cont "marathon left!"
 	done
 
 _Route21Swimmer5BattleText::
-	text "Ahh!"
-	line "Genieße die Sonne"
-	cont "und den Wind!"
+	text "Ahh! Feel the sun"
+	line "and the wind!"
 	done
 
 _Route21Swimmer5EndBattleText::
-	text "Ups!"
-	line "Ich hab verloren!"
+	text "Yow!"
+	line "I lost!"
 	prompt
 
 _Route21Swimmer5AfterBattleText::
-	text "Die Sonne hat"
-	line "mich wie ein"
-	cont "Hähnchen"
-	cont "geröstet!"
+	text "I'm sunburnt to a"
+	line "crisp!"
 	done
 
 _Route21Fisher3BattleText::
-	text "Hey, Du verjagst"
-	line "die Fische!"
+	text "Hey, don't scare"
+	line "away the fish!"
 	done
 
 _Route21Fisher3EndBattleText::
-	text ""
-	line "Entschuldigung,"
-	cont "ich wollte nicht"
-	cont "so barsch sein!"
+	text "Sorry!"
+	line "I didn't mean it!"
 	prompt
 
 _Route21Fisher3AfterBattleText::
-	text "Ich war nur"
-	line "sauer, weil ich"
-	cont "noch nichts"
-	cont "gefangen habe."
+	text "I was just angry"
+	line "that I couldn't"
+	cont "catch anything."
 	done
 
 _Route21Fisher4BattleText::
-	text "Leiste mir"
-	line "Gesellschaft, bis"
-	cont "etwas anbeißt!"
+	text "Keep me company"
+	line "'til I get a hit!"
 	done
 
 _Route21Fisher4EndBattleText::
-	text "Naja,"
-	line "Wenigstens ist"
-	cont "etwas Zeit"
-	cont "vergangen!"
+	text "That"
+	line "burned some time."
 	prompt
 
 _Route21Fisher4AfterBattleText::
-	text "Juchhu! Etwas"
-	line "hat angebissen!"
+	text "Oh wait! I got a"
+	line "bite! Yeah!"
 	done

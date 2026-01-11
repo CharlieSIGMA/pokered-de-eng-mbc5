@@ -123,11 +123,11 @@ BillsHousePokemonListText1:
 	text_end
 
 BillsMonListText:
-	db "EVOLI"
-	next "FLAMARA"
-	next "BLITZA"
-	next "AQUANA"
-	next "ZURÜCK@"
+	db   "EEVEE"
+	next "FLAREON"
+	next "JOLTEON"
+	next "VAPOREON"
+	next "CANCEL@"
 
 BillsHousePokemonListText2:
 	text_far _BillsHousePokemonListText2

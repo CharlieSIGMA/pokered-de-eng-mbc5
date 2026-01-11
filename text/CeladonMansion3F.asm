@@ -1,77 +1,67 @@
 _CeladonMansion3FProgrammerText::
-	text "Ich? Ich bin der"
-	line "Programmierer!"
+	text "Me? I'm the"
+	line "programmer!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "Ich bin der"
-	line "Grafiker!"
-	cont "Ich habe dies"
-	cont "alles gezeichnet!"
+	text "I'm the graphic"
+	line "artist!"
+	cont "I drew you!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "Die Geschichte"
-	line "stammt von mir!"
-	cont "Ist ERIKA nicht"
-	cont "süß?"
+	text "I wrote the story!"
+	line "Isn't ERIKA cute?"
 
-	para "Aber MISTY mag"
-	line "ich auch gerne!"
+	para "I like MISTY a"
+	line "lot too!"
 
-	para "Und nicht zu"
-	line "vergessen,"
-	cont "SABRINA!"
+	para "Oh, and SABRINA,"
+	line "I like her!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Gefällt Dir das"
-	line "Spiel?"
+	text "Is that right?"
 
-	para "Ich habe das"
-	line "Spiel gestaltet!"
+	para "I'm the game"
+	line "designer!"
 
-	para "Auch wenn es sehr"
-	line "mühsam ist, den"
-	cont "#DEX zu"
-	cont "erstellen: Gib"
-	cont "nicht auf!"
+	para "Filling up your"
+	line "#DEX is tough,"
+	cont "but don't quit!"
 
-	para "Zeige ihn mir,"
-	line "wenn er komplett"
-	cont "ist!"
+	para "When you finish,"
+	line "come tell me!"
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Fantastisch!"
-	line "Dein #DEX"
-	cont "ist vollständig!"
-	cont "Herzlichen"
-	cont "Glückwunsch!@"
+	text "Wow! Excellent!"
+	line "You completed"
+	cont "your #DEX!"
+	cont "Congratulations!"
+	cont "...@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "Der Programmcode!"
-	line "Davon sollte man"
-	cont "besser die Finger"
-	cont "lassen!"
+	text "It's the game"
+	line "program! Messing"
+	cont "with it could bug"
+	cont "out the game!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Dort spielt"
-	line "jemand, anstatt"
-	cont "zu arbeiten!"
+	text "Someone's playing"
+	line "a game instead of"
+	cont "working!"
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "Das Drehbuch!"
-	line "Ich schaue mir"
-	cont "das Ende besser"
-	cont "nicht an!"
+	text "It's the script!"
+	line "Better not look"
+	cont "at the ending!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
-	line "Entwicklungs-"
-	cont "Abteilung"
+	line "Development Room"
 	done

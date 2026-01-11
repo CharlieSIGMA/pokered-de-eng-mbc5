@@ -1,24 +1,20 @@
 _FuchsiaPokecenterRockerText::
-	text "Man kann nicht"
-	line "mit nur einem"
-	cont "starken #MON"
-	cont "gewinnen!"
+	text "You can't win"
+	line "with just one"
+	cont "strong #MON."
 
-	para "Es ist mühsam,"
-	line "doch alle #MON"
-	cont "sollten ungefähr"
-	cont "den gleichen"
-	cont "Level haben."
+	para "It's tough, but"
+	line "you have to raise"
+	cont "them evenly."
 	done
 
 _FuchsiaPokecenterCooltrainerFText::
-	text "Westlich von"
-	line "VERTANIA CITY"
-	cont "liegt ein Pfad."
+	text "There's a narrow"
+	line "trail west of"
+	cont "VIRIDIAN CITY."
 
-	para "Er führt zum"
-	line "Hauptquartier der"
-	cont "PKMN-LIGA, der"
-	cont "höchsten Instanz"
-	cont "für Trainer."
+	para "It goes to #MON"
+	line "LEAGUE HQ."
+	cont "The HQ governs"
+	cont "all trainers."
 	done

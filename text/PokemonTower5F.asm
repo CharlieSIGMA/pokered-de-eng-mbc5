@@ -1,42 +1,37 @@
 _PokemonTower5FChanneler1Text::
-	text "Komm her, mein"
-	line "Junge! Ich habe"
-	cont "diese Stelle mit"
-	cont "weißer Magie"
-	cont "versiegelt!"
+	text "Come, child! I"
+	line "sealed this space"
+	cont "with white magic!"
 
-	para "Du kannst Dich"
-	line "hier ausruhen!"
+	para "You can rest here!"
 	done
 
 _PokemonTower5FChanneler2BattleText::
-	text "Gib... mir..."
-	line "Deine... Seele..."
+	text "Give...me..."
+	line "your...soul..."
 	done
 
 _PokemonTower5FChanneler2EndBattleText::
-	text "Puh!"
+	text "Gasp!"
 	prompt
 
 _PokemonTower5FChanneler2AfterBattleText::
-	text "Etwas muß von mir"
-	line "Besitz ergriffen"
-	cont "haben!"
+	text "I was under"
+	line "possession!"
 	done
 
 _PokemonTower5FChanneler3BattleText::
-	text "Es... gibt..."
-	line "kein..."
-	cont "Entkommen..."
+	text "You...shall..."
+	line "join...us..."
 	done
 
 _PokemonTower5FChanneler3EndBattleText::
-	text "Welch"
-	line "ein Alptraum!"
+	text "What"
+	line "a nightmare!"
 	prompt
 
 _PokemonTower5FChanneler3AfterBattleText::
-	text "Ich war verhext!"
+	text "I was possessed!"
 	done
 
 _PokemonTower5FChanneler4BattleText::
@@ -44,37 +39,33 @@ _PokemonTower5FChanneler4BattleText::
 	done
 
 _PokemonTower5FChanneler4EndBattleText::
-	text "Was?"
+	text "Ha?"
 	prompt
 
 _PokemonTower5FChanneler4AfterBattleText::
-	text "So langsam komme"
-	line "ich wieder zu"
-	cont "Sinnen!"
+	text "I regained my"
+	line "senses!"
 	done
 
 _PokemonTower5FChanneler5BattleText::
-	text "Buuh..."
-	line "Buhuhu..."
+	text "Urgah..."
+	line "Urff...."
 	done
 
 _PokemonTower5FChanneler5EndBattleText::
-	text "Das"
-	line "war knapp!"
+	text "Whoo!"
 	prompt
 
 _PokemonTower5FChanneler5AfterBattleText::
-	text "Trotz meiner"
-	line "Erfahrung bin"
-	cont "ich dem Bösen"
-	cont "verfallen!"
+	text "I fell to evil"
+	line "spirits despite"
+	cont "my training!"
 	done
 
 _PokemonTower5FPurifiedZoneText::
-	text "Du hast einen"
-	line "geschützten"
-	cont "Bereich betreten!"
+	text "Entered purified,"
+	line "protected zone!"
 
-	para "<PLAYER>s #MON"
-	line "wurden geheilt!"
+	para "<PLAYER>'s #MON"
+	line "are fully healed!"
 	done

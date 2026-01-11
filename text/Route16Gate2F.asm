@@ -1,29 +1,26 @@
 _Route16Gate2FLittleBoyText::
-	text "Ich mache mit"
-	line "meiner Freundin"
-	cont "einen Ausflug!"
+	text "I'm going for a"
+	line "ride with my girl"
+	cont "friend!"
 	done
 
 _Route16Gate2FLittleGirlText::
-	text "Wir werden mit"
-	line "dem Rad fahren!"
+	text "We're going"
+	line "riding together!"
 	done
 
 _Route16Gate2FLeftBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Du siehst das"
-	line "Einkaufszentrum"
-	cont "von PRISMANIA"
-	cont "CITY!"
+	para "It's CELADON DEPT."
+	line "STORE!"
 	done
 
 _Route16Gate2FRightBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Dort führt ein"
-	line "langer Weg über"
-	cont "das Wasser!"
+	para "There's a long"
+	line "path over water!"
 	done

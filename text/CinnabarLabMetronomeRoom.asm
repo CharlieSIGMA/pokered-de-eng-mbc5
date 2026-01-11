@@ -1,71 +1,64 @@
 _CinnabarLabMetronomeRoomScientist1Text::
-	text "Tak-tak-tak!"
-	line "Ich habe eine"
-	cont "TM konstruiert!"
+	text "Tch-tch-tch!"
+	line "I made a cool TM!"
 
-	para "Sie verursacht"
-	line "die verrücktesten"
-	cont "Dinge!"
+	para "It can cause all"
+	line "kinds of fun!"
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received "
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
-	text "Tak-tak-tak!"
-	line "So klingt ein"
-	cont "METRONOM!"
+	text "Tch-tch-tch!"
+	line "That's the sound"
+	cont "of a METRONOME!"
 
-	para "Damit setzt Dein"
-	line "#MON Attacken"
-	cont "ein, die es gar"
-	cont "nicht kennt!"
+	para "It tweaks your"
+	line "#MON's brain"
+	cont "into using moves"
+	cont "it doesn't know!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Dein Rucksack"
-	line "ist zu voll!"
+	text "Your pack is"
+	line "crammed full!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EVOLI kann sich"
-	line "zu einem von drei"
-	cont "verschiedenen"
-	cont "#MON"
-	cont "entwickeln."
+	text "EEVEE can evolve"
+	line "into 1 of 3 kinds"
+	cont "of #MON."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "Eine E-Mail ist"
-	line "angekommen!"
+	text "There's an e-mail"
+	line "message!"
 
 	para "..."
 
-	para "ARKTOS, ZAPDOS"
-	line "und LAVADOS sind"
-	cont "die 3 legendären"
-	cont "VOGEL-#MON."
+	para "The 3 legendary"
+	line "bird #MON are"
+	cont "ARTICUNO, ZAPDOS"
+	cont "and MOLTRES."
 
-	para "Niemand weiß, in"
-	line "welcher Gegend"
-	cont "sie leben."
+	para "Their whereabouts"
+	line "are unknown."
 
-	para "Wir werden als"
-	line "nächstes in der"
-	cont "Höhle nahe AZURIA"
-	cont "CITY suchen."
+	para "We plan to explore"
+	line "the cavern close"
+	cont "to CERULEAN."
 
-	para "Von: #MON-"
-	line "FORSCHUNGSTEAM"
+	para "From: #MON"
+	line "RESEARCH TEAM"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "Eine Pfeife aus"
-	line "Bernstein!"
+	text "An amber pipe!"
 	done

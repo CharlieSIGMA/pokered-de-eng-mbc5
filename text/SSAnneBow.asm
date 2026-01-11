@@ -1,60 +1,52 @@
 _SSAnneBowSuperNerdText::
-	text "Sperrstunde! Die"
-	line "Party ist vorbei!"
-
-	para "Das Schiff sticht"
-	line "bald in See!"
+	text "The party's over."
+	line "The ship will be"
+	cont "departing soon."
 	done
 
 _SSAnneBowSailor1Text::
-	text "Puh! Ich werde"
-	line "das Deck wohl nie"
-	cont "sauber bekommen!"
+	text "Scrubbing decks"
+	line "is hard work!"
 	done
 
 _SSAnneBowCooltrainerMText::
-	text "Brrr, ich fühle"
-	line "mich elend..."
+	text "Urf. I feel ill."
 
-	para "An der frischen"
-	line "Luft fühle ich"
-	cont "mich besser..."
+	para "I stepped out to"
+	line "get some air."
 	done
 
 _SSAnneBowSailor2BattleText::
-	text "Hey!"
+	text "Hey matey!"
 
-	para "Wie wär's mit"
-	line "einem Tänzchen?"
+	para "Let's do a little"
+	line "jig!"
 	done
 
 _SSAnneBowSailor2EndBattleText::
-	text "Ich bin"
-	line "beeindruckt!"
+	text "You're"
+	line "impressive!"
 	prompt
 
 _SSAnneBowSailor2AfterBattleText::
-	text "Hast Du eine"
-	line "Ahnung, wie viele"
-	cont "unterschiedliche"
-	cont "#MON es gibt?"
+	text "How many kinds of"
+	line "#MON do you"
+	cont "think there are?"
 	done
 
 _SSAnneBowSailor3BattleText::
-	text "Ahoi, Seemann!"
-	line "Bist Du seekrank?"
+	text "Ahoy there!"
+	line "Are you seasick?"
 	done
 
 _SSAnneBowSailor3EndBattleText::
-	text "Du hast"
-	line "Glück gehabt!"
+	text "I was"
+	line "just careless!"
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "Mein Vater sagt,"
-	line "es gäbe 100"
-	cont "verschiedene "
-	cont "#MON. Ich"
-	cont "denke, es gibt"
-	cont "mehr..."
+	text "My Pa said there"
+	line "are 100 kinds of"
+	cont "#MON. I think"
+	cont "there are more."
 	done

@@ -1,21 +1,17 @@
 _PewterMartYoungsterText::
-	text "Ein zwielichtiger"
-	line "alter Mann hat"
-	cont "mir dieses"
-	cont "seltsame #MON"
-	cont "angedreht!"
+	text "A shady, old man"
+	line "got me to buy"
+	cont "this really weird"
+	cont "fish #MON!"
 
-	para "Es ist vollkommen"
-	line "schwach und hat"
-	cont "¥500 gekostet!"
+	para "It's totally weak"
+	line "and it cost ¥500!"
 	done
 
 _PewterMartSuperNerdText::
-	text "Wenn man seine"
-	line "#MON eifrig"
-	cont "trainiert, können"
-	cont "selbst schwächere"
-	cont "#MON für"
-	cont "Überraschungen"
-	cont "gut sein!"
+	text "Good things can"
+	line "happen if you"
+	cont "raise #MON"
+	cont "diligently, even"
+	cont "the weak ones!"
 	done

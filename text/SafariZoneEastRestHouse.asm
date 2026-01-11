@@ -1,20 +1,18 @@
 _SafariZoneEastRestHouseScientistText::
-	text "Wie viele hast Du"
-	line "gefangen? Ich bin"
-	cont "total erschöpft!"
+	text "How many did you"
+	line "catch? I'm bushed"
+	cont "from the work!"
 	done
 
 _SafariZoneEastRestHouseRockerText::
-	text "Ich habe ein"
-	line "CHANEIRA"
-	cont "gefangen!"
+	text "I caught a"
+	line "CHANSEY!"
 
-	para "Die Mühe hat"
-	line "sich gelohnt!"
+	para "That makes this"
+	line "all worthwhile!"
 	done
 
 _SafariZoneEastRestHouseSilphWorkerMText::
-	text "Was für ein Spaß!"
-	line "Aber jetzt bin"
-	cont "ich hundemüde..."
+	text "Whew! I'm tired"
+	line "from all the fun!"
 	done

@@ -1,45 +1,37 @@
 _RedsHouse1FMomWakeUpText::
-	text "MUTTER: Richtig."
-	line "Irgendwann gehen"
-	cont "alle Jungen fort,"
-	cont "um ein Abenteuer"
-	cont "zu erleben!"
+	text "MOM: Right."
+	line "All boys leave"
+	cont "home some day."
+	cont "It said so on TV."
 
-	para "PROF. EICH von"
-	line "nebenan hat nach"
-	cont "Dir gefragt."
+	para "PROF.OAK, next"
+	line "door, is looking"
+	cont "for you."
 	done
 
 _RedsHouse1FMomYouShouldRestText::
-	text "MUTTER: <PLAYER>!"
-	line "Du solltest eine"
-	cont "kurze Pause"
-	cont "einlegen."
+	text "MOM: <PLAYER>!"
+	line "You should take a"
+	cont "quick rest."
 	prompt
 
 _RedsHouse1FMomLookingGreatText::
-	text "MUTTER: Sehr gut!"
-	line "Du und Deine"
-	cont "#MON sehen"
-	cont "großartig aus!"
-	cont "Achte auf Dich!"
+	text "MOM: Oh good!"
+	line "You and your"
+	cont "#MON are"
+	cont "looking great!"
+	cont "Take care now!"
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
-	text "Im Fernsehen"
-	line "läuft ein Film."
-	cont "Vier Jungen"
-	cont "laufen ein"
-	cont "Bahngleis"
-	cont "entlang!"
+	text "There's a movie"
+	line "on TV. Four boys"
+	cont "are walking on"
+	cont "railroad tracks."
 
-	para "Den Film kenne"
-	line "ich schon! Ich"
-	cont "mache mich besser"
-	cont "auf den Weg!"
+	para "I better go too."
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Ups,"
-	line "falsche Richtung!"
+	text "Oops, wrong side."
 	done

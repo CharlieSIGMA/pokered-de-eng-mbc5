@@ -1,73 +1,64 @@
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "KAPITÄN: Urps..."
-	line "Es geht mir gar"
-	cont "nicht gut! Urps!"
+	text "CAPTAIN: Ooargh..."
+	line "I feel hideous..."
+	cont "Urrp! Seasick..."
 
-	para "<PLAYER> massiert"
-	line "dem KAPITÄN den"
-	cont "Rücken!"
+	para "<PLAYER> rubbed"
+	line "the CAPTAIN's"
+	cont "back!"
 
-	para "Rubbel..."
-	line "Schrubb...@"
+	para "Rub-rub..."
+	line "Rub-rub...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "KAPITÄN: Ahhhhh!"
-	line "Ich danke Dir!"
+	text "CAPTAIN: Whew!"
+	line "Thank you! I"
+	cont "feel much better!"
 
-	para "Es geht mir schon"
-	line "viel besser..."
+	para "You want to see"
+	line "my CUT technique?"
 
-	para "Möchtest Du den"
-	line "Umgang mit dem"
-	cont "ZERSCHNEIDER"
-	cont "lernen?"
+	para "I could show you"
+	line "if I wasn't ill..."
 
-	para "Ich könnte es Dir"
-	line "beibringen, aber"
-	cont "mir ist so übel."
+	para "I know! You can"
+	line "have this!"
 
-	para "Ich hab's! Nimm"
-	line "einfach das hier!"
-
-	para "Damit bringst Du"
-	line "Deinen #MON"
-	cont "den Umgang mit"
-	cont "dem ZERSCHNEIDER"
-	cont "ganz leicht bei!"
+	para "Teach it to your"
+	line "#MON and you"
+	cont "can see it CUT"
+	cont "any time!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> got"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "KAPITÄN: Super!"
+	text "CAPTAIN: Whew!"
 
-	para "Endlich bin ich"
-	line "nicht mehr krank!"
-	cont "Es kann losgehen!"
+	para "Now that I'm not"
+	line "sick any more, I"
+	cont "guess it's time."
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh, nein! Du hast"
-	line "keinen Platz für"
-	cont "weitere Items!"
+	text "Oh no! You have"
+	line "no room for this!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Buäh! Manche"
-	line "Dinge macht man"
-	cont "besser nicht..."
+	text "Yuck! Shouldn't"
+	line "have looked!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "1000 natürliche"
-	line "Hausmittel gegen"
-	cont "Seekrankheit..."
-	cont "Der KAPITÄN liest"
-	cont "dieses Buch!"
+	text "How to Conquer"
+	line "Seasickness..."
+	cont "The CAPTAIN's"
+	cont "reading this!"
 	done

@@ -1,15 +1,12 @@
 _Route2GateOaksAideFlashExplanationText::
-	text "Mit der VM BLITZ"
-	line "kann man selbst"
-	cont "die dunkelsten"
-	cont "Höhlen erhellen."
+	text "The HM FLASH"
+	line "lights even the"
+	cont "darkest dungeons."
 	done
 
 _Route2GateYoungsterText::
-	text "Sobald eines"
-	line "Deiner #MON"
-	cont "BLITZ erlernt"
-	cont "hat, kannst"
-	cont "Du Dich in den"
-	cont "FELSTUNNEL wagen!"
+	text "Once a #MON"
+	line "learns FLASH, you"
+	cont "can get through"
+	cont "ROCK TUNNEL."
 	done

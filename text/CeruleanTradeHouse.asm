@@ -1,10 +1,9 @@
 _CeruleanTradeHouseGrannyText::
-	text "Mein Mann tauscht"
-	line "für sein Leben"
-	cont "gern #MON."
+	text "My husband likes"
+	line "trading #MON."
 
-	para "Bist Du auch ein"
-	line "Sammler? Würdest"
-	cont "Du bitte #MON"
-	cont "mit ihm tauschen?"
+	para "If you are a"
+	line "collector, would"
+	cont "you please trade"
+	cont "with him?"
 	done

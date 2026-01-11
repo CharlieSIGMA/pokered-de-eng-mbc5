@@ -1,76 +1,69 @@
 _SSAnneKitchenCook1Text::
-	text "Aus dem Weg, Du"
-	line "Leichtmatrose!"
-
-	para "Wir sind schwer"
-	line "beschäftigt!"
+	text "You, mon petit!"
+	line "We're busy here!"
+	cont "Out of the way!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "Ich habe einen"
-	line "seltsamen Ball im"
-	cont "Müll gesehen..."
+	text "I saw an odd ball"
+	line "in the trash."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "Es gibt zuviel zu"
-	line "tun, nie kann ich"
-	cont "mich ausruhen!"
+	text "I'm so busy I'm"
+	line "getting dizzy!"
 	done
 
 _SSAnneKitchenCook4Text::
-	text "Was hab ich nur"
-	line "verbrochen?"
+	text "Hum-de-hum-de-"
+	line "ho..."
 
-	para "Ich muß immer"
-	line "nur Kartoffeln"
-	cont "schälen..."
+	para "I peel spuds"
+	line "every day!"
+	cont "Hum-hum..."
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Hast Du schon von"
-	line "RELAXO gehört?"
+	text "Did you hear about"
+	line "SNORLAX?"
 
-	para "Es schläft und"
-	line "frißt den ganzen"
-	cont "Tag!"
+	para "All it does is"
+	line "eat and sleep!"
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Schnief... "
-	line "...Schnief..."
+	text "Snivel...Sniff..."
 
-	para "Immer muß ich"
-	line "die Zwiebeln"
-	cont "schälen..."
+	para "I only get to"
+	line "peel onions..."
+	cont "Snivel..."
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Ich bin der Chef"
-	line "de cuisine! "
+	text "Er-hem! Indeed I"
+	line "am le CHEF!"
 
-	para "Der Hauptgang ist"
+	para "Le main course is"
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Lachs-Filet!"
+	text "Salmon du Salad!"
 
-	para "Eine kulinarische"
-	line "Köstlichkeit"
-	cont "sondergleichen!"
+	para "Les guests may"
+	line "gripe it's fish"
+	cont "again, however!"
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Currywurst!"
+	text "Eels au Barbecue!"
 
-	para "Wie kommt eine"
-	line "solche Banalität"
-	cont "auf meine Karte?"
+	para "Les guests will"
+	line "mutiny, I fear."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Muschel-Ragout!"
+	text "Prime Beef Steak!"
 
-	para "Die Gäste werden"
-	line "es lieben!"
+	para "But, have I enough"
+	line "fillets du beef?"
 	done

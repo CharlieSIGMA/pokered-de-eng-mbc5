@@ -1,167 +1,145 @@
 _Route3Text1::
-	text "Puh! Ich muß"
-	line "eine Pause"
-	cont "machen!"
+	text "Whew... I better"
+	line "take a rest..."
+	cont "Groan..."
 
-	para "Der Weg durch den"
-	line "Tunnel aus AZURIA"
-	cont "CITY ist sehr"
-	cont "beschwerlich!"
+	para "That tunnel from"
+	line "CERULEAN takes a"
+	cont "lot out of you!"
 	done
 
 _Route3Youngster1BattleText::
-	text "Hey! Ich kenne"
-	line "Dich aus dem"
-	cont "VERTANIA-WALD!"
+	text "Hey! I met you in"
+	line "VIRIDIAN FOREST!"
 	done
 
 _Route3Youngster1EndBattleText::
-	text "Du"
-	line "hast mich wieder"
-	cont "besiegt!"
+	text "You"
+	line "beat me again!"
 	prompt
 
 _Route3Youngster1AfterBattleText::
-	text "Neben den #MON"
-	line "hier im Wald gibt"
-	cont "es noch Unmengen"
-	cont "anderer #MON"
-	cont "zu entdecken!"
+	text "There are other"
+	line "kinds of #MON"
+	cont "than those found"
+	cont "in the forest!"
 	done
 
 _Route3Youngster2BattleText::
-	text "Überall sind"
-	line "Brennesseln! Und"
-	cont "ich trage Shorts!"
-	cont "So ein MIST!"
+	text "Hi! I like shorts!"
+	line "They're comfy and"
+	cont "easy to wear!"
 	done
 
 _Route3Youngster2EndBattleText::
-	text "Wäre"
-	line "ich heute doch"
-	cont "nur daheim"
-	cont "geblieben!"
+	text "I don't"
+	line "believe it!"
 	prompt
 
 _Route3Youngster2AfterBattleText::
-	text "Du kannst #MON"
-	line "via PC in Boxen"
-	cont "ablegen. Jede BOX"
-	cont "fasst 20 #MON!"
+	text "Are you storing"
+	line "your #MON on"
+	cont "PC? Each BOX can"
+	cont "hold 20 #MON!"
 	done
 
 _Route3CooltrainerF1BattleText::
-	text "Was starrst Du"
-	line "mich so an?"
+	text "You looked at me,"
+	line "didn't you?"
 	done
 
 _Route3CooltrainerF1EndBattleText::
-	text "Du bist"
-	line "gefährlich!"
+	text "You're"
+	line "mean!"
 	prompt
 
 _Route3CooltrainerF1AfterBattleText::
-	text "Hör auf, Leute"
-	line "anzustarren! Dann"
-	cont "mußt Du auch"
-	cont "nicht kämpfen!"
+	text "Quit staring if"
+	line "you don't want to"
+	cont "fight!"
 	done
 
 _Route3Youngster3BattleText::
-	text "Bist Du auch ein"
-	line "Trainer? Laß uns"
-	cont "kämpfen!"
+	text "Are you a trainer?"
+	line "Let's fight!"
 	done
 
 _Route3Youngster3EndBattleText::
-	text "Mit"
-	line "diesen #MON"
-	cont "hätte ich auch"
-	cont "leicht gewonnen!"
+	text "If I"
+	line "had new #MON I"
+	cont "would've won!"
 	prompt
 
 _Route3Youngster3AfterBattleText::
-	text "Wenn auf dem PC"
-	line "eine #MON-BOX"
-	cont "voll ist, wechsle"
-	cont "einfach zu einer"
-	cont "anderen BOX!"
+	text "If a #MON BOX"
+	line "on the PC gets"
+	cont "full, just switch"
+	cont "to another BOX!"
 	done
 
 _Route3CooltrainerF2BattleText::
-	text "Warum schaust"
-	line "Du mich so"
-	cont "fasziniert an?"
+	text "That look you"
+	line "gave me, it's so"
+	cont "intriguing!"
 	done
 
 _Route3CooltrainerF2EndBattleText::
-	text "Bleib"
-	line "immer nett!"
+	text "Be nice!"
 	prompt
 
 _Route3CooltrainerF2AfterBattleText::
-	text "Vermeide Kämpfe,"
-	line "indem Du anderen"
-	cont "Trainern aus dem"
-	cont "Weg gehst!"
+	text "Avoid fights by"
+	line "not letting"
+	cont "people see you!"
 	done
 
 _Route3Youngster4BattleText::
-	text "Hehe! Ich habe"
-	line "meinem Bruder"
-	cont "gesagt, er soll"
-	cont "Shorts anziehen!"
+	text "Hey! You're not"
+	line "wearing shorts!"
 	done
 
 _Route3Youngster4EndBattleText::
-	text "Nein!"
-	line "Verloren!"
+	text "Lost!"
+	line "Lost! Lost!"
 	prompt
 
 _Route3Youngster4AfterBattleText::
-	text "Man sollte nicht"
-	line "alles machen, was"
-	cont "der große Bruder"
-	cont "verlangt! Hehe!"
+	text "I always wear"
+	line "shorts, even in"
+	cont "winter!"
 	done
 
 _Route3Youngster5BattleText::
-	text "Meine neuen"
-	line "#MON wollen"
-	cont "kämpfen!"
+	text "You can fight my"
+	line "new #MON!"
 	done
 
 _Route3Youngster5EndBattleText::
-	text "Du"
-	line "hast meine"
-	cont "#MON besiegt!"
+	text "Done"
+	line "like dinner!"
 	prompt
 
 _Route3Youngster5AfterBattleText::
-	text "Die #MON eines"
-	line "Trainers sind"
-	cont "stärker als"
-	cont "wildlebende!"
+	text "Trained #MON"
+	line "are stronger than"
+	cont "the wild ones!"
 	done
 
 _Route3CooltrainerF3BattleText::
-	text "Huch! Sollen das"
-	line "etwa Annäherungs-"
-	cont "versuche sein?"
+	text "Eek! Did you"
+	line "touch me?"
 	done
 
 _Route3CooltrainerF3EndBattleText::
-	text ""
-	line "Bleib mir fern!"
+	text "That's it?"
 	prompt
 
 _Route3CooltrainerF3AfterBattleText::
-	text "Die ROUTE 4 liegt"
-	line "am Fuße des"
-	cont "MONDBERGES."
+	text "ROUTE 4 is at the"
+	line "foot of MT.MOON."
 	done
 
 _Route3SignText::
 	text "ROUTE 3"
-	line "ZUM MONDBERG"
+	line "MT.MOON AHEAD"
 	done

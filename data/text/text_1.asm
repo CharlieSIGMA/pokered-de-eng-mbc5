@@ -1,17 +1,16 @@
 _CardKeySuccessText1::
-	text "Bingo! @"
+	text "Bingo!@"
 	text_end
 
 _CardKeySuccessText2::
-	text "Der"
-	line "TÜRÖFFNER hat die"
-	cont "Tür entriegelt!"
+	text_start
+	line "The CARD KEY"
+	cont "opened the door!"
 	done
 
 _CardKeyFailText::
-	text "Mist! Die Tür"
-	line "geht nur mit dem"
-	cont "TÜRÖFFNER auf!"
+	text "Darn! It needs a"
+	line "CARD KEY!"
 	done
 
 _TrainerNameText::
@@ -20,19 +19,17 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Nicht einmal ein"
-	line "alter Stiefel hat"
-	cont "angebissen!"
+	text "Not even a nibble!"
 	prompt
 
 _NothingHereText::
-	text "Hier findet man"
-	line "nichts. Schade!"
+	text "Looks like there's"
+	line "nothing here."
 	prompt
 
 _ItsABiteText::
-	text "Oh! Da hat etwas"
-	line "angebissen!!!"
+	text "Oh!"
+	line "It's a bite!"
 	prompt
 
 _ExclamationText::
@@ -40,122 +37,112 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Irgendwo hat"
-	line "sich der Boden"
-	cont "gehoben!"
+	text "Ground rose up"
+	line "somewhere!"
 	done
 
 _BoulderText::
-	text "Du benötigst"
-	line "STÄRKE, um den"
-	cont "Fels zu bewegen!"
+	text "This requires"
+	line "STRENGTH to move!"
 	done
 
 _MartSignText::
-	text "Wir erfüllen alle"
-	line "Item-Wünsche!"
-
-	para "PKMN-SUPERMARKT"
+	text "All your item"
+	line "needs fulfilled!"
+	cont "#MON MART"
 	done
 
 _PokeCenterSignText::
-	text "Erfrische Deine"
-	line "#MON! "
-
-	para "PKMN-CENTER"
+	text "Heal Your #MON!"
+	line "#MON CENTER"
 	done
 
 _FoundItemText::
-	text "<PLAYER> findet..."
+	text "<PLAYER> found"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _NoMoreRoomForItemText::
-	text "Du kannst keine"
-	line "weiteren Items"
-	cont "tragen!"
+	text "No more room for"
+	line "items!"
 	done
 
 _OaksAideHiText::
-	text "Hallo! Erinnerst"
-	line "Du Dich? Ich bin"
-	cont "PROF. EICHS"
-	cont "Gehilfe!"
+	text "Hi! Remember me?"
+	line "I'm PROF.OAK's"
+	cont "AIDE!"
 
-	para "Wenn Du"
-	line "mindestens @"
+	para "If you caught @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	cont "verschiedene"
-	cont "#MON gefangen"
-	cont "hast, habe ich"
-	cont "ein Geschenk für"
-	cont "Dich: @"
+	line "kinds of #MON,"
+	cont "I'm supposed to"
+	cont "give you an"
+	cont "@"
 	text_ram wOaksAideRewardItemName
-	text_start
+	text "!"
 
-	para "Also, <PLAYER>, "
-	line "hast Du @"
+	para "So, <PLAYER>! Have"
+	line "you caught at"
+	cont "least @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text_start
-	cont "unterschiedliche"
-	cont "#MON gefangen?"
+	text " kinds of"
+	cont "#MON?"
 	done
 
 _OaksAideUhOhText::
-	text "Mal schauen..."
-	line "Oh! Du hast erst"
-	cont "@"
+	text "Let's see..."
+	line "Uh-oh! You have"
+	cont "caught only @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " verschiedene"
-	cont "#MON gefangen!"
+	text_start
+	cont "kinds of #MON!"
 
-	para "Du benötigst @"
+	para "You need @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text ","
-	line "um das Geschenk"
-	cont "zu erhalten."
+	text " kinds"
+	line "if you want the"
+	cont "@"
+	text_ram wOaksAideRewardItemName
+	text "."
 	done
 
 _OaksAideComeBackText::
-	text "Ich habe"
-	line "eine gute Idee."
+	text "Oh. I see."
 
-	para "Komm wieder, wenn"
-	line "Du @"
+	para "When you get @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " #MON"
-	cont "besitzt. Ich"
-	cont "hebe Dir Dein"
-	cont "Geschenk auf."
+	text_start
+	line "kinds, come back"
+	cont "for @"
+	text_ram wOaksAideRewardItemName
+	text "."
 	done
 
 _OaksAideHereYouGoText::
-	text "Super! Du hast"
-	line "@"
+	text "Great! You have"
+	line "caught @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " verschiedene"
-	cont "#MON gefangen!"
-	cont "Einfach klasse!"
+	text " kinds "
+	cont "of #MON!"
+	cont "Congratulations!"
 
-	para "Hier, das hast"
-	line "Du Dir redlich"
-	cont "verdient!"
+	para "Here you go!"
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> erhält"
+	text "<PLAYER> got the"
 	line "@"
 	text_ram wOaksAideRewardItemName
 	text "!@"
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! Du hast"
-	line "momentan keinen"
-	cont "Platz für den"
+	text "Oh! I see you"
+	line "don't have any"
+	cont "room for the"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."

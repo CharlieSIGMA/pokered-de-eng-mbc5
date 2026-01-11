@@ -1,140 +1,123 @@
 _ViridianForestYoungster1Text::
-	text "Meine Freunde und"
-	line "ich haben Dich"
-	cont "schon erwartet..."
+	text "I came here with"
+	line "some friends!"
 
-	para "Unsere #MON"
-	line "wollen kämpfen!!!"
+	para "They're out for"
+	line "#MON fights!"
 	done
 
 _ViridianForestYoungster2BattleText::
-	text "Hey! Du hast auch"
-	line "#MON! Los!"
-	cont "Laß uns kämpfen!"
+	text "Hey! You have"
+	line "#MON! Come on!"
+	cont "Let's battle'em!"
 	done
 
 _ViridianForestYoungster2EndBattleText::
-	text "Ah!"
-	line "RAUPY hat es"
-	cont "nicht geschafft!"
+	text "No!"
+	line "CATERPIE can't"
+	cont "cut it!"
 	prompt
 
 _ViridianForestYoungster2AfterBattleText::
-	text "Psst! Sei leise!"
-	line "Du verjagst"
-	cont "alle Käfer..."
+	text "Ssh! You'll scare"
+	line "the bugs away!"
 	done
 
 _ViridianForestYoungster3BattleText::
-	text "Hey! Ein #MON-"
-	line "Trainer stiehlt"
-	cont "sich nicht so"
-	cont "einfach davon!!!"
+	text "Yo! You can't jam"
+	line "out if you're a"
+	cont "#MON trainer!"
 	done
 
 _ViridianForestYoungster3EndBattleText::
-	text "Oh!"
-	line "Ich habe kein"
-	cont "kampfbereites"
-	cont "#MON mehr!"
+	text "Huh?"
+	line "I ran out of"
+	cont "#MON!"
 	prompt
 
 _ViridianForestYoungster3AfterBattleText::
-	text "So ein Mist! Ich"
-	line "muß ein paar"
-	cont "Stärkere fangen!"
+	text "Darn! I'm going"
+	line "to catch some"
+	cont "stronger ones!"
 	done
 
 _ViridianForestYoungster4BattleText::
-	text "Hey, warte mal!"
-	line "Warum die Eile?"
+	text "Hey, wait up!"
+	line "What's the hurry?"
 	done
 
 _ViridianForestYoungster4EndBattleText::
-	text "Uff!"
-	line "Du bist zu gut!"
-	cont "Ich gebe auf!"
+	text "I"
+	line "give! You're good"
+	cont "at this!"
 	prompt
 
 _ViridianForestYoungster4AfterBattleText::
-	text "Mit ein bißchen"
-	line "Glück findet man"
-	cont "unterwegs Items!"
+	text "Sometimes, you"
+	line "can find stuff on"
+	cont "the ground!"
 
-	para "Ich muß hier"
-	line "irgendwo etwas"
-	cont "verloren haben..."
+	para "I'm looking for"
+	line "the stuff I"
+	cont "dropped!"
 	done
 
 _ViridianForestYoungster5Text::
-	text "Verdammt!"
-	line "Mir sind die"
-	cont "#BÄLLE"
-	cont "ausgegangen!"
+	text "I ran out of #"
+	line "BALLs to catch"
+	cont "#MON with!"
 
-	para "Wie fange ich nun"
-	line "bloß #MON?"
-
-	para "Du solltest immer"
-	line "genug #BÄLLE"
-	cont "bei Dir haben!"
+	para "You should carry"
+	line "extras!"
 	done
 
 _ViridianForestTrainerTips1Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Wenn Du Kämpfe"
-	line "meiden möchtest,"
-	cont "bleibe hohem"
-	cont "Gras fern!"
+	para "If you want to"
+	line "avoid battles,"
+	cont "stay away from"
+	cont "grassy areas!"
 	done
 
 _ViridianForestUseAntidoteSignText::
-	text "Bei Vergiftungen"
-	line "hat sich das"
-	cont "GEGENGIFT aus dem"
-	cont "PKMN-SUPERMARKT"
-	cont "bewährt."
+	text "For poison, use"
+	line "ANTIDOTE! Get it"
+	cont "at #MON MARTs!"
 	done
 
 _ViridianForestTrainerTips2Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Du kannst Deinen"
-	line "#DEX jederzeit"
-	cont "von PROF. EICH"
-	cont "via PC bewerten"
-	cont "lassen!"
+	para "Contact PROF.OAK"
+	line "via PC to get"
+	cont "your #DEX"
+	cont "evaluated!"
 	done
 
 _ViridianForestTrainerTips3Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Es ist verboten,"
-	line "anderen Trainern"
-	cont "#MON zu"
-	cont "stehlen! Fang nur"
-	cont "wilde #MON!"
+	para "No stealing of"
+	line "#MON from"
+	cont "other trainers!"
+	cont "Catch only wild"
+	cont "#MON!"
 	done
 
 _ViridianForestTrainerTips4Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Geschwächte"
-	line "#MON sind"
-	cont "leichter zu"
-	cont "fangen!"
+	para "Weaken #MON"
+	line "before attempting"
+	cont "capture!"
 
-	para "Sind sie bei"
-	line "Kräften, könnten"
-	cont "sie fliehen!"
+	para "When healthy,"
+	line "they may escape!"
 	done
 
 _ViridianForestLeavingSignText::
-	text "AUF WIEDERSEHEN"
-	line "IM VERTANIA-WALD."
-
-	para "DER NÄCHSTE ORT"
-	line "IST MARMORIA"
-	cont "CITY."
+	text "LEAVING"
+	line "VIRIDIAN FOREST"
+	cont "PEWTER CITY AHEAD"
 	done

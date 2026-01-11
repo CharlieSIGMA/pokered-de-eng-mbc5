@@ -1,45 +1,39 @@
 _PokemonMansionB1FBurglarBattleText::
-	text "Wo bin ich hier"
-	line "gelandet?"
+	text "Uh-oh. Where am"
+	line "I now?"
 	done
 
 _PokemonMansionB1FBurglarEndBattleText::
-	text "Autsch!"
+	text "Awooh!"
 	prompt
 
 _PokemonMansionB1FBurglarAfterBattleText::
-	text "Hier liegt viel"
-	line "nützliches Zeug"
-	cont "herum!"
+	text "You can find stuff"
+	line "lying around."
 	done
 
 _PokemonMansionB1FScientistBattleText::
-	text "Hier wäre der"
-	line "ideale Platz für"
-	cont "ein Labor!"
+	text "This place is"
+	line "ideal for a lab."
 	done
 
 _PokemonMansionB1FScientistEndBattleText::
-	text "Was hab"
-	line "ich nur falsch"
-	cont "gemacht?"
+	text "What"
+	line "was that for?"
 	prompt
 
 _PokemonMansionB1FScientistAfterBattleText::
-	text "Hier gefällt es"
-	line "mir! Man kann"
-	cont "prima forschen!"
+	text "I like it here!"
+	line "It's conducive to"
+	cont "my studies!"
 	done
 
 _PokemonMansionB1FDiaryText::
-	text "TAGEBUCH:"
-	line "1. SEPTEMBER"
+	text "Diary; Sept. 1"
+	line "MEWTWO is far too"
+	cont "powerful."
 
-	para "MEWTU wird immer"
-	line "stärker."
-
-	para "Wir konnten die"
-	line "unkontrollierten"
-	cont "Wutausbrüche"
-	cont "nicht eindämmen!"
+	para "We have failed to"
+	line "curb its vicious"
+	cont "tendencies..."
 	done

@@ -1,130 +1,119 @@
 _MtMoon1FHikerBattleText::
-	text "Hilfe! Überfall!"
-	line "Ach, Du bist ja"
-	cont "nur ein Kind!"
+	text "WHOA! You shocked"
+	line "me! Oh, you're"
+	cont "just a kid!"
 	done
 
 _MtMoon1FHikerEndBattleText::
-	text "Wow! Du"
-	line "hast mich total"
-	cont "überrumpelt!!!"
+	text "Wow!"
+	line "Shocked again!"
 	prompt
 
 _MtMoon1FHikerAfterBattleText::
-	text "Hier ist kein"
-	line "Spielplatz. Zieh"
-	cont "Leine, Kleiner!"
+	text "Kids like you"
+	line "shouldn't be"
+	cont "here!"
 	done
 
 _MtMoon1FYoungster1BattleText::
-	text "Bist Du auch auf"
-	line "Forschungsreise?"
+	text "Did you come to"
+	line "explore too?"
 	done
 
 _MtMoon1FYoungster1EndBattleText::
-	text "So ein"
-	line "Mist! Verloren!"
+	text "Losing"
+	line "stinks!"
 	prompt
 
 _MtMoon1FYoungster1AfterBattleText::
-	text "Ich bin hier, weil"
-	line "die Mädchen auf"
-	cont "harte Kerle wie"
-	cont "mich stehen!"
+	text "I came down here"
+	line "to show off to"
+	cont "girls."
 	done
 
 _MtMoon1FCooltrainerF1BattleText::
-	text "Wow, hier drinnen"
-	line "kann man sich"
-	cont "leicht verlaufen!"
+	text "Wow! It's way"
+	line "bigger in here"
+	cont "than I thought!"
 	done
 
 _MtMoon1FCooltrainerF1EndBattleText::
-	text "Nein! Ich"
-	line "habe verloren!"
+	text "Oh!"
+	line "I lost it!"
 	prompt
 
 _MtMoon1FCooltrainerF1AfterBattleText::
-	text "Wie kommt man"
-	line "hier bloß wieder"
-	cont "heraus?"
+	text "How do you get"
+	line "out of here?"
 	done
 
 _MtMoon1FSuperNerdBattleText::
-	text "Hey! Schleich"
-	line "nicht so herum!"
+	text "What! Don't sneak"
+	line "up on me!"
 	done
 
 _MtMoon1FSuperNerdEndBattleText::
-	text "Meine"
-	line "#MON bringen"
-	cont "es nicht!"
+	text "My"
+	line "#MON won't do!"
 	prompt
 
 _MtMoon1FSuperNerdAfterBattleText::
-	text "Ich muß stärkere"
-	line "#MON fangen!"
+	text "I have to find"
+	line "stronger #MON."
 	done
 
 _MtMoon1FCooltrainerF2BattleText::
-	text "Was gib",$b3,"'s? Meine"
-	line "Kumpels müßten"
-	cont "gleich hier sein."
+	text "What? I'm waiting"
+	line "for my friends to"
+	cont "find me here."
 	done
 
 _MtMoon1FCooltrainerF2EndBattleText::
-	text "Ich hab"
-	line "verloren?"
+	text "I lost?"
 	prompt
 
 _MtMoon1FCooltrainerF2AfterBattleText::
-	text "Gerüchten zufolge"
-	line "soll es hier sehr"
-	cont "seltene Fossilien"
-	cont "geben."
+	text "I heard there are"
+	line "some very rare"
+	cont "fossils here."
 	done
 
 _MtMoon1FYoungster2BattleText::
-	text "Wer da? Wohin man"
-	line "schaut: Überall"
-	cont "nur zwielichtige"
-	cont "Gestalten!"
+	text "Suspicious men"
+	line "are in the cave."
+	cont "What about you?"
 	done
 
 _MtMoon1FYoungster2EndBattleText::
-	text "Du"
-	line "hast mich eiskalt"
-	cont "erwischt!"
+	text "You"
+	line "got me!"
 	prompt
 
 _MtMoon1FYoungster2AfterBattleText::
-	text "Ohne Zweifel! Die"
-	line "Typen waren vom"
+	text "I saw them! I'm"
+	line "sure they're from"
 	cont "TEAM ROCKET!"
 	done
 
 _MtMoon1FYoungster3BattleText::
-	text "Du erreichst"
-	line "AZURIA CITY, wenn"
-	cont "Du es durch diese"
-	cont "Höhle schaffst!"
+	text "Go through this"
+	line "cave to get to"
+	cont "CERULEAN CITY!"
 	done
 
 _MtMoon1FYoungster3EndBattleText::
-	text "Ich"
-	line "hab verloren..."
+	text "I"
+	line "lost."
 	prompt
 
 _MtMoon1FYoungster3AfterBattleText::
-	text "ZUBAT ist recht"
-	line "widerspenstig,"
-	cont "kann im Kampf"
-	cont "jedoch sehr"
-	cont "nützlich sein!"
+	text "ZUBAT is tough!"
+	line "But, it can be"
+	cont "useful if you"
+	cont "catch one."
 	done
 
 _MtMoon1FBewareZubatSign::
-	text "Sei vorsichtig!"
-	line "ZUBAT ist ein"
-	cont "Blutsauger!"
+	text "Beware! ZUBAT is"
+	line "a blood sucker!"
 	done

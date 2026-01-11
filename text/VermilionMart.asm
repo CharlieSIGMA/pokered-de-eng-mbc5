@@ -1,27 +1,23 @@
 _VermilionMartCooltrainerMText::
-	text "Es gibt böse"
-	line "Menschen, die"
-	cont "#MON für"
-	cont "Verbrechen"
-	cont "mißbrauchen."
+	text "There are evil"
+	line "people who will"
+	cont "use #MON for"
+	cont "criminal acts."
 
-	para "Das TEAM ROCKET"
-	line "macht mit"
-	cont "seltenen #MON"
-	cont "Geschäfte."
+	para "TEAM ROCKET"
+	line "traffics in rare"
+	cont "#MON."
 
-	para "Die #MON, die"
-	line "ihrer Meinung"
-	cont "nach nicht selten"
-	cont "genug sind,"
-	cont "werden von"
-	cont "ihnen ausgesetzt."
+	para "They also abandon"
+	line "#MON that they"
+	cont "consider not to"
+	cont "be popular or"
+	cont "useful."
 	done
 
 _VermilionMartCooltrainerFText::
-	text "#MON können"
-	line "gut oder böse"
-	cont "sein. Das hängt"
-	cont "ganz von ihrem"
-	cont "Trainer ab!"
+	text "I think #MON"
+	line "can be good or"
+	cont "evil. It depends"
+	cont "on the trainer."
 	done

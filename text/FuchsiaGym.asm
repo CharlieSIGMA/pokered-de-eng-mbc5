@@ -1,28 +1,26 @@
 _FuchsiaGymKogaBeforeBattleText::
-	text "KOGA: Hahaha!"
+	text "KOGA: Fwahahaha!"
 
-	para "Ein Kind fordert"
-	line "einen Ninja-"
-	cont "Meister zum"
-	cont "Kampf heraus?"
+	para "A mere child like"
+	line "you dares to"
+	cont "challenge me?"
 
-	para "Wie Du willst!"
-	line "Erlebe eine Welt"
-	cont "des Schreckens,"
-	cont "bevor ich Dich"
-	cont "besiege!"
+	para "Very well, I"
+	line "shall show you"
+	cont "true terror as a"
+	cont "ninja master!"
 
-	para "An meinen"
-	line "Schlaf- und Gift-"
-	cont "Attacken sollst"
-	cont "Du verzweifeln!"
+	para "You shall feel"
+	line "the despair of"
+	cont "poison and sleep"
+	cont "techniques!"
 	done
 
 _FuchsiaGymKogaReceivedSoulBadgeText::
-	text "Na sowas!"
-	line "Du bist ein"
-	cont "würdiger Kämpfer!"
+	text "Humph!"
+	line "You have proven"
+	cont "your worth!"
 
-	para "Ich reiche Dir"
-	line "den SEELENORDEN!"
+	para "Here! Take the"
+	line "SOULBADGE!"
 	prompt

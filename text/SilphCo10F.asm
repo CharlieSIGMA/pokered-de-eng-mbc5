@@ -1,48 +1,42 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Hilfe!"
-	line "Ich habe Angst!"
+	text "Waaaaa!"
+	cont "I'm scared!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Verrate bitte"
-	line "niemandem, daß"
-	cont "ich geweint habe!"
+	text "Please keep quiet"
+	line "about my crying!"
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Willkommen im"
-	line "9. Stock! Es ist"
-	cont "nett, daß Du mal"
-	cont "vorbeischaust!"
+	text "Welcome to the"
+	line "10F! So good of"
+	cont "you to join me!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "Ich bin"
-	line "geschockt!"
+	text "I'm"
+	line "stunned!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Netter Versuch!"
-	line "Der Sitzungssaal"
-	cont "befindet sich"
-	cont "aber noch ein"
-	cont "Stockwerk höher!"
+	text "Nice try, but the"
+	line "boardroom is up"
+	cont "one more floor!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Genug von Deinen"
-	line "dummen Spielchen!"
+	text "Enough of your"
+	line "silly games!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "Meine"
-	line "Reserven sind"
-	cont "erschöpft!"
+	text "No"
+	line "continues left!"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Freut es Dich,"
-	line "mich besiegt zu"
-	cont "haben? Mann, hau"
-	cont "endlich ab!"
+	text "Are you satisfied"
+	line "with beating me?"
+	cont "Then go on home!"
 	done

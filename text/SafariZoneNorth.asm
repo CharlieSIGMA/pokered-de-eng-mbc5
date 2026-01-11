@@ -1,36 +1,33 @@
 _SafariZoneNorthRestHouseSignText::
-	text "RASTHAUS"
+	text "REST HOUSE"
 	done
 
 _SafariZoneNorthTrainerTips1Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Bis zum GEHEIMEN"
-	line "HAUS ist es nicht"
-	cont "mehr weit weg!"
+	para "The SECRET HOUSE"
+	line "is still ahead!"
 	done
 
 _SafariZoneNorthSignText::
-	text "AREAL 2"
+	text "AREA 2"
 	done
 
 _SafariZoneNorthTrainerTips2Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "#MON"
-	line "verstecken sich"
-	cont "in hohem Gras!"
+	para "#MON hide in"
+	line "tall grass!"
 
-	para "Laufe durch das"
-	line "hohe Gras und"
-	cont "scheuche sie auf!"
+	para "Zigzag through"
+	line "grassy areas to"
+	cont "flush them out."
 	done
 
 _SafariZoneNorthTrainerTips3Text::
-	text "TIPS FÜR TRAINER"
+	text "TRAINER TIPS"
 
-	para "Finde das"
-	line "VERSTECKTE HAUS."
-	cont "Dann gewinnst Du"
-	cont "eine VM!"
+	para "Win a free HM for"
+	line "finding the"
+	cont "SECRET HOUSE!"
 	done

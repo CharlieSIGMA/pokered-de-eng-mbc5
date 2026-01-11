@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db "ITEM AUFNEHMEN"
-	next "ITEM ABLEGEN"
-	next "ITEM WEGWERFEN"
-	next "AUSLOGGEN@"
+	db   "WITHDRAW ITEM"
+	next "DEPOSIT ITEM"
+	next "TOSS ITEM"
+	next "LOG OFF@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

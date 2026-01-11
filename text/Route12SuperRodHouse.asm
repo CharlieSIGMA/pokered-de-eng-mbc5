@@ -1,24 +1,23 @@
 _Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
-	text "Mein Bruder ist"
-	line "der PROFI-ANGLER!"
+	text "I'm the FISHING"
+	line "GURU's brother!"
 
-	para "Ich liebe den"
-	line "Angelsport!"
+	para "I simply Looove"
+	line "fishing!"
 
-	para "Möchtest Du auch"
-	line "angeln?"
+	para "Do you like to"
+	line "fish?"
 	done
 
 _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
-	text "Cool! Du bist mir"
-	line "sympathisch!"
+	text "Grand! I like"
+	line "your style!"
 
-	para "Nimm das hier und"
-	line "genieße das"
-	cont "Anglerleben!"
+	para "Take this and"
+	line "fish, young one!"
 
-	para "<PLAYER> erhält"
-	line "eine @"
+	para "<PLAYER> received"
+	line "a @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -26,43 +25,38 @@ _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
-	para "Angeln ist nicht"
-	line "nur ein Sport, es"
-	cont "ist eine Kunst!"
+	para "Fishing is a way"
+	line "of life!"
 
-	para "Nun ziehe los,"
-	line "um den großen"
-	cont "Fang zu landen!"
+	para "From the seas to"
+	line "rivers, go out"
+	cont "and land the big"
+	cont "one!"
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh! Das ist so"
-	line "enttäuschend..."
+	text "Oh... That's so"
+	line "disappointing..."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::
-	text "Hallo,"
+	text "Hello there,"
 	line "<PLAYER>!"
 
-	para "Benutze die"
-	line "SUPERANGEL in"
-	cont "allen Gewässern."
-	cont "Du kannst die"
-	cont "verschiedensten"
-	cont "#MON damit"
-	cont "fangen!"
+	para "Use the SUPER ROD"
+	line "in any water!"
+	cont "You can catch"
+	cont "different kinds"
+	cont "of #MON."
 
-	para "Gehe angeln, wann"
-	line "immer die Zeit es"
-	cont "erlaubt!"
+	para "Try fishing"
+	line "wherever you can!"
 	done
 
 _Route12SuperRodHouseFishingGuruNoRoomText::
-	text "Oh nein!"
+	text "Oh no!"
 
-	para "Ich habe ein"
-	line "Geschenk für"
-	cont "Dich! Aber Du"
-	cont "kannst nichts"
-	cont "mehr tragen!"
+	para "I had a gift for"
+	line "you, but you have"
+	cont "no room for it!"
 	done

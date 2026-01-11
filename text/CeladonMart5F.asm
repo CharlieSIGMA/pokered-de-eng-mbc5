@@ -1,32 +1,28 @@
 _CeladonMart5FGentlemanText::
-	text "Nur hier kannst"
-	line "Du leistungs-"
-	cont "fördernde Mittel"
-	cont "für Deine #MON"
-	cont "kaufen!"
+	text "#MON ability"
+	line "enhancers can be"
+	cont "bought only here."
 
-	para "KALZIUM steigert"
-	line "die Stärke von"
-	cont "SPEZIAL-ATTACKEN!"
+	para "Use CALCIUM to"
+	line "increase SPECIAL"
+	cont "abilities."
 
-	para "CARBON erhöht die"
-	line "INITIATIVE."
+	para "Use CARBOS to"
+	line "increase SPEED."
 	done
 
 _CeladonMart5FSailorText::
-	text "Ich bin wegen"
-	line "der leistungs-"
-	cont "fördernden Mittel"
-	cont "für #MON hier."
+	text "I'm here for"
+	line "#MON ability"
+	cont "enhancers."
 
-	para "PROTEIN steigert"
-	line "die ANGRIFFS-"
-	cont "STÄRKE."
+	para "PROTEIN increases"
+	line "ATTACK power."
 
-	para "EISEN stärkt die"
-	line "ABWEHR!"
+	para "IRON increases"
+	line "DEFENSE!"
 	done
 
 _CeladonMart5FCurrentFloorSignText::
-	text "S4: DROGERIE"
+	text "5F: DRUG STORE"
 	done

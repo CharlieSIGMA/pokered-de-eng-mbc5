@@ -1,10 +1,6 @@
 _Route2TradeHouseScientistText::
-	text "Auch wenn ein"
-	line "#MON"
-	cont "ausscheidet,"
-	cont "kann es weiter"
-	cont "Spezial-Techniken"
-	cont "wie zum Beispiel"
-	cont "den ZERSCHNEIDER"
-	cont "anwenden!"
+	text "A fainted #MON"
+	line "can't fight. But, "
+	cont "it can still use "
+	cont "moves like CUT!"
 	done

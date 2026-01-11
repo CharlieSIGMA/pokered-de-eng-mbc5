@@ -1,65 +1,58 @@
 _Route18CooltrainerM1BattleText::
-	text "Ich laufe überall"
-	line "durch hohes Gras,"
-	cont "um #MON"
-	cont "aufzuspüren!"
+	text "I always check"
+	line "every grassy area"
+	cont "for new #MON."
 	done
 
 _Route18CooltrainerM1EndBattleText::
-	text ""
-	line "Also sowas!"
+	text "Tch!"
 	prompt
 
 _Route18CooltrainerM1AfterBattleText::
-	text "Wenn ich nur ein"
-	line "FAHRRAD hätte!"
+	text "I wish I had a"
+	line "BIKE!"
 	done
 
 _Route18CooltrainerM2BattleText::
-	text "Guruguu!"
-	line "Wie klingt mein"
-	cont "Vogellockruf?"
+	text "Kurukkoo!"
+	line "How do you like"
+	cont "my bird call?"
 	done
 
 _Route18CooltrainerM2EndBattleText::
-	text "Ich"
-	line "mußte mit Dir"
-	cont "kämpfen!"
+	text "I"
+	line "had to bug you!"
 	prompt
 
 _Route18CooltrainerM2AfterBattleText::
-	text "Am Wochenende"
-	line "sammle ich immer"
-	cont "WASSER-#MON!"
+	text "I also collect sea"
+	line "#MON on"
+	cont "weekends!"
 	done
 
 _Route18CooltrainerM3BattleText::
-	text "Das hier ist mein"
-	line "Gebiet! Sieh zu,"
-	cont "daß Du Land"
-	cont "gewinnst!"
+	text "This is my turf!"
+	line "Get out of here!"
 	done
 
 _Route18CooltrainerM3EndBattleText::
-	text ""
-	line "Verdammt!"
+	text "Darn!"
 	prompt
 
 _Route18CooltrainerM3AfterBattleText::
-	text "Hier habe ich"
-	line "sehr gerne"
-	cont "#MON gejagt!"
+	text "This is my fave"
+	line "#MON hunting"
+	cont "area!"
 	done
 
 _Route18SignText::
 	text "ROUTE 18"
-	line "PRISMANIA CITY -"
-	cont "FUCHSANIA CITY"
+	line "CELADON CITY -"
+	cont "FUCHSIA CITY"
 	done
 
 _Route18CyclingRoadSignText::
-	text "Das Betreten des"
-	line "RADWEGES ist"
-	cont "Fußgängern"
-	cont "untersagt!"
+	text "CYCLING ROAD"
+	line "No pedestrians"
+	cont "permitted!"
 	done

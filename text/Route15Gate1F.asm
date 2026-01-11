@@ -1,9 +1,7 @@
 _Route15Gate1FGuardText::
-	text "Arbeitest Du an"
-	line "einem #DEX?"
+	text "Are you working"
+	line "on a #DEX?"
 
-	para "PROF. EICHS"
-	line "Gehilfe ist"
-	cont "kürzlich hier"
-	cont "vorbeigekommen!"
+	para "PROF.OAK's AIDE"
+	line "came by here."
 	done

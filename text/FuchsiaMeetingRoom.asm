@@ -1,30 +1,26 @@
 _FuchsiaMeetingRoomSafariZoneWorker1::
-	text "Der WÄRTER trägt"
-	line "den Spitznamen"
-	cont "FLEGMON."
+	text "We nicknamed the"
+	line "WARDEN SLOWPOKE."
 
-	para "Er und FLEGMON"
-	line "ähneln sich sehr!"
+	para "He and SLOWPOKE"
+	line "both look vacant!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker2::
-	text "FLEGMON weiß"
-	line "eine Menge über"
-	cont "#MON!"
+	text "SLOWPOKE is very"
+	line "knowledgeable"
+	cont "about #MON!"
 
-	para "Er besitzt sogar"
-	line "einige Fossilien"
-	cont "ausgestorbener"
-	cont "URZEIT-#MON!"
+	para "He even has some"
+	line "fossils of rare,"
+	cont "extinct #MON!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "FLEGMON war hier,"
-	line "aber ich habe ihn"
-	cont "nicht verstehen"
-	cont "können!"
+	text "SLOWPOKE came in,"
+	line "but I couldn't"
+	cont "understand him."
 
-	para "Ich glaube, er"
-	line "hat keine Zähne"
-	cont "mehr!"
+	para "I think he's got"
+	line "a speech problem!"
 	done

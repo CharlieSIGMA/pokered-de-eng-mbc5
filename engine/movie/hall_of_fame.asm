@@ -92,7 +92,7 @@ AnimateHallOfFame:
 	ret
 
 HallOfFameText:
-	db "RUHMESHALLE@"
+	db "HALL OF FAME@"
 
 HoFShowMonOrPlayer:
 	call ClearScreen
@@ -179,8 +179,8 @@ HoFDisplayMonInfo:
 
 HoFMonInfoText:
 	db   "LEVEL/"
-	next "TYP1/"
-	next "TYP2/@"
+	next "TYPE1/"
+	next "TYPE2/@"
 
 HoFLoadPlayerPics:
 	ld de, RedPicFront
@@ -251,10 +251,10 @@ HoFPrintTextAndDelay:
 	jp DelayFrames
 
 HoFPlayTimeText:
-	db "SPIELZEIT@"
+	db "PLAY TIME@"
 
 HoFMoneyText:
-	db "GELD@"
+	db "MONEY@"
 
 DexSeenOwnedText:
 	text_far _DexSeenOwnedText

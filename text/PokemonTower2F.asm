@@ -1,64 +1,57 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
-	text "<RIVAL>: Hallo,"
-	line "<PLAYER>! Was"
-	cont "machst Du hier?"
-	cont "Deine #MON"
-	cont "sehen ganz fit"
-	cont "aus!"
+	text "<RIVAL>: Hey,"
+	line "<PLAYER>! What"
+	cont "brings you here?"
+	cont "Your #MON"
+	cont "don't look dead!"
 
-	para "Naja, nach dem"
-	line "Kampf wird es"
-	cont "anders aussehen!"
+	para "I can at least"
+	line "make them faint!"
+	cont "Let's go, pal!"
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "Was?"
-	line "Du bist eine"
-	cont "harte Nuß!"
+	text "What?"
+	line "You stinker!"
 
-	para "Ich bin es wohl"
-	line "etwas zu locker"
-	cont "angegangen!"
+	para "I took it easy on"
+	line "you too!"
 	prompt
 
 _PokemonTower2FRivalVictoryText::
-	text "<RIVAL>: Deine"
-	line "#MON sind"
-	cont "nicht in Form!"
+	text "<RIVAL>: Well,"
+	line "look at all your"
+	cont "wimpy #MON!"
 
-	para "Trainiere sie ein"
-	line "bißchen härter!"
+	para "Toughen them up a"
+	line "bit more!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::
-	text "Wie macht sich"
-	line "Dein #DEX,"
-	cont "Kumpel? Ich habe"
-	cont "kürzlich ein"
-	cont "TRAGOSSO"
-	cont "gefangen!"
+	text "How's your #DEX"
+	line "coming, pal?"
+	cont "I just caught a"
+	cont "CUBONE!"
 
-	para "Allerdings habe"
-	line "ich noch kein"
-	cont "KNOGGA!"
+	para "I can't find the"
+	line "grown-up MAROWAK"
+	cont "yet!"
 
-	para "Ich glaube, von"
-	line "diesen #MON"
-	cont "gibt es nur noch"
-	cont "wenige. Also, ich"
-	cont "habe viel zu tun!"
-	cont "Ich muß weiter!"
+	para "I doubt there are"
+	line "any left! Well, I"
+	cont "better get going!"
+	cont "I've got a lot to"
+	cont "accomplish, pal!"
 
-	para "Dann bis später!"
+	para "Smell ya later!"
 	done
 
 _PokemonTower2FChannelerText::
-	text "Selbst wir können"
-	line "die eigenwilligen"
-	cont "GEISTER nicht"
-	cont "identifizieren!"
+	text "Even we could not"
+	line "identify the"
+	cont "wayward GHOSTs!"
 
-	para "Man benötigt das"
-	line "SILPH SCOPE, um"
-	cont "sie zu erkennen!"
+	para "A SILPH SCOPE"
+	line "might be able to"
+	cont "unmask them."
 	done

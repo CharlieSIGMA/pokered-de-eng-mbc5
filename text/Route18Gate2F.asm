@@ -1,15 +1,15 @@
 _Route18Gate2FLeftBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Im Westen liegt"
-	line "ALABASTIA!"
+	para "PALLET TOWN is in"
+	line "the west!"
 	done
 
 _Route18Gate2FRightBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Dort drüben"
-	line "schwimmen Leute!"
+	para "There are people"
+	line "swimming!"
 	done

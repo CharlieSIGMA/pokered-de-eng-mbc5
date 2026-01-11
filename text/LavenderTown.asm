@@ -1,71 +1,64 @@
 _LavenderTownLittleGirlDoYouBelieveInGhostsText::
-	text "Glaubst Du an"
-	line "GEISTER?"
+	text "Do you believe in"
+	line "GHOSTs?"
 	done
 
 _LavenderTownLittleGirlSoThereAreBelieversText::
-	text "Echt? Hätte ich"
-	line "nicht gedacht!"
+	text "Really? So there"
+	line "are believers..."
 	done
 
 _LavenderTownLittleGirlHaHaGuessNotText::
-	text "Hahaha, natürlich"
-	line "nicht!"
+	text "Hahaha, I guess"
+	line "not."
 
-	para "Und diese weiße"
-	line "Hand da auf"
-	cont "Deiner Schulter"
-	cont "ist natürlich"
-	cont "nicht echt!"
+	para "That white hand"
+	line "on your shoulder,"
+	cont "it's not real."
 	done
 
 _LavenderTownCooltrainerMText::
-	text "Diese Stadt ist"
-	line "als Ruhestätte"
-	cont "für #MON"
-	cont "bekannt."
+	text "This town is known"
+	line "as the grave site"
+	cont "of #MON."
 
-	para "Im #MON-TURM"
-	line "werden Andachten"
-	cont "gehalten."
+	para "Memorial services"
+	line "are held in"
+	cont "#MON TOWER."
 	done
 
 _LavenderTownSuperNerdText::
-	text "GEISTER spuken"
-	line "im #MON-TURM."
+	text "GHOSTs appeared"
+	line "in #MON TOWER."
 
-	para "Ich glaube, das"
-	line "sind die Geister"
-	cont "jener #MON,"
-	cont "die das TEAM"
-	cont "ROCKET auf dem"
-	cont "Gewissen hat!"
+	para "I think they're"
+	line "the spirits of"
+	cont "#MON that the"
+	cont "ROCKETs killed."
 	done
 
 _LavenderTownSignText::
-	text "LAVANDIA"
-	line "Die edle,"
-	cont "violette Stadt!"
+	text "LAVENDER TOWN"
+	line "The Noble Purple"
+	cont "Town"
 	done
 
 _LavenderTownSilphScopeSignText::
-	text "SILPH SCOPE!"
+	text "New SILPH SCOPE!"
 
-	para "Macht das"
-	line "Unsichtbare"
-	cont "sichtbar!"
+	para "Make the Invisible"
+	line "Plain to See!"
 
 	para "SILPH CO."
 	done
 
 _LavenderTownPokemonHouseSignText::
-	text "LAVANDIA"
-	line "#MON-HAUS"
+	text "LAVENDER VOLUNTEER"
+	line "#MON HOUSE"
 	done
 
 _LavenderTownPokemonTowerSignText::
-	text "Mögen die Seelen"
-	line "der #MON im"
-	cont "#MON-TURM"
-	cont "in Frieden ruhen!"
+	text "May the Souls of"
+	line "#MON Rest Easy"
+	cont "#MON TOWER"
 	done

@@ -1,27 +1,25 @@
 _IndigoPlateauLobbyGymGuideText::
-	text "Hey! Warte, Du"
-	line "Champion in spe!"
+	text "Yo! Champ in"
+	line "making!"
 
-	para "In der PKMN-LIGA"
-	line "trittst Du gegen"
-	cont "die TOP VIER"
-	cont "nacheinander an."
+	para "At #MON LEAGUE,"
+	line "you have to face"
+	cont "the ELITE FOUR in"
+	cont "succession."
 
-	para "Wenn Du einen"
-	line "Kampf verlierst,"
-	cont "mußt Du ganz von"
-	cont "vorn beginnen!"
+	para "If you lose, you"
+	line "have to start all"
+	cont "over again! This"
+	cont "is it! Go for it!"
 	done
 
 _IndigoPlateauLobbyCooltrainerFText::
-	text "Ab jetzt triffst"
-	line "Du nacheinander"
-	cont "auf die TOP VIER!"
+	text "From here on, you"
+	line "face the ELITE"
+	cont "FOUR one by one!"
 
-	para "Wenn Du einen"
-	line "Kampf gewinnst,"
-	cont "wird der Weg zum"
-	cont "nächsten Trainer"
-	cont "freigegeben!"
-	cont "Viel Glück!"
+	para "If you win, a"
+	line "door opens to the"
+	cont "next trainer!"
+	cont "Good luck!"
 	done

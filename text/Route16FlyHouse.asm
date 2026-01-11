@@ -1,35 +1,32 @@
 _Route16FlyHouseBrunetteGirlText::
-	text "Du hast meinen"
-	line "geheimen Unter-"
-	cont "schlupf gefunden!"
+	text "Oh, you found my"
+	line "secret retreat!"
 
-	para "Bitte erzähle"
-	line "niemandem davon."
-	cont "Du bekommst auch"
-	cont "etwas von mir!"
+	para "Please don't tell"
+	line "anyone I'm here."
+	cont "I'll make it up"
+	cont "to you with this!"
 	prompt
 
 _Route16FlyHouseBrunetteGirlReceivedHM02Text::
-	text "<PLAYER> erhält"
-	line "VM02!@"
+	text "<PLAYER> received"
+	line "HM02!@"
 	text_end
 
 _Route16FlyHouseBrunetteGirlHM02ExplanationText::
-	text "VM02 ist FLIEGEN."
-	line "Damit kannst Du"
-	cont "in jede Stadt"
-	cont "zurückfliegen."
+	text "HM02 is FLY."
+	line "It will take you"
+	cont "back to any town."
 
-	para "Sie wird Dir von"
-	line "Nutzen sein!"
+	para "Put it to good"
+	line "use!"
 	done
 
 _Route16FlyHouseBrunetteGirlHM02NoRoomText::
-	text "Du hast keinen"
-	line "Platz mehr, um"
-	cont "sie mitzunehmen!"
+	text "You don't have any"
+	line "room for this."
 	done
 
 _Route16FlyHouseFearowText::
-	text "IBITAK: Ibitak!"
+	text "FEAROW: Kyueen!"
 	done

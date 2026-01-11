@@ -1,22 +1,21 @@
 _CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
-	text "Welches Getränk"
-	line "möchtest Du ihr"
-	cont "geben?"
+	text "Give her which"
+	line "drink?"
 	done
 
 _CeladonMartRoofLittleGirlYayFreshWaterText::
-	text "Ja!"
+	text "Yay!"
 
-	para "TAFELWASSER!"
+	para "FRESH WATER!"
 
-	para "Vielen Dank!"
+	para "Thank you!"
 
-	para "Nimm bitte dieses"
-	line "Geschenk!@"
+	para "You can have this"
+	line "from me!@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM13Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -27,27 +26,26 @@ _CeladonMartRoofLittleGirlTM13ExplanationText::
 
 	para "@"
 	text_ram wStringBuffer
-	text " ist"
-	line "EISSTRAHL!"
+	text " contains"
+	line "ICE BEAM!"
 
-	para "Damit kann man"
-	line "manche Gegner"
-	cont "einfrieren!@"
+	para "It can freeze the"
+	line "target sometimes!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYaySodaPopText::
-	text "Cool!"
+	text "Yay!"
 
-	para "SPRUDEL!"
+	para "SODA POP!"
 
-	para "Vielen Dank!"
+	para "Thank you!"
 
-	para "Nimm bitte dieses"
-	line "Geschenk!@"
+	para "You can have this"
+	line "from me!@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM48Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -58,107 +56,97 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 
 	para "@"
 	text_ram wStringBuffer
-	text " ist"
-	line "STEINHAGEL!"
+	text " contains"
+	line "ROCK SLIDE!"
 
-	para "Damit kann man"
-	line "manchen Gegnern"
-	cont "Angst einjagen!@"
+	para "It can spook the"
+	line "target sometimes!@"
 	text_end
 
 _CeladonMartRoofLittleGirlYayLemonadeText::
-	text "Cool!"
+	text "Yay!"
 
-	para "LIMONADE!"
+	para "LEMONADE!"
 
-	para "Vielen Dank!"
+	para "Thank you!"
 
-	para "Nimm bitte dieses"
-	line "Geschenk!@"
+	para "You can have this"
+	line "from me!@"
 	text_end
 
 _CeladonMartRoofLittleGirlReceivedTM49Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received"
 	line "TM49!@"
 	text_end
 
 _CeladonMartRoofLittleGirlTM49ExplanationText::
 	text_start
 
-	para "TM49 ist"
-	line "TRIPLETTE!@"
+	para "TM49 contains"
+	line "TRI ATTACK!@"
 	text_end
 
 _CeladonMartRoofLittleGirlNoRoomText::
-	text "Du hast keinen"
-	line "Platz dafür!@"
+	text "You don't have"
+	line "space for this!@"
 	text_end
 
 _CeladonMartRoofLittleGirlImNotThirstyText::
-	text "Das ist nett"
-	line "gemeint, aber ich"
-	cont "habe keinen"
-	cont "Durst!@"
+	text "No thank you!"
+	line "I'm not thirsty"
+	cont "after all!@"
 	text_end
 
 _CeladonMartRoofSuperNerdText::
-	text "Ob Du es glaubst"
-	line "oder nicht: Meine"
-	cont "Schwester ist"
-	cont "eine Trainerin!"
+	text "My sister is a"
+	line "trainer, believe"
+	cont "it or not."
 
-	para "Aber sie ist so"
-	line "kindisch! Ich"
-	cont "werde noch ganz"
-	cont "verrückt!"
+	para "But, she's so"
+	line "immature, she"
+	cont "drives me nuts!"
 	done
 
 _CeladonMartRoofLittleGirlImThirstyText::
-	text "Ich bin durstig!"
-	line "Ein Königreich"
-	cont "für ein Getränk!"
+	text "I'm thirsty!"
+	line "I want something"
+	cont "to drink!"
 	done
 
 _CeladonMartRoofLittleGirlGiveHerADrinkText::
-	text "Ich bin durstig!"
-	line "Ich möchte etwas"
-	cont "trinken!"
+	text "I'm thirsty!"
+	line "I want something"
+	cont "to drink!"
 
-	para "Gibst Du dem"
-	line "Mädchen ein"
-	cont "Getränk?"
+	para "Give her a drink?"
 	done
 
-
 _CeladonMartRoofCurrentFloorSignText::
-	text "DACHGARTEN:"
-	line "AUTOMATEN"
+	text "ROOFTOP SQUARE:"
+	line "VENDING MACHINES"
 	done
 
 _VendingMachineText1::
-	text "Ein Automat! Zur"
-	line "Auswahl stehen:"
+	text "A vending machine!"
+	line "Here's the menu!"
 	prompt
 
 _VendingMachineText4::
-	text "Ups, nicht genug"
-	line "Geld!"
+	text "Oops, not enough"
+	line "money!"
 	done
 
 _VendingMachineText5::
-	text "Eine Flasche"
-	line "@"
 	text_ram wStringBuffer
-	text " liegt"
-	cont "im Schacht!"
+	text_start
+	line "popped out!"
 	done
 
 _VendingMachineText6::
-	text "Du kannst keine"
-	line "weiteren Items"
-	cont "tragen!"
+	text "There's no more"
+	line "room for stuff!"
 	done
 
 _VendingMachineText7::
-	text "Kein Durst!"
+	text "Not thirsty!"
 	done

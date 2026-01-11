@@ -1,16 +1,14 @@
 _SeafoamIslandsB4FArticunoBattleText::
-	text "Jauul!@"
+	text "Gyaoo!@"
 	text_end
 
 _SeafoamIslandsB4FBouldersSignText::
-	text "Felsen könnten"
-	line "die Strömung"
-	cont "vielleicht"
-	cont "umlenken!"
+	text "Boulders might"
+	line "change the flow"
+	cont "of water!"
 	done
 
 _SeafoamIslandsB4FDangerSignText::
-	text "VORSICHT!"
-	line "GEFÄHRLICHE"
-	cont "STRÖMUNG!"
+	text "DANGER"
+	line "Fast current!"
 	done

@@ -1,184 +1,155 @@
 _Route20Swimmer1BattleText::
-	text "Das Wasser ist"
-	line "hier sehr flach."
+	text "The water is"
+	line "shallow here."
 	done
 
 _Route20Swimmer1EndBattleText::
-	text ""
-	line "Platsch!"
+	text "Splash!"
 	prompt
 
 _Route20Swimmer1AfterBattleText::
-	text "Ich wünschte, ich"
-	line "könnte auf einem"
-	cont "#MON reiten."
+	text "I wish I could"
+	line "ride my #MON."
 	done
 
 _Route20Swimmer2BattleText::
-	text "Die"
-	line "SEESCHAUMINSELN"
-	cont "sind ein stiller"
-	cont "Zufluchtsort!"
+	text "SEAFOAM is a"
+	line "quiet getaway!"
 	done
 
 _Route20Swimmer2EndBattleText::
-	text ""
-	line "Schluß damit!"
+	text "Quit it!"
 	prompt
 
 _Route20Swimmer2AfterBattleText::
-	text "Unter dieser"
-	line "Insel befindet"
-	cont "sich eine riesige"
-	cont "Höhle!"
+	text "There's a huge"
+	line "cavern underneath"
+	cont "this island."
 	done
 
 _Route20Swimmer3BattleText::
-	text "Ich lasse mich"
-	line "gerne mit den"
-	cont "Fischen treiben!"
+	text "I love floating"
+	line "with the fishes!"
 	done
 
 _Route20Swimmer3EndBattleText::
-	text "Autsch!"
+	text "Yowch!"
 	prompt
 
 _Route20Swimmer3AfterBattleText::
-	text "Möchtest Du mir"
-	line "Gesellschaft"
-	cont "leisten?"
+	text "Want to float"
+	line "with me?"
 	done
 
 _Route20Swimmer4BattleText::
-	text "Machst Du auch"
-	line "gerade Urlaub?"
+	text "Are you on"
+	line "vacation too?"
 	done
 
 _Route20Swimmer4EndBattleText::
-	text "Du"
-	line "kennst keine"
-	cont "Gnade!"
+	text "No"
+	line "mercy at all!"
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "Die"
-	line "SEESCHAUMINSELN"
-	cont "waren einmal EINE"
-	cont "große Insel!"
+	text "SEAFOAM used to"
+	line "be one island!"
 	done
 
 _Route20Swimmer5BattleText::
-	text "Schau Dir meinen"
-	line "gestählten Körper"
-	cont "ruhig an!"
+	text "Check out my buff"
+	line "physique!"
 	done
 
 _Route20Swimmer5EndBattleText::
-	text ""
-	line "Waschlappen!"
+	text "Wimpy!"
 	prompt
 
 _Route20Swimmer5AfterBattleText::
-	text "Ich hätte meine"
-	line "#MON stählen"
-	cont "sollen, nicht"
-	cont "meinen Körper!"
+	text "I should've been"
+	line "buffing up my"
+	cont "#MON, not me!"
 	done
 
 _Route20Swimmer6BattleText::
-	text "Warum reitest Du"
-	line "auf dem #MON?"
-	cont "Kannst Du nicht"
-	cont "schwimmen?"
+	text "Why are you"
+	line "riding a #MON?"
+	cont "Can't you swim?"
 	done
 
 _Route20Swimmer6EndBattleText::
-	text "Ich"
-	line "wurde torpediert!"
+	text "Ouch!"
+	line "Torpedoed!"
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Es dürfte Spaß"
-	line "machen, auf einem"
-	cont "#MON zu"
-	cont "reiten!"
+	text "Riding a #MON"
+	line "sure looks fun!"
 	done
 
 _Route20CooltrainerMBattleText::
-	text "Mein"
-	line "VOGEL-#MON"
-	cont "hat mich hierher"
-	cont "getragen!"
+	text "I rode my bird"
+	line "#MON here!"
 	done
 
 _Route20CooltrainerMEndBattleText::
-	text ""
-	line "Oh nein!"
+	text "Oh"
+	line "no!"
 	prompt
 
 _Route20CooltrainerMAfterBattleText::
-	text "Kann ich mit"
-	line "meinen VOGEL-"
-	cont "#MON noch"
-	cont "zurückfliegen?"
+	text "My birds can't"
+	line "FLY me back!"
 	done
 
 _Route20Swimmer7BattleText::
-	text "Mein Freund hat"
-	line "mir eine große"
-	cont "Perle geschenkt!"
+	text "My boy friend gave"
+	line "me big pearls!"
 	done
 
 _Route20Swimmer7EndBattleText::
-	text ""
-	line "Laß die Finger"
-	cont "von meiner Perle!"
+	text "Don't"
+	line "touch my pearls!"
 	prompt
 
 _Route20Swimmer7AfterBattleText::
-	text "Ob meine Perle"
-	line "in einem AUSTOS"
-	cont "größer würde?"
+	text "Will my pearls"
+	line "grow bigger"
+	cont "inside CLOYSTER?"
 	done
 
 _Route20Swimmer8BattleText::
-	text "Ich bin von der"
-	line "ZINNOBERINSEL"
-	cont "herüber-"
-	cont "geschwommen!"
+	text "I swam here from"
+	line "CINNABAR ISLAND!"
 	done
 
 _Route20Swimmer8EndBattleText::
-	text "Ich"
-	line "bin enttäuscht!"
+	text "I'm"
+	line "so disappointed!"
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "Auf der"
-	line "ZINNOBERINSEL"
-	cont "haben #MON"
-	cont "eine verlassene"
-	cont "Villa besiedelt!"
+	text "#MON have"
+	line "taken over an"
+	cont "abandoned mansion"
+	cont "on CINNABAR!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "Auf der"
-	line "ZINNOBERINSEL"
-	cont "befindet sich ein"
-	cont "#MON-LABOR."
+	text "CINNABAR, in the"
+	line "west, has a LAB"
+	cont "for #MON."
 	done
 
 _Route20Swimmer9EndBattleText::
-	text "Warte!"
+	text "Wait!"
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "Die"
-	line "ZINNOBERINSEL ist"
-	cont "ein vulkanisches"
-	cont "Eiland!"
+	text "CINNABAR is a "
+	line "volcanic island!"
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "SEESCHAUMINSELN"
+	text "SEAFOAM ISLANDS"
 	done

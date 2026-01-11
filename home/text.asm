@@ -183,7 +183,7 @@ PlacePKMNText::   db "<PK><MN>@"
 TMCharText::      db "TM@"
 TrainerCharText:: db "TRAINER@"
 PlacePOKeText::   db "POKé@"
-EnemyText::       db "Gegn. @"
+EnemyText::       db "Enemy @"
 
 ContText::
 	push de

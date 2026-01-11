@@ -1,51 +1,43 @@
 _Route12Gate2FBrunetteGirlYouCanHaveThisText::
-	text "Meine #MON"
-	line "wurden im"
-	cont "#MON-TURM zur"
-	cont "letzten Ruhe"
-	cont "gebettet."
+	text "My #MON's"
+	line "ashes are stored"
+	cont "in #MON TOWER."
 
-	para "Ich gebe Dir"
-	line "diese TM. Ich"
-	cont "benötige sie"
-	cont "nicht länger..."
+	para "You can have this"
+	line "TM. I don't need"
+	cont "it any more..."
 	prompt
 
 _Route12Gate2FBrunetteGirlReceivedTM39Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received"
 	line "TM39!@"
 	text_end
 
 _Route12Gate2FBrunetteGirlTM39ExplanationText::
-	text "TM39 ist"
-	line "STERNSCHAUER."
+	text "TM39 is a move"
+	line "called SWIFT."
 
-	para "STERNSCHAUER ist"
-	line "eine treffsichere"
-	cont "Technik, die in"
-	cont "wichtigen Kämpfen"
-	cont "von großem Nutzen"
-	cont "sein kann!"
+	para "It's very accurate,"
+	line "so use it during"
+	cont "battles you can't"
+	cont "afford to lose."
 	done
 
 _Route12Gate2FBrunetteGirlTM39NoRoomText::
-	text "Oh, Du kannst sie"
-	line "im Moment nicht"
-	cont "tragen."
+	text "You don't have"
+	line "room for this."
 	done
 
 _Route12Gate2FLeftBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Du siehst einen"
-	line "angelnden Mann!"
+	para "A man fishing!"
 	done
 
 _Route12Gate2FRightBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Du siehst den"
-	line "#MON-TURM!"
+	para "It's #MON TOWER!"
 	done

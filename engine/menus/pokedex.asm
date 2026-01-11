@@ -360,19 +360,19 @@ DrawPokedexVerticalLine:
 	ret
 
 PokedexSeenText:
-	db "GES@"
+	db "SEEN@"
 
 PokedexOwnText:
-	db "BES@"
+	db "OWN@"
 
 PokedexContentsText:
-	db "INHALT@"
+	db "CONTENTS@"
 
 PokedexMenuItemsText:
 	db   "DATA"
-	next "RUF"
-	next "GEB."
-	next "ZUR.@"
+	next "CRY"
+	next "AREA"
+	next "QUIT@"
 
 ; tests if a pokemon's bit is set in the seen or owned pokemon bit fields
 ; INPUT:
@@ -515,23 +515,22 @@ ShowPokedexDataInternal:
 	jp z, .waitForButtonPress ; if the pokemon has not been owned, don't print the height, weight, or description
 	inc de ; de = address of feet (height)
 	ld a, [de] ; reads feet, but a is overwritten without being used
-	push af
-	hlcoord 13, 6
-	lb bc, 1, 3
+	hlcoord 12, 6
+	lb bc, 1, 2
 	call PrintNumber ; print feet (height)
-	hlcoord 14, 6
-	pop af
-	cp $a
-	jr nc, .func_43d7
-	ld [hl], $F6
-.func_43d7
-	inc hl
-	ld a, [hli]
-	ldd [hl], a
-	ld [hl], $F2
-	inc de
+	ld a, '′'
+	ld [hl], a
 	inc de
 	inc de ; de = address of inches (height)
+	hlcoord 15, 6
+	lb bc, LEADING_ZEROES | 1, 2
+	call PrintNumber ; print inches (height)
+	ld a, '″'
+	ld [hl], a
+; now print the weight (note that weight is stored in tenths of pounds internally)
+	inc de
+	inc de
+	inc de ; de = address of upper byte of weight
 	push de
 ; put weight in big-endian order at hDexWeight
 	ld hl, hDexWeight
@@ -545,8 +544,8 @@ ShowPokedexDataInternal:
 	ld a, [de] ; a = lower byte of weight
 	ld [hl], a ; store lower byte of weight in [hDexWeight + 1]
 	ld de, hDexWeight
-	hlcoord 12, 8
-	lb bc, 2, 4 ; 2 bytes, 4 digits
+	hlcoord 11, 8
+	lb bc, 2, 5 ; 2 bytes, 5 digits
 	call PrintNumber ; print weight
 	hlcoord 14, 8
 	ldh a, [hDexWeight + 1]
@@ -591,8 +590,8 @@ ShowPokedexDataInternal:
 	ret
 
 HeightWeightText:
-	db   "GR.  ???<M>"
-	next "GEW  ???<K><G>@"
+	db   "HT  ?′??″"
+	next "WT   ???lb@"
 
 ; leftover from JPN Pokedex, where species have the suffix "Pokemon"
 PokeText: ; unreferenced

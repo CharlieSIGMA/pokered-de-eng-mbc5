@@ -1,18 +1,14 @@
 _FuchsiaMartMiddleAgedManText::
-	text "Du hast einen"
-	line "Wimpel aus der"
-	cont "SAFARI-ZONE?"
+	text "Do you have a"
+	line "SAFARI ZONE flag?"
 
-	para "Kein Programmheft"
-	line "oder einen"
-	cont "Kalender?"
+	para "What about cards"
+	line "or calendars?"
 	done
 
 _FuchsiaMartCooltrainerFText::
-	text "Hast Du schon"
-	line "einmal X-TEMPO"
-	cont "ausprobiert?"
-	cont "Dein #MON"
-	cont "wird dadurch im"
-	cont "Kampf schneller!"
+	text "Did you try X"
+	line "SPEED? It speeds"
+	cont "up a #MON in"
+	cont "battle!"
 	done

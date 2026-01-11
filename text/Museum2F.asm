@@ -1,45 +1,36 @@
 _Museum2FYoungsterText::
-	text "MONDSTEIN?"
+	text "MOON STONE?"
 
-	para "Was ist daran"
-	line "so einzigartig?"
+	para "What's so special"
+	line "about it?"
 	done
 
 _Museum2FGrampsText::
-	text "Der"
-	line "20. Juli 1969!"
+	text "July 20, 1969!"
 
-	para "Die erste"
-	line "Mondlandung!"
+	para "The 1st lunar"
+	line "landing!"
 
-	para "Für die Fernseh-"
-	line "übertragung hatte"
-	cont "ich extra einen"
-	cont "Farbfernseher"
-	cont "gekauft!"
+	para "I bought a color"
+	line "TV to watch it!"
 	done
 
 _Museum2FScientistText::
-	text "Momentan haben"
-	line "wir eine"
-	cont "Raumfahrt-"
-	cont "Ausstellung."
+	text "We have a space"
+	line "exhibit now."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "Ich hätte gerne"
-	line "ein PIKACHU!"
-	cont "Es ist so"
-	cont "furchtbar süß!"
+	text "I want a PIKACHU!"
+	line "It's so cute!"
 
-	para "Mein Papa soll"
-	line "mir eines fangen!"
+	para "I asked my Daddy"
+	line "to catch me one!"
 	done
 
 _Museum2FHikerText::
-	text "Ja, ein PIKACHU!"
-	line "Ich verspreche,"
-	cont "ich fange eins!"
+	text "Yeah, a PIKACHU"
+	line "soon, I promise!"
 	done
 
 _Museum2FSpaceShuttleSignText::
@@ -48,8 +39,7 @@ _Museum2FSpaceShuttleSignText::
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Auf dem MONDBERG"
-	line "gefundenes"
-	cont "Meteoritengestein"
-	cont "(MONDSTEIN?)"
+	text "Meteorite that"
+	line "fell on MT.MOON."
+	cont "(MOON STONE?)"
 	done

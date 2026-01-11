@@ -1,11 +1,9 @@
 _DiglettsCaveRoute2FishingGuruText::
-	text "Im FELSTUNNEL ist"
-	line "es stockdunkel"
-	cont "und furchtbar"
-	cont "gruselig!"
+	text "I went to ROCK"
+	line "TUNNEL, but it's"
+	cont "dark and scary."
 
-	para "Wenn nur ein"
-	line "#MON mit einem"
-	cont "BLITZ für Licht"
-	cont "sorgen könnte..."
+	para "If a #MON's"
+	line "FLASH could light"
+	cont "it up..."
 	done

@@ -1,12 +1,10 @@
 _CinnabarMartSilphWorkerFText::
-	text "Haben sie kein"
-	line "X-ANGRIFF? Es ist"
-	cont "in Kämpfen sehr"
-	cont "nützlich!"
+	text "Don't they have X"
+	line "ATTACK? It's good"
+	cont "for battles!"
 	done
 
 _CinnabarMartScientistText::
-	text "Man sollte immer"
-	line "einige Items bei"
-	cont "sich tragen!"
+	text "It never hurts to"
+	line "have extra items!"
 	done

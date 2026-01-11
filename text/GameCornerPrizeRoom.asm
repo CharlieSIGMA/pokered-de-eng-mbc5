@@ -1,15 +1,12 @@
 _GameCornerPrizeRoomBaldingGuyText::
-	text "Ich hätte gerne"
-	line "einen PORYGON!"
+	text "I sure do fancy"
+	line "that PORYGON!"
 
-	para "Aber ich habe"
-	line "kein Glück an"
-	cont "den einarmigen"
-	cont "Banditen!"
+	para "But, it's hard to"
+	line "win at slots!"
 	done
 
 _GameCornerPrizeRoomGamblerText::
-	text "Ich hatte"
-	line "heute eine"
-	cont "Glückssträhne!"
+	text "I had a major"
+	line "haul today!"
 	done

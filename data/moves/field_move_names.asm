@@ -1,11 +1,11 @@
 ; see also FieldMoveDisplayData
 FieldMoveNames:
-	db "ZERSCHNEIDER@"
-	db "FLIEGEN@"
+	db "CUT@"
+	db "FLY@"
 	db "@"
-	db "SURFER@"
-	db "STÄRKE@"
-	db "BLITZ@"
-	db "SCHAUFLER@"
+	db "SURF@"
+	db "STRENGTH@"
+	db "FLASH@"
+	db "DIG@"
 	db "TELEPORT@"
-	db "WEICHEI@"
+	db "SOFTBOILED@"

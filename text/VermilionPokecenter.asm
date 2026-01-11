@@ -1,21 +1,19 @@
 _VermilionPokecenterFishingGuruText::
-	text "Auch wenn sie den"
-	line "gleichen Level"
-	cont "haben, können die"
-	cont "Fähigkeiten von"
-	cont "#MON trotzdem"
-	cont "verschieden sein."
+	text "Even if they are"
+	line "the same level,"
+	cont "#MON can have"
+	cont "very different"
+	cont "abilities."
 
-	para "Das #MON eines"
-	line "Trainers ist"
-	cont "stärker als ein"
-	cont "wildlebendes."
+	para "A #MON raised"
+	line "by a trainer is"
+	cont "stronger than one"
+	cont "in the wild."
 	done
 
 _VermilionPokecenterSailorText::
-	text "Mein #MON"
-	line "wurde vergiftet!"
-	cont "Das Gift hat es"
-	cont "lange nach dem"
-	cont "Kampf besiegt!"
+	text "My #MON was"
+	line "poisoned! It"
+	cont "fainted while we"
+	cont "were walking!"
 	done

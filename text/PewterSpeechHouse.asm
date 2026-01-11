@@ -1,23 +1,19 @@
 _PewterSpeechHouseGamblerText::
-	text "Mit wachsender"
-	line "Erfahrung lernen"
-	cont "#MON neue"
-	cont "Attacken!"
+	text "#MON learn new"
+	line "techniques as"
+	cont "they grow!"
 
-	para "Manche Attacken"
-	line "kann ihnen jedoch"
-	cont "nur ein Trainer"
-	cont "beibringen!"
+	para "But, some moves"
+	line "must be taught by"
+	cont "the trainer!"
 	done
 
 _PewterSpeechHouseYoungsterText::
-	text "#MON sind"
-	line "einfacher zu"
-	cont "fangen, wenn sie"
-	cont "verletzt sind"
-	cont "oder schlafen!"
+	text "#MON become"
+	line "easier to catch"
+	cont "when they are"
+	cont "hurt or asleep!"
 
-	para "Trotzdem"
-	line "gibt es keine"
-	cont "Erfolgsgarantie!"
+	para "But, it's not a"
+	line "sure thing!"
 	done

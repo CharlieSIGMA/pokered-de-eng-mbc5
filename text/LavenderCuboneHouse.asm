@@ -1,27 +1,25 @@
 _LavenderCuboneHouseCuboneText::
-	text "TRAGOSSO:"
-	line "Kiajahuu!@"
+	text "CUBONE: Kyarugoo!@"
 	text_end
 
 _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
-	text "Ich hasse dieses"
-	line "furchtbare TEAM"
-	cont "ROCKET!"
+	text "I hate those"
+	line "horrible ROCKETs!"
 
-	para "Die arme Mutter"
-	line "des TRAGOSSO!"
+	para "That poor CUBONE's"
+	line "mother..."
 
-	para "Sie konnte dem"
-	line "TEAM ROCKET"
-	cont "nicht entkommen!"
+	para "It was killed"
+	line "trying to escape"
+	cont "from TEAM ROCKET!"
 	done
 
 _LavenderCuboneHouseBrunetteGirlGhostIsGoneText::
-	text "Der GEIST im"
-	line "#MON-TURM"
-	cont "ist verschwunden!"
+	text "The GHOST of"
+	line "#MON TOWER is"
+	cont "gone!"
 
-	para "Jemand muß seine"
-	line "rastlose Seele"
-	cont "erlöst haben!"
+	para "Someone must have"
+	line "soothed its"
+	cont "restless soul!"
 	done

@@ -1,29 +1,27 @@
 _SaffronPidgeyHouseBrunetteGirlText::
-	text "...vielen Dank"
-	line "für Deinen Brief!"
-	cont "Bis bald..."
+	text "Thank you for"
+	line "writing. I hope"
+	cont "to see you soon!"
 
-	para "Hey! Lies meinen"
-	line "Brief nicht!"
+	para "Hey! Don't look"
+	line "at my letter!"
 	done
 
 _SaffronPidgeyHousePidgeyText::
-	text "TAUBSI: Taubsi!@"
+	text "PIDGEY: Kurukkoo!@"
 	text_end
 
 _SaffronPidgeyHouseYoungsterText::
-	text "Ich mag die"
-	line "NACHAHMERIN!"
-	cont "Ich kaufe ihr"
-	cont "eine #PUPPE!"
+	text "The COPYCAT is"
+	line "cute! I'm getting"
+	cont "her a # DOLL!"
 	done
 
 _SaffronPidgeyHousePaperText::
-	text "Ich habe ein"
-	line "AP-PLUS geschenkt"
-	cont "bekommen!"
+	text "I was given a PP"
+	line "UP as a gift."
 
-	para "Es erhöht die"
-	line "ANGRIFFSPUNKTE"
-	cont "einer Attacke!"
+	para "It's used for"
+	line "increasing the PP"
+	cont "of techniques!"
 	done

@@ -1,265 +1,231 @@
 _SaffronGymSabrinaText::
-	text "Eine Vision hat"
-	line "mir Deine Ankunft"
-	cont "vorausgesagt!"
+	text "I had a vision of"
+	line "your arrival!"
 
-	para "Ich beherrsche"
-	line "die PSYCHOKINESE,"
-	cont "seit ich ein Kind "
-	cont "war."
+	para "I have had psychic"
+	line "powers since I"
+	cont "was a child."
 
-	para "Zunächst habe ich"
-	line "gelernt, mit"
-	cont "PSYCHOKINESE"
-	cont "Löffel"
-	cont "zu verbiegen."
+	para "I first learned"
+	line "to bend spoons"
+	cont "with my mind."
 
-	para "Ich verabscheue"
-	line "den Kampf!"
-	cont "Aber wenn Du es"
-	cont "wünschst, beweise"
-	cont "ich Dir meine"
-	cont "Kräfte!"
+	para "I dislike fight-"
+	line "ing, but if you"
+	cont "wish, I will show"
+	cont "you my powers!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "Ich bin"
-	line "erschüttert!"
-	cont "Aber verloren ist"
-	cont "verloren."
+	text "I'm"
+	line "shocked!"
+	cont "But, a loss is a"
+	cont "loss."
 
-	para "Ich muß gestehen,"
-	line "ich habe mich"
-	cont "nicht allzusehr"
-	cont "angestrengt!"
+	para "I admit I didn't"
+	line "work hard enough"
+	cont "to win!"
 
-	para "Ich schenke Dir"
-	line "den SUMPFORDEN!@"
+	para "You earned the"
+	line "MARSHBADGE!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Theoretisch"
-	line "könnte jeder die"
-	cont "PSYCHOKINESE"
-	cont "erlernen. Viele"
-	cont "wissen es nur"
-	cont "nicht!"
+	text "Everyone has"
+	line "psychic power!"
+	cont "People just don't"
+	cont "realize it!"
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "Der SUMPFORDEN"
-	line "läßt #MON bis"
-	cont "Level 70 Deinen"
-	cont "Befehlen folgen!"
+	text "The MARSHBADGE"
+	line "makes #MON up"
+	cont "to L70 obey you!"
 
-	para "Stärkere #MON"
-	line "könnten sich Dir"
-	cont "widersetzen und"
-	cont "Deine Befehle"
-	cont "ignorieren!"
+	para "Stronger #MON"
+	line "will become wild,"
+	cont "ignoring your"
+	cont "orders in battle!"
 
-	para "Achte darauf, daß"
-	line "Du Deine #MON"
-	cont "jederzeit unter"
-	cont "Kontrolle hast!"
+	para "Just don't raise"
+	line "your #MON too"
+	cont "much!"
 
-	para "Warte! Nimm noch"
-	line "diese TM von mir!"
+	para "Wait, please take"
+	line "this TM with you!"
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
-	text "<PLAYER> erhält"
+	text "<PLAYER> received"
 	line "TM46!@"
 	text_end
 
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 ist"
-	line "PSYWELLE!"
-	cont "Sie macht sich"
-	cont "übernatürliche"
-	cont "Strömungen"
-	cont "zunutze!"
+	para "TM46 is PSYWAVE!"
+	line "It uses powerful"
+	cont "psychic waves to"
+	cont "inflict damage!"
 	done
 
 _SaffronGymSabrinaTM46NoRoomText::
-	text "Dein Rucksack"
-	line "ist zu voll!"
+	text "Your pack is full"
+	line "of other items!"
 	done
 
 _SaffronGymGuideChampInMakingText::
-	text "Hey! Warte, Du"
-	line "Champion in spe!"
+	text "Yo! Champ in"
+	line "making!"
 
-	para "Die #MON von"
-	line "SABRINA benutzen"
-	cont "PSYCHOKINESE"
-	cont "anstelle von"
-	cont "physischen"
-	cont "Kräften!"
+	para "SABRINA's #MON"
+	line "use psychic power"
+	cont "instead of force!"
 
-	para "KAMPF-#MON"
-	line "sind PSYCHOKINESE"
-	cont "nicht gewachsen!"
+	para "Fighting #MON"
+	line "are weak against"
+	cont "psychic #MON!"
 
-	para "Sie haben nicht"
-	line "einmal den Hauch"
-	cont "einer Chance!"
+	para "They get creamed"
+	line "before they can"
+	cont "even aim a punch!"
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "PSYCHOKINESE?"
+	text "Psychic power,"
+	line "huh?"
 
-	para "Wenn ich sie"
-	line "hätte, würde ich"
-	cont "in der Spielhalle"
-	cont "reich werden!"
+	para "If I had that,"
+	line "I'd make a bundle"
+	cont "at the slots!"
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA ist"
-	line "jünger als ich."
-	cont "Trotzdem habe ich"
-	cont "Respekt vor ihr!"
+	text "SABRINA is younger"
+	line "than I, but I"
+	cont "respect her!"
 	done
 
 _SaffronGymChanneler1EndBattleText::
-	text ""
-	line "Ich bin nicht"
-	cont "gut genug!"
+	text "Not"
+	line "good enough!"
 	prompt
 
 _SaffronGymChanneler1AfterBattleText::
-	text "Sind zwei Gegner"
-	line "gleich stark, so"
-	cont "wird der"
-	cont "entschlossenere"
-	cont "Kämpfer gewinnen!"
+	text "In a battle of"
+	line "equals, the one"
+	cont "with the stronger"
+	cont "will wins!"
 
-	para "Wenn Du SABRINA"
-	line "schlagen willst,"
-	cont "konzentriere Dich"
-	cont "auf den Sieg!"
+	para "If you wish"
+	line "to beat SABRINA,"
+	cont "focus on winning!"
 	done
 
 _SaffronGymYoungster1BattleText::
-	text "Machen Dir unsere"
-	line "PSYKRÄFTE Angst?"
+	text "Does our unseen"
+	line "power scare you?"
 	done
 
 _SaffronGymYoungster1EndBattleText::
-	text "Ich"
-	line "glaube es nicht:"
-	cont "Ich hab verloren!"
+	text "I never"
+	line "foresaw this!"
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "PSYCHO-#MON"
-	line "fürchten sich nur"
-	cont "vor Käfern und"
-	cont "Geistern!"
+	text "Psychic #MON"
+	line "fear only ghosts"
+	cont "and bugs!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON"
-	line "passen sich ihrem"
-	cont "Trainer an."
+	text "#MON take on"
+	line "the appearance of"
+	cont "their trainers."
 
-	para "Deine #MON"
-	line "müssen demnach"
-	cont "sehr zäh sein!"
+	para "Your #MON must"
+	line "be tough, then!"
 	done
 
 _SaffronGymChanneler2EndBattleText::
-	text "Ich"
-	line "wußte es!"
+	text "I knew"
+	line "it!"
 	prompt
 
 _SaffronGymChanneler2AfterBattleText::
-	text "Meine #MON"
-	line "müssen stärkere"
-	cont "Attacken lernen!"
+	text "I must teach"
+	line "better techniques"
+	cont "to my #MON!"
 	done
 
 _SaffronGymYoungster2BattleText::
-	text "Du weißt, daß man"
-	line "mit Stärke allein"
-	cont "nicht weit kommt,"
-	cont "oder?"
+	text "You know that"
+	line "power alone isn't"
+	cont "enough!"
 	done
 
 _SaffronGymYoungster2EndBattleText::
-	text "Das "
-	line "ist unfassbar!"
+	text "I don't"
+	line "believe this!"
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA hat den"
-	line "KARATE-MEISTER in"
-	cont "der ARENA nebenan"
-	cont "besiegt!"
+	text "SABRINA just wiped"
+	line "out the KARATE"
+	cont "MASTER next door!"
 	done
 
 _SaffronGymChanneler3BattleText::
-	text "Du gegen mich!"
-	line "Unsere #MON"
-	cont "sollen kämpfen!"
+	text "You and I, our"
+	line "#MON shall"
+	cont "fight!"
 	done
 
 _SaffronGymChanneler3EndBattleText::
-	text ""
-	line "Ich habe nun"
-	cont "doch verloren!"
+	text "I lost"
+	line "after all!"
 	prompt
 
 _SaffronGymChanneler3AfterBattleText::
-	text "Ich ahnte, daß es"
-	line "passieren würde!"
+	text "I knew that this"
+	line "was going to take"
+	cont "place."
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "Obwohl SABRINA"
-	line "noch jung ist,"
-	cont "ist sie unsere"
-	cont "ARENALEITERIN!"
+	text "SABRINA is young,"
+	line "but she's also"
+	cont "our LEADER!"
 
-	para "Wir lassen Dich"
-	line "nicht einfach so"
-	cont "zu ihr gehen!"
+	para "You won't reach"
+	line "her easily!"
 	done
 
 _SaffronGymYoungster3EndBattleText::
-	text "Ich habe"
-	line "die Konzentration"
-	cont "verloren!"
+	text "I lost"
+	line "my concentration!"
 	prompt
 
 _SaffronGymYoungster3AfterBattleText::
-	text "In SAFFRONIA CITY"
-	line "gab es zwei"
-	cont "PKMN-ARENEN."
+	text "There used to be"
+	line "2 #MON GYMs in"
+	cont "SAFFRON."
 
-	para "Allerdings hat"
-	line "der KAMPF-DOJO"
-	cont "den Status als"
-	cont "PKMN-ARENA"
-	cont "verloren, weil"
-	cont "wir die Trainer"
-	cont "besiegt haben!"
+	para "The FIGHTING DOJO"
+	line "next door lost"
+	cont "its GYM status"
+	cont "when we went and"
+	cont "creamed them!"
 	done
 
 _SaffronGymYoungster4BattleText::
-	text "Die #MON in"
-	line "der ARENA von"
-	cont "SAFFRONIA CITY"
-	cont "sind für ihre"
-	cont "übernatürlichen"
-	cont "Kräfte bekannt!"
+	text "SAFFRON #MON"
+	line "GYM is famous for"
+	cont "its psychics!"
 
-	para "Ich weiß, daß Du"
-	line "SABRINA heraus-"
-	cont "fordern möchtest!"
+	para "You want to see"
+	line "SABRINA!"
+	cont "I can tell!"
 	done
 
 _SaffronGymYoungster4EndBattleText::
@@ -267,6 +233,7 @@ _SaffronGymYoungster4EndBattleText::
 	prompt
 
 _SaffronGymYoungster4AfterBattleText::
-	text "Ich habe Deine"
-	line "Gedanken gelesen!"
+	text "That's right! I"
+	line "used telepathy to"
+	cont "read your mind!"
 	done

@@ -203,8 +203,8 @@ NamePointers2:
 	dw wDayCareMonName
 
 TypesIDNoOTText:
-	db   "TYP1/"
-	next "TYP2/"
+	db   "TYPE1/"
+	next "TYPE2/"
 	next "<ID>№/"
 	next "OT/"
 	next "@"
@@ -281,10 +281,10 @@ PrintStatsBox:
 	ret
 
 .StatsText:
-	db   "ANGR"
-	next "VERT"
-	next "INIT"
-	next "SPEZ@"
+	db   "ATTACK"
+	next "DEFENSE"
+	next "SPEED"
+	next "SPECIAL@"
 
 StatusScreen2:
 	ldh a, [hTileAnimations]
@@ -320,8 +320,8 @@ StatusScreen2:
 	ld b, a ; number of blank moves
 	hlcoord 11, 10
 	ld de, SCREEN_WIDTH * 2
-	ld a, 'A'
-	call StatusScreen_PrintAP ; Print "AP"
+	ld a, '<BOLD_P>'
+	call StatusScreen_PrintPP ; Print "PP"
 	ld a, b
 	and a
 	jr z, .InitPP
@@ -458,7 +458,7 @@ CalcExpToLevelUp:
 	ret
 
 StatusScreenExpText:
-	db   "EP-PUNKTE"
+	db   "EXP POINTS"
 	next "LEVEL UP@"
 
 StatusScreen_ClearName:

@@ -1,28 +1,24 @@
 _Route15Gate2FOaksAideExpAllText::
-	text "Mit dem EP-TEILER"
-	line "bekommen alle"
-	cont "#MON, die Du"
-	cont "mit Dir führst,"
-	cont "nach einem Kampf"
-	cont "EP."
+	text "EXP.ALL gives"
+	line "EXP points to all"
+	cont "the #MON with"
+	cont "you, even if they"
+	cont "don't fight."
 
-	para "Die EP werden"
-	line "nach dem Kampf"
-	cont "unter den #MON"
-	cont "aufgeteilt."
+	para "It does, however,"
+	line "reduce the amount"
+	cont "of EXP for each"
+	cont "#MON."
 
-	para "Lege den"
-	line "EP-TEILER via PC"
-	cont "ab, wenn Du ihn"
-	cont "nicht benutzen"
-	cont "möchtest."
+	para "If you don't need"
+	line "it, you should "
+	cont "store it via PC."
 	done
 
 _Route15Gate2FBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Hmm, das sieht"
-	line "wie eine kleine"
-	cont "Insel aus!"
+	para "It looks like a"
+	line "small island!"
 	done

@@ -1,45 +1,40 @@
 _Route11Gate2FOaksAideItemfinderDescriptionText::
-	text "Auf dem Boden"
-	line "liegen oft Items,"
-	cont "die man nicht"
-	cont "sehen kann."
+	text "There are items on"
+	line "the ground that"
+	cont "can't be seen."
 
-	para "Der DETEKTOR"
-	line "spürt Items in"
-	cont "Deiner Nähe auf!"
+	para "ITEMFINDER will"
+	line "detect an item"
+	cont "close to you."
 
-	para "Allerdings ortet"
-	line "er nicht die"
-	cont "exakte Position!"
-	cont "Du mußt Dich"
-	cont "gut umschauen!"
+	para "It can't pinpoint"
+	line "it, so you have"
+	cont "to look yourself!"
 	done
 
 _Route11Gate2FLeftBinocularsSnorlaxText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Mitten auf dem"
-	line "Weg schläft ein"
-	cont "großes #MON!"
+	para "A big #MON is"
+	line "asleep on a road!"
 	done
 
 _Route11Gate2FLeftBinocularsNoSnorlaxText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Du hast eine"
-	line "wunderschöne"
-	cont "Aussicht!"
+	para "It's a beautiful"
+	line "view!"
 	done
 
 _Route11Gate2FRightBinocularsText::
-	text "Du schaust durch"
-	line "das Fernrohr."
+	text "Looked into the"
+	line "binoculars."
 
-	para "Der einzige Weg"
-	line "von AZURIA CITY"
-	cont "nach LAVANDIA"
-	cont "führt durch den"
-	cont "FELSTUNNEL."
+	para "The only way to"
+	line "get from CERULEAN"
+	cont "CITY to LAVENDER"
+	cont "is by way of the"
+	cont "ROCK TUNNEL."
 	done

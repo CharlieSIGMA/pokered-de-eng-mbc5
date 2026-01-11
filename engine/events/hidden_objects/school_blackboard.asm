@@ -68,10 +68,10 @@ LinkCableHelpText2:
 	text_end
 
 HowToLinkText:
-	db   "LINK-INFO"
-	next "KOLOSSEUM"
-	next "HANDELSCENTER"
-	next "VERLASSEN@"
+	db   "HOW TO LINK"
+	next "COLOSSEUM"
+	next "TRADE CENTER"
+	next "STOP READING@"
 
 LinkCableInfoTexts:
 	dw LinkCableInfoText1
@@ -185,14 +185,14 @@ ViridianSchoolBlackboardText2:
 	text_end
 
 StatusAilmentText1:
-	db   " SLF"
-	next " GIF"
+	db   " SLP"
+	next " PSN"
 	next " PAR@"
 
 StatusAilmentText2:
-	db   " BRT"
-	next " GFR"
-	next " ZUR.@"
+	db   " BRN"
+	next " FRZ"
+	next " QUIT@"
 
 ViridianBlackboardStatusPointers:
 	dw ViridianBlackboardSleepText

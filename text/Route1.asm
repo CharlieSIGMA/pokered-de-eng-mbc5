@@ -1,56 +1,50 @@
 _Route1Youngster1MartSampleText::
-	text "Hi! Ich arbeite"
-	line "in einem"
-	cont "PKMN-SUPERMARKT."
+	text "Hi! I work at a"
+	line "#MON MART."
 
-	para "Wir verkaufen"
-	line "viele praktische"
-	cont "Dinge! Du findest"
-	cont "unseren Laden in"
-	cont "VERTANIA CITY."
+	para "It's a convenient"
+	line "shop, so please"
+	cont "visit us in"
+	cont "VIRIDIAN CITY."
 
-	para "Am besten gebe"
-	line "ich Dir ein"
-	cont "Werbegeschenk!"
-	cont "Hier, bitte!"
+	para "I know, I'll give"
+	line "you a sample!"
+	cont "Here you go!"
 	prompt
 
 _Route1Youngster1GotPotionText::
-	text "<PLAYER> erhält"
+	text "<PLAYER> got"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route1Youngster1AlsoGotPokeballsText::
-	text "Willst Du #MON"
-	line "fangen? Wir haben"
-	cont "auch #BÄLLE"
-	cont "im Sortiment!"
+	text "We also carry"
+	line "# BALLs for"
+	cont "catching #MON!"
 	done
 
 _Route1Youngster1NoRoomText::
-	text "Du kannst keine"
-	line "weiteren Items"
-	cont "mehr tragen!"
+	text "You have too much"
+	line "stuff with you!"
 	done
 
 _Route1Youngster2Text::
-	text "Siehst Du die"
-	line "Stufen hier?"
+	text "See those ledges"
+	line "along the road?"
 
-	para "Du kannst nicht"
-	line "hinaufklettern,"
-	cont "dafür aber"
-	cont "herunterspringen!"
+	para "It's a bit scary,"
+	line "but you can jump"
+	cont "from them."
 
-	para "So kommst Du viel"
-	line "schneller nach"
-	cont "ALABASTIA zurück."
+	para "You can get back"
+	line "to PALLET TOWN"
+	cont "quicker that way."
 	done
 
 _Route1SignText::
 	text "ROUTE 1"
-	line "ALABASTIA -"
-	cont "VERTANIA CITY"
+	line "PALLET TOWN -"
+	cont "VIRIDIAN CITY"
 	done

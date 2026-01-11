@@ -1,35 +1,31 @@
 _ViridianMartClerkSayHiToOakText::
-	text "OK! Grüße PROF."
-	line "EICH von mir!"
+	text "Okay! Say hi to"
+	line "PROF.OAK for me!"
 	done
 
 _ViridianMartClerkYouCameFromPalletTownText::
-	text "Hey! Kommst Du"
-	line "aus ALABASTIA?"
+	text "Hey! You came from"
+	line "PALLET TOWN?"
 	done
 
 _ViridianMartClerkParcelQuestText::
-	text "PROF. EICH"
-	line "schickt Dich,"
-	cont "oder?"
+	text "You know PROF."
+	line "OAK, right?"
 
-	para "Seine Bestellung"
-	line "ist angekommen!"
-	cont "Holst Du das"
-	cont "Paket für ihn ab?"
+	para "His order came in."
+	line "Will you take it"
+	cont "to him?"
 
-	para "<PLAYER> erhält"
-	line "EICHS PAKET!@"
+	para "<PLAYER> got"
+	line "OAK's PARCEL!@"
 	text_end
 
 _ViridianMartYoungsterText::
-	text "Dieser Laden"
-	line "führt viele"
-	cont "GEGENGIFTE."
+	text "This shop sells"
+	line "many ANTIDOTEs."
 	done
 
 _ViridianMartCooltrainerMText::
-	text "Tut mir leid!"
-	line "Alle TRÄNKE sind"
-	cont "ausverkauft!"
+	text "No! POTIONs are"
+	line "all sold out."
 	done

@@ -10,16 +10,16 @@ PrintStatusAilment::
 	jr nz, .par
 	and SLP_MASK
 	ret z
-	ld_hli_a_string "SLF"
+	ld_hli_a_string "SLP"
 	ret
 .psn
-	ld_hli_a_string "GIF"
+	ld_hli_a_string "PSN"
 	ret
 .brn
-	ld_hli_a_string "BRT"
+	ld_hli_a_string "BRN"
 	ret
 .frz
-	ld_hli_a_string "GFR"
+	ld_hli_a_string "FRZ"
 	ret
 .par
 	ld_hli_a_string "PAR"

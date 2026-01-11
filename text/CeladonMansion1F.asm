@@ -1,26 +1,26 @@
 _CeladonMansion1FMeowthText::
-	text "MAUZI: Miau!@"
+	text "MEOWTH: Meow!@"
 	text_end
 
 _CeladonMansion1FGrannyText::
-	text "Meine treuen"
-	line "#MON leisten"
-	cont "mir Gesellschaft."
+	text "My dear #MON"
+	line "keep me company."
 
-	para "MAUZI bringt"
-	line "sogar Geld mit"
-	cont "nach Hause!"
+	para "MEOWTH even brings"
+	line "money home!"
 	done
 
 _CeladonMansion1FClefairyText::
-	text "PIEPI: Pi pippi!@"
+	text "CLEFAIRY: Pi"
+	line "pippippi!@"
 	text_end
 
 _CeladonMansion1FNidoranFText::
-	text "NIDORAN: Nidoran!@"
+	text "NIDORAN: Kya"
+	line "kyaoo!@"
 	text_end
 
 _CeladonMansion1FManagersSuiteSignText::
-	text "PRISMANIA-VILLA"
-	line "Manager Suite"
+	text "CELADON MANSION"
+	line "Manager's Suite"
 	done
