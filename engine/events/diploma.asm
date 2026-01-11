@@ -36,7 +36,7 @@ DisplayDiploma::
 	pop bc
 	dec c
 	jr nz, .placeTextLoop
-	hlcoord 9, 6
+	hlcoord 10, 4
 	ld de, wPlayerName
 	call PlaceString
 	farcall DrawPlayerCharacter
@@ -91,10 +91,10 @@ ENDM
 
 DiplomaTextPointersAndCoords:
 	; x, y, text
-	diploma_text  6,  2, DiplomaText
-	diploma_text  2,  4, DiplomaPlayer1
-	diploma_text  2,  6, DiplomaPlayer2
-	diploma_text  2,  8, DiplomaCongrats
+	diploma_text  5,  2, DiplomaText
+	diploma_text  3,  4, DiplomaPlayer1
+	diploma_text  15,  4, DiplomaPlayer2
+	diploma_text  2,  6, DiplomaCongrats
 	diploma_text  9, 16, DiplomaGameFreak
 
 DiplomaText:

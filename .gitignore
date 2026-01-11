@@ -24,8 +24,12 @@
 
 # save game files
 *.sgm
+*.srm
 *.sav
 *.rtc
 *.sn*
 *.sa*
 *.sg1
+
+# other files
+*.bak
