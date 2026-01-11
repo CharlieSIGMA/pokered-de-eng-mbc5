@@ -141,7 +141,7 @@ Now you're ready to [build **pokered**](#build-pokered).
 To download the **pokered** source files:
 
 ```bash
-git clone https://github.com/pret/pokered
+git clone https://github.com/CharlieSIGMA/pokered-de-eng-mbc5
 cd pokered
 ```
 
