@@ -11,7 +11,7 @@ CableClub_DoBattleOrTrade:
 	call LoadTrainerInfoTextBoxTiles
 	hlcoord 3, 8
 	ld b, 2
-	ld c, 13
+	ld c, 12
 	call CableClub_TextBoxBorder
 	hlcoord 4, 10
 	ld de, PleaseWaitString
@@ -536,7 +536,7 @@ TradeCenter_SelectMon:
 	ld [wTradeCenterPointerTableIndex], a
 	jp CallCurrentTradeCenterFunction
 .statsTrade
-	db "STATUS    TAUSCH@"
+	db "STATS     TRADE@"
 .selectedCancelMenuItem
 	ld a, [wCurrentMenuItem]
 	ld b, a
@@ -599,20 +599,20 @@ ReturnToCableClubRoom:
 	ret
 
 TradeCenter_DrawCancelBox:
-	hlcoord 8, 15
+	hlcoord 11, 15
 	ld a, $7e
-	ld bc, 2 * SCREEN_WIDTH + 12
+	ld bc, 2 * SCREEN_WIDTH + 9
 	call FillMemory
 	hlcoord 0, 15
 	ld b, 1
-	ld c, 12
+	ld c, 9
 	call CableClub_TextBoxBorder
 	hlcoord 2, 16
 	ld de, CancelTextString
 	jp PlaceString
 
 CancelTextString:
-	db "ABBRECHEN@"
+	db "CANCEL@"
 
 TradeCenter_PlaceSelectedEnemyMonMenuCursor:
 	ld a, [wSerialSyncAndExchangeNybbleReceiveData]
